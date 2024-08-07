@@ -1,7 +1,8 @@
-package douban
+package douban_test
 
 import (
 	"encoding/json"
+	"github.com/heibizi/go-douban"
 	"os"
 	"testing"
 )
@@ -58,7 +59,7 @@ func TestDo(t *testing.T) {
 }
 
 func TestSearchSubjects(t *testing.T) {
-	d, err := newClient().SearchSubjects(Movie, "最新", 10, 0)
+	d, err := newClient().SearchSubjects(douban.Movie, "最新", 10, 0)
 	log(d, err, t)
 }
 
@@ -92,8 +93,8 @@ func TestVarietyHot(t *testing.T) {
 	log(d, err, t)
 }
 
-func newClient() *WebClient {
-	client := NewWebClient(cookie, ua)
+func newClient() *douban.WebClient {
+	client := douban.NewWebClient(cookie, ua)
 	return client
 }
 

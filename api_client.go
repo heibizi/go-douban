@@ -7,21 +7,18 @@ import (
 	"github.com/mitchellh/mapstructure"
 	"github.com/tidwall/gjson"
 	"io"
-	"math/rand"
 	"net/url"
 	"strings"
 	"time"
 )
 
-const apiKey = "0dad551ec0f84ed02907ff5c42e8ec70"
+const apiKey = "054022eaeae0b00e0fc068c0c0a2102a"
 const apiUrl = "https://frodo.douban.com/api/v2"
 const secretKey = "bf7dddc7c9cfe6f7"
 
-var userAgents = []string{
-	"api-client/1 com.douban.frodo/7.22.0.beta9(231) Android/23 product/Mate 40 vendor/HUAWEI model/Mate 40 brand/HUAWEI  rom/android  network/wifi  platform/AndroidPad",
-	"api-client/1 com.douban.frodo/7.18.0(230) Android/22 product/MI 9 vendor/Xiaomi model/MI 9 brand/Android  rom/miui6  network/wifi  platform/mobile nd/1",
-	"api-client/1 com.douban.frodo/7.1.0(205) Android/29 product/perseus vendor/Xiaomi model/Mi MIX 3  rom/miui6  network/wifi  platform/mobile nd/1",
-	"api-client/1 com.douban.frodo/7.3.0(207) Android/22 product/MI 9 vendor/Xiaomi model/MI 9 brand/Android  rom/miui6  network/wifi platform/mobile nd/1",
+var header = map[string]string{
+	"User-Agent": "MicroMessenger/",
+	"Referer":    "https://servicewechat.com/wx2f9b06c1de1ccfca/91/page-frame.html",
 }
 
 type ApiClient struct {
@@ -29,13 +26,6 @@ type ApiClient struct {
 
 func NewApiClient() *ApiClient {
 	return &ApiClient{}
-}
-
-func (c *ApiClient) header() map[string]string {
-	r := rand.New(rand.NewSource(time.Now().UnixNano()))
-	return map[string]string{
-		"User-Agent": userAgents[r.Intn(len(userAgents))],
-	}
 }
 
 func (c *ApiClient) sign(urlStr string, ts string, method string) string {
@@ -60,7 +50,7 @@ func (c *ApiClient) request(url string, method string, params map[string]string)
 			p[k] = v
 		}
 	}
-	resp, err := HttpRequest(url, method, c.header(), p, nil)
+	resp, err := HttpRequest(url, method, header, p, nil)
 	if err != nil {
 		return nil, err
 	}

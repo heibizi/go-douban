@@ -1,6 +1,7 @@
-package douban
+package douban_test
 
 import (
+	"github.com/heibizi/go-douban"
 	"testing"
 )
 
@@ -8,32 +9,32 @@ const locId = "118172"
 const douListId = "4026601"
 const subjectCollectionId = "film_genre_44"
 
-func newApiClient() *ApiClient {
-	return NewApiClient()
+func newApiClient() *douban.ApiClient {
+	return douban.NewApiClient()
 }
 
 func TestRankList(t *testing.T) {
-	d, err := newApiClient().RankList(Movie, 0, 20)
+	d, err := newApiClient().RankList(douban.Movie, 0, 20)
 	log(d, err, t)
 }
 
 func TestYearRanks(t *testing.T) {
-	d, err := newApiClient().YearRanks(Movie, 2023)
+	d, err := newApiClient().YearRanks(douban.Movie, 2023)
 	log(d, err, t)
 }
 
 func TestCategoryRanks(t *testing.T) {
-	d, err := newApiClient().CategoryRanks(Movie, 0, 20)
+	d, err := newApiClient().CategoryRanks(douban.Movie, 0, 20)
 	log(d, err, t)
 }
 
 func TestMovieModules(t *testing.T) {
-	d, err := newApiClient().Modules(Movie)
+	d, err := newApiClient().Modules(douban.Movie)
 	log(d, err, t)
 }
 
 func TestTvModules(t *testing.T) {
-	d, err := newApiClient().Modules(Tv)
+	d, err := newApiClient().Modules(douban.Tv)
 	log(d, err, t)
 }
 
@@ -48,22 +49,22 @@ func TestSearch(t *testing.T) {
 }
 
 func TestMovieRecommend(t *testing.T) {
-	d, err := newApiClient().Recommend(Movie, []string{"惊悚"}, "R", 0, 20)
+	d, err := newApiClient().Recommend(douban.Movie, []string{"惊悚"}, "R", 0, 20)
 	log(d, err, t)
 }
 
 func TestTvRecommend(t *testing.T) {
-	d, err := newApiClient().Recommend(Tv, []string{"惊悚"}, "R", 0, 20)
+	d, err := newApiClient().Recommend(douban.Tv, []string{"惊悚"}, "R", 0, 20)
 	log(d, err, t)
 }
 
 func TestTag(t *testing.T) {
-	d, err := newApiClient().Tag(Tv)
+	d, err := newApiClient().Tag(douban.Tv)
 	log(d, err, t)
 }
 
 func TestSkyNetNewPlayLists(t *testing.T) {
-	d, err := newApiClient().SkyNetNewPlayLists("all", Tv, 0, 20)
+	d, err := newApiClient().SkyNetNewPlayLists("all", douban.Tv, 0, 20)
 	log(d, err, t)
 }
 
@@ -83,47 +84,47 @@ func TestMovieHotGaia(t *testing.T) {
 }
 
 func TestComingSoon(t *testing.T) {
-	d, err := newApiClient().ComingSoon(Movie, 0, 20, "recommend", "华语")
+	d, err := newApiClient().ComingSoon(douban.Movie, 0, 20, "recommend", "华语")
 	log(d, err, t)
 }
 
 func TestApiDetail(t *testing.T) {
-	d, err := newApiClient().Detail(Movie, id)
+	d, err := newApiClient().Detail(douban.Movie, id)
 	log(d, err, t)
 }
 
 func TestRating(t *testing.T) {
-	d, err := newApiClient().Rating(Movie, id)
+	d, err := newApiClient().Rating(douban.Movie, id)
 	log(d, err, t)
 }
 
 func TestPhotos(t *testing.T) {
-	d, err := newApiClient().Photos(Movie, id)
+	d, err := newApiClient().Photos(douban.Movie, id)
 	log(d, err, t)
 }
 
 func TestTrailers(t *testing.T) {
-	d, err := newApiClient().Trailers(Movie, id)
+	d, err := newApiClient().Trailers(douban.Movie, id)
 	log(d, err, t)
 }
 
 func TestInterests(t *testing.T) {
-	d, err := newApiClient().Interests(Movie, id)
+	d, err := newApiClient().Interests(douban.Movie, id)
 	log(d, err, t)
 }
 
 func TestReviews(t *testing.T) {
-	d, err := newApiClient().Reviews(Movie, id)
+	d, err := newApiClient().Reviews(douban.Movie, id)
 	log(d, err, t)
 }
 
 func TestRecommendations(t *testing.T) {
-	d, err := newApiClient().Recommendations(Movie, id)
+	d, err := newApiClient().Recommendations(douban.Movie, id)
 	log(d, err, t)
 }
 
 func TestCelebrities(t *testing.T) {
-	d, err := newApiClient().Celebrities(Movie, id)
+	d, err := newApiClient().Celebrities(douban.Movie, id)
 	log(d, err, t)
 }
 
@@ -148,6 +149,6 @@ func TestSubjectCollectionItems(t *testing.T) {
 }
 
 func TestSubjectCollectionItemsWith(t *testing.T) {
-	d, err := newApiClient().SubjectCollectionItemsWith(TvHot, 0, 20)
+	d, err := newApiClient().SubjectCollectionItemsWith(douban.TvHot, 0, 20)
 	log(d, err, t)
 }
