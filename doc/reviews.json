@@ -1,0 +1,1377 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 1033,
+  "reviews": [
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 1,
+        "value": 1
+      },
+      "useful_count": 510,
+      "sharing_url": "https://movie.douban.com/review/16084453/",
+      "title": "解个屁",
+      "url": "https://movie.douban.com/review/16084453/",
+      "abstract": "从上个月开始，“业内人士”对于《解密》的商业吹捧就层出不穷，什么暑期档王炸，什么媲美好莱坞，什么让中国电影再上一个台阶，不知道的人还以为陈思成真的开窍了。结果，一轮点映下来，稀烂的观众口碑撕开了业内互夸虚伪的假面，而好奇心爆炸的我则成为了第二轮点映的直接受害者。
+      不管你在网上之前看到了多少本片的差评，被折磨整整两个半小时的我可以负责任地告诉你，本片远比你想象中要难看得多！
+      《解密》不论是作为人物传记、历史片还是谍战片都是不合格的作品，与其说它是电影，不如说它是自恋的陈思诚...",
+      "uri": "douban://douban.com/review/16084453",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 289,
+      "user": {
+        "kind": "user",
+        "name": "谢谢你们的鱼",
+        "url": "https://www.douban.com/people/1752908/",
+        "uri": "douban://douban.com/user/1752908",
+        "avatar": "https://img2.doubanio.com/icon/up1752908-41.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "1752908",
+        "uid": "reave"
+      },
+      "create_time": "2024-07-27 22:32:34",
+      "reshares_count": 14,
+      "type": "review",
+      "id": "16084453",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 1,
+        "value": 1
+      },
+      "useful_count": 280,
+      "sharing_url": "https://movie.douban.com/review/16096902/",
+      "title": "我是密码学家，陈思诚就没有码",
+      "url": "https://movie.douban.com/review/16096902/",
+      "abstract": "在《唐人街探案3》于一片骂声中狼狈落幕，《外太空的莫扎特》被戳穿coc成小熊猫装可爱之后，内地电影市场的台柱子，华语影史上里程碑级别的导演——陈思诚再一次尝试向严肃电影作者转型。
+      所谓“十年拉一坨”，推出了改编自麦家同名小说的《解密》。
+      毫无疑问的是，和陈思诚相关的电影话题在近两年都时常被当做一种行业现象来分析，其中不仅折射出每天都在“彻底玩完”的中国电影产业畸形发展的弊病，还反映了“万钟不辨礼义而受之”的观众们是如何用脚投票出这个恶堕的环境的。
+      《解密》作为陈思诚（诺兰）职...",
+      "uri": "douban://douban.com/review/16096902",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11107435",
+          "id": "11107435",
+          "image": {
+            "large": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11107435.webp",
+              "width": 600,
+              "height": 281,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "181818",
+            "normal": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11107435.webp",
+              "width": 600,
+              "height": 281,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11107420",
+          "id": "11107420",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11107420.webp",
+              "width": 600,
+              "height": 400,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "889890",
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11107420.webp",
+              "width": 600,
+              "height": 400,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11107428",
+          "id": "11107428",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11107428.webp",
+              "width": 600,
+              "height": 389,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "182010",
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11107428.webp",
+              "width": 600,
+              "height": 389,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 77,
+      "user": {
+        "kind": "user",
+        "name": "Aki",
+        "url": "https://www.douban.com/people/181097401/",
+        "uri": "douban://douban.com/user/181097401",
+        "avatar": "https://img9.doubanio.com/icon/up181097401-5.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "181097401",
+        "uid": "181097401"
+      },
+      "create_time": "2024-08-02 19:39:03",
+      "reshares_count": 8,
+      "type": "review",
+      "id": "16096902",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 1,
+        "value": 1
+      },
+      "useful_count": 56,
+      "sharing_url": "https://movie.douban.com/review/16100279/",
+      "title": "一部诺兰电影。",
+      "url": "https://movie.douban.com/review/16100279/",
+      "abstract": "我在去年的长评中评价《不虚此行》：“ 一部洪常秀电影。 ”估计很多人都Get不到其中的关系。
+    [不虚此行]
+    但今年大银幕真的抽象到“中国库布里克”之称的陈思诚老师，在《解密》里完全用的上我的评价，估计他也巴不得希望观众承认：他拍了一部诺兰电影。
+    本片的好笑在于，一眼浓度的低阶的粉丝致敬和审美，导致本片画虎不成反类犬，无论从人物塑造，历史留白处理和隐喻的野心都做的非常令人捧腹。
+    01.浅层粉丝视角的“诺兰”味
+    从电影预告片释出的元素中就透出了浓浓的一股子“诺兰感”，包括但不限于《星际...",
+    "uri": "douban://douban.com/review/16100279",
+    "ad_info": null,
+    "topic": null,
+    "photos": [
+      {
+        "tag_name": "img_11112554",
+        "id": "11112554",
+        "image": {
+          "large": {
+            "url": "https://img9.doubanio.com/view/thing_review/l/public/p11112554.webp",
+            "width": 600,
+            "height": 337,
+            "size": 0
+          },
+          "raw": null,
+          "primary_color": "",
+          "normal": {
+            "url": "https://img9.doubanio.com/view/thing_review/l/public/p11112554.webp",
+            "width": 600,
+            "height": 337,
+            "size": 0
+          },
+          "is_animated": false
+        },
+        "description": ""
+      },
+      {
+        "tag_name": "img_11112555",
+        "id": "11112555",
+        "image": {
+          "large": {
+            "url": "https://img9.doubanio.com/view/thing_review/l/public/p11112555.webp",
+            "width": 600,
+            "height": 337,
+            "size": 0
+          },
+          "raw": null,
+          "primary_color": "",
+          "normal": {
+            "url": "https://img9.doubanio.com/view/thing_review/l/public/p11112555.webp",
+            "width": 600,
+            "height": 337,
+            "size": 0
+          },
+          "is_animated": false
+        },
+        "description": ""
+      },
+      {
+        "tag_name": "img_11112557",
+        "id": "11112557",
+        "image": {
+          "large": {
+            "url": "https://img3.doubanio.com/view/thing_review/l/public/p11112557.webp",
+            "width": 600,
+            "height": 337,
+            "size": 0
+          },
+          "raw": null,
+          "primary_color": "",
+          "normal": {
+            "url": "https://img3.doubanio.com/view/thing_review/l/public/p11112557.webp",
+            "width": 600,
+            "height": 337,
+            "size": 0
+          },
+          "is_animated": false
+        },
+        "description": ""
+      }
+    ],
+    "reactions_count": 1,
+    "comments_count": 15,
+    "user": {
+      "kind": "user",
+      "name": "酱爆桑桑子",
+      "url": "https://www.douban.com/people/218440868/",
+      "uri": "douban://douban.com/user/218440868",
+      "avatar": "https://img2.doubanio.com/icon/up218440868-21.jpg",
+      "is_club": false,
+      "type": "user",
+      "id": "218440868",
+      "uid": "218440868"
+    },
+    "create_time": "2024-08-04 12:53:37",
+    "reshares_count": 2,
+    "type": "review",
+    "id": "16100279",
+    "subject": {
+      "type": "movie",
+      "title": "解密"
+    }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "useful_count": 184,
+      "sharing_url": "https://movie.douban.com/review/16091733/",
+      "title": "虚假的祛魅——科学不容神秘主义占领",
+      "url": "https://movie.douban.com/review/16091733/",
+      "abstract": "陈思诚能拍出这个艺术水平，我是喜欢的。对比以往作品的聒噪，虽然还是免不了滥用配乐和刻板的人物塑造，但完成度确实颇高，在主旋律中开辟出一条新颖的赛道：神秘主义英雄。
+      这片大陆上，神秘主义潜伏过不长不短的一段时间，当时无论在朝的还是在野的，唯物和科学精神才是绝对的政治正确，神鬼和祖宗崇拜是旧社会的糟粕。那什么时候神秘主义开始复活？恐怕又要扯到敏感的法权问题，这里不展开了。就从切身感受的迹象来看，我记忆中的神秘主义爱国题材，来自九十年代至本世纪初林正英的清朝僵尸、周星驰的赌圣、...",
+      "uri": "douban://douban.com/review/16091733",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11094553",
+          "id": "11094553",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11094553.webp",
+              "width": 600,
+              "height": 600,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "284860",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11094553.webp",
+              "width": 600,
+              "height": 600,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": "西奈山的摩西和十诫"
+        },
+        {
+          "tag_name": "img_11094565",
+          "id": "11094565",
+          "image": {
+            "large": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11094565.webp",
+              "width": 600,
+              "height": 399,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "100c0c",
+            "normal": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11094565.webp",
+              "width": 600,
+              "height": 399,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": "图灵和Bombe, The Imitation Game剧照"
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 62,
+      "user": {
+        "kind": "user",
+        "name": "你的益达",
+        "url": "https://www.douban.com/people/51067589/",
+        "uri": "douban://douban.com/user/51067589",
+        "avatar": "https://img3.doubanio.com/icon/up51067589-17.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "51067589",
+        "uid": "51067589"
+      },
+      "create_time": "2024-07-30 23:10:34",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16091733",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 200,
+      "sharing_url": "https://movie.douban.com/review/16087069/",
+      "title": "容金珍以梦解密，而电影正是造梦的艺术",
+      "url": "https://movie.douban.com/review/16087069/",
+      "abstract": "《解密》不好拍，麦家塑造了一个异于常人的天才，又从事着神奇、秘密但普通人根本看都看不明白的破解密码的工作。用文字尽可以让人游走其中自行发挥想象力去驰骋——一千个读者有一千个容金珍，可如何转化成电影的视听语言让观众接受？
+      电影《解密》是这样做的——
+      首先，重点塑造了容金珍这个人。这在我看来，是《解密》好看的关键，只有把这个人物立住了，我们愿意体察一个天才，这个故事才成立。刘昊然这次确实很突破自己，首先在形象上，减肥、脱发，弄淡了眉毛……完全放弃了形象（果然用脑会导致脱发！）...",
+      "uri": "douban://douban.com/review/16087069",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11083729",
+          "id": "11083729",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11083729.webp",
+              "width": 600,
+              "height": 337,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "000000",
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11083729.webp",
+              "width": 600,
+              "height": 337,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11083732",
+          "id": "11083732",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11083732.webp",
+              "width": 600,
+              "height": 900,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "080804",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11083732.webp",
+              "width": 600,
+              "height": 900,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11083733",
+          "id": "11083733",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11083733.webp",
+              "width": 600,
+              "height": 337,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "000000",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11083733.webp",
+              "width": 600,
+              "height": 337,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 36,
+      "user": {
+        "kind": "user",
+        "name": "惘然",
+        "url": "https://www.douban.com/people/1240460/",
+        "uri": "douban://douban.com/user/1240460",
+        "avatar": "https://img3.doubanio.com/icon/up1240460-27.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "1240460",
+        "uid": "wangranran"
+      },
+      "create_time": "2024-07-28 21:41:19",
+      "reshares_count": 2,
+      "type": "review",
+      "id": "16087069",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 120,
+      "sharing_url": "https://movie.douban.com/review/16092568/",
+      "title": "以身外身 解密中密",
+      "url": "https://movie.douban.com/review/16092568/",
+      "abstract": "生活就是一个持续解密的过程，而观影则是这当中难得的造梦时刻。当电影《解密》中现实与梦境无缝衔接映射进影院之中的你我时，我们看似在走进金珍的世界，其实更像是在回望自己的过去。荧幕上有海边的落日、奇幻乐园的舞曲、知己的相逢与告别，而影院中被触动的观众，也会在偶尔笑声中间或传来情不自禁的感叹。
+      《解密》的野心，绝不止于讲述一个天才破译密码的故事。那些瑰丽诡谲的梦境，昭示着导演在刻画金珍解密的一生之余，也将电影文本变成了一套需要观众亲自解密的密本。多重谜题，层层递进，在这场造梦与...",
+      "uri": "douban://douban.com/review/16092568",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 20,
+      "user": {
+        "kind": "user",
+        "name": "nothing纳森",
+        "url": "https://www.douban.com/people/51931810/",
+        "uri": "douban://douban.com/user/51931810",
+        "avatar": "https://img1.doubanio.com/icon/up51931810-20.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "51931810",
+        "uid": "nothingkitsch"
+      },
+      "create_time": "2024-07-31 13:05:35",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "16092568",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 115,
+      "sharing_url": "https://movie.douban.com/review/16097862/",
+      "title": "一场游戏一场梦",
+      "url": "https://movie.douban.com/review/16097862/",
+      "abstract": "陈思诚导演的电影《解密》，既是暑期档的一部视觉盛宴，也是对一个数学天才内心世界的深刻描摹。
+      电影里有一句台词：密码破译是天才与天才之间在大脑里的博弈。对于大多数普通人而言，这种天才之间的博弈是无法被看见的。即使博弈的胜负，关系着成千上万条性命、甚至决定了一个新生国家的未来，但普通人永远无法进入到天才的内心世界，一睹这场博弈究竟多么惊心动魄。
+      从这一点而言，电影《解密》本身也是一种“解密”，它将天才原本不可见的内心世界，破译成了绚丽又诡谲的视觉梦境，从而让我们普通观众也能见...",
+      "uri": "douban://douban.com/review/16097862",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 34,
+      "user": {
+        "kind": "user",
+        "name": "刘康康",
+        "url": "https://www.douban.com/people/46843344/",
+        "uri": "douban://douban.com/user/46843344",
+        "avatar": "https://img1.doubanio.com/icon/up46843344-18.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "46843344",
+        "uid": "46843344"
+      },
+      "create_time": "2024-08-03 09:40:51",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "16097862",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 71,
+      "sharing_url": "https://movie.douban.com/review/16083796/",
+      "title": "梦的启示录",
+      "url": "https://movie.douban.com/review/16083796/",
+      "abstract": "数学，绝对的理性与秩序，层层剥离复杂世界的表象，直抵其本质核心。而梦境，则是那随机无序、诡谲迷离的幻影，既捉摸不透，又充满无限解读的广袤空间。电影如何刻画天才？《解密》将绝对的理性与极致的感性共同作用于容金珍身上，塑造了一位充满传奇色彩的破译奇才。
+      梦境已经成为电影艺术中一种独特的表述和构建方式。梦，可以打破空间和时间的限制，让想象与感官有了纵横肆意的可能。梦，可以窥探蛰伏在天才大脑深处的秘密，具象化灵感火花四溅的瞬间。瘦弱的身材、稀疏的头发和木讷的言辞不过是为了迎合大众...",
+      "uri": "douban://douban.com/review/16083796",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11077832",
+          "id": "11077832",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11077832.webp",
+              "width": 600,
+              "height": 335,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "000000",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11077832.webp",
+              "width": 600,
+              "height": 335,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11077831",
+          "id": "11077831",
+          "image": {
+            "large": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p11077831.webp",
+              "width": 600,
+              "height": 337,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "000000",
+            "normal": {
+              "url": "https://img2.doubanio.com/view/thing_review/l/public/p11077831.webp",
+              "width": 600,
+              "height": 337,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11077828",
+          "id": "11077828",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11077828.webp",
+              "width": 600,
+              "height": 336,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "000000",
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11077828.webp",
+              "width": 600,
+              "height": 336,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "李濛Lemon",
+        "url": "https://www.douban.com/people/47893175/",
+        "uri": "douban://douban.com/user/47893175",
+        "avatar": "https://img3.doubanio.com/icon/up47893175-22.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "47893175",
+        "uid": "lm498521969"
+      },
+      "create_time": "2024-07-27 19:07:08",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16083796",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 9,
+      "sharing_url": "https://movie.douban.com/review/16099496/",
+      "title": "是中国的盗梦空间还是陈思诚的一场梦？",
+      "url": "https://movie.douban.com/review/16099496/",
+      "abstract": "怎么不是一场梦呢？
+      电影《解密》改编自作者麦家在2002年第六期《当代》杂志上发表的同名长篇小说。
+      麦家1981年考入军校，毕业于解放军工程技术学院无线电系和解放军艺术学院文学创作系。在茅盾文学奖的答谢词中，他这样说道：
+      “二十八年前，一个非常普通的日子，我走进了一个极其不寻常的地方，那是一座秘密的军营。”
+      小说《解密》，是麦家从自身经历出发创造的一场梦。电影《解密》，是陈思诚和麦家共同为观众创造的一场梦。
+      麦家说：“这部电影是他所有荧幕改编作品中最满意的一部。是的，这部电影就是...",
+      "uri": "douban://douban.com/review/16099496",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11111305",
+          "id": "11111305",
+          "image": {
+            "large": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11111305.webp",
+              "width": 600,
+              "height": 813,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "040000",
+            "normal": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11111305.webp",
+              "width": 600,
+              "height": 813,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11111306",
+          "id": "11111306",
+          "image": {
+            "large": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11111306.webp",
+              "width": 600,
+              "height": 248,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "040404",
+            "normal": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11111306.webp",
+              "width": 600,
+              "height": 248,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11111307",
+          "id": "11111307",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11111307.webp",
+              "width": 600,
+              "height": 248,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "c8a468",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11111307.webp",
+              "width": 600,
+              "height": 248,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "抛开书本",
+        "url": "https://www.douban.com/people/186293707/",
+        "uri": "douban://douban.com/user/186293707",
+        "avatar": "https://img1.doubanio.com/icon/up186293707-9.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "186293707",
+        "uid": "paokaisb"
+      },
+      "create_time": "2024-08-03 23:37:22",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "16099496",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 2,
+        "value": 2
+      },
+      "useful_count": 15,
+      "sharing_url": "https://movie.douban.com/review/16097432/",
+      "title": "陈思诚你就别学诺兰了",
+      "url": "https://movie.douban.com/review/16097432/",
+      "abstract": "看完了《解密》，不怎么样。
+      金庸在《倚天屠龙记》中有这么一段话，大意是说：让一个小孩子论大锤，那就抡不动，会伤到自己，要是一个壮汉抡大锤，那就得心应手了（所以阳顶天练不成乾坤大挪移，张无忌才能练成）。
+      陈思诚就是这个阳顶天。他大概想讲一个“凝视深渊，深渊也凝视着你”的故事，但是他的能力既不足以驾驭这种题材，也不足以驾驭这种表现方式。
+      两个多小时的电影（还害我中间去了一趟洗手间），没有讲出完整的故事，没有塑造出成功的人物，只有各种故弄玄虚的特效。而且这些特效的表达。而且镜头...",
+      "uri": "douban://douban.com/review/16097432",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 4,
+      "user": {
+        "kind": "user",
+        "name": "fluorene张",
+        "url": "https://www.douban.com/people/4694987/",
+        "uri": "douban://douban.com/user/4694987",
+        "avatar": "https://img9.doubanio.com/icon/up4694987-44.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "4694987",
+        "uid": "fluorene"
+      },
+      "create_time": "2024-08-02 23:46:42",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "16097432",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 41,
+      "sharing_url": "https://movie.douban.com/review/16086743/",
+      "title": "梦与现实交织的传奇篇章",
+      "url": "https://movie.douban.com/review/16086743/",
+      "abstract": "《解密》在表现形式上采用了梦与现实两线交织的叙事框架，将传统英雄叙事解构，挖掘出更富有层次的人物内心。
+      电影用充满传奇色彩与深沉使命的特殊年代为背景，将故事核心设置为“解梦”与“解密”，个体命运与时代风云相互映照、相辅相成，呈现出更有机的叙事动力。
+      影片中的十次梦境呈现，都是对容金珍内心深处未解之谜的一种隐喻性探寻，也将观众引入了容金珍充满复杂情感与心理挣扎的内心世界。当梦境与现实的边界开始模糊，也是容金珍内心蜕变的关键，工作与生活已经融为一体，不可分割。密码专家不是007，...",
+      "uri": "douban://douban.com/review/16086743",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11083100",
+          "id": "11083100",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11083100.webp",
+              "width": 600,
+              "height": 280,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "003038",
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11083100.webp",
+              "width": 600,
+              "height": 280,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11083098",
+          "id": "11083098",
+          "image": {
+            "large": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11083098.webp",
+              "width": 600,
+              "height": 357,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "181010",
+            "normal": {
+              "url": "https://img1.doubanio.com/view/thing_review/l/public/p11083098.webp",
+              "width": 600,
+              "height": 357,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11083102",
+          "id": "11083102",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11083102.webp",
+              "width": 600,
+              "height": 387,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "181810",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11083102.webp",
+              "width": 600,
+              "height": 387,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "枨不戒",
+        "url": "https://www.douban.com/people/158266700/",
+        "uri": "douban://douban.com/user/158266700",
+        "avatar": "https://img9.doubanio.com/icon/up158266700-15.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "158266700",
+        "uid": "158266700"
+      },
+      "create_time": "2024-07-28 19:38:59",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "16086743",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 1,
+        "value": 1
+      },
+      "useful_count": 17,
+      "sharing_url": "https://movie.douban.com/review/16097310/",
+      "title": "《陈思诚煮酒论英雄：硬核解析解密！你看不见的九重真相！究竟有几个结局？！原结局到底有多黑暗？！》",
+      "url": "https://movie.douban.com/review/16097310/",
+      "abstract": "三更夜半，陈思诚与陈思诚，置青梅与酒，凭栏远望。陈曰：“试问陈兄，当世天下电影之林，何人敢称英雄耶？”另一陈曰：“西方诺兰，其《奥本海默》《盗梦空间》追视听想象之极，可谓英雄乎？”陈笑曰：“非也，此等区区小辈，奇技淫巧，吾唾手可得，非英雄也。”另一陈惊曰：“依君之见，谁能当之？”时值天雨将至，雷声大作。陈以手指陈，后自指，曰：“当世电影之英雄，惟吾也！惟吾也！”
+      《解密》，什么叫究极脑残自恋狂学人装X，用屎雕的花装饰屎，这就叫。电影工业崛起……电影工业要崛起，第一步就是把陈...",
+      "uri": "douban://douban.com/review/16097310",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11108026",
+          "id": "11108026",
+          "image": {
+            "large": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11108026.webp",
+              "width": 600,
+              "height": 951,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "102020",
+            "normal": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11108026.webp",
+              "width": 600,
+              "height": 951,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11108152",
+          "id": "11108152",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11108152.webp",
+              "width": 600,
+              "height": 600,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "201010",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11108152.webp",
+              "width": 600,
+              "height": 600,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "拓雨",
+        "url": "https://www.douban.com/people/242807704/",
+        "uri": "douban://douban.com/user/242807704",
+        "avatar": "https://img9.doubanio.com/icon/up242807704-4.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "242807704",
+        "uid": "242807704"
+      },
+      "create_time": "2024-08-02 22:57:39",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16097310",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 1,
+        "value": 1
+      },
+      "useful_count": 11,
+      "sharing_url": "https://movie.douban.com/review/16081144/",
+      "title": "包装再精美的答辩也始终只是一坨答辩",
+      "url": "https://movie.douban.com/review/16081144/",
+      "abstract": "姜文是为了那点醋才去包的饺子，你陈思诚是为了什么呢。
+      观影后或许可以联想到这几个词，东施效颦，华而不实，金玉其外败絮其中。
+      这部片子完全不像中国人拍出来的片子，里面充斥了西方视角对中国的刻板印象，充斥了格格不入的好莱坞式烂俗桥段。明眼人一看就知道，陈思诚这是抱着拿外国奖的野心去的，想摆脱只会拍烂俗商业片的臭名，想给自己加光环上档次，想拔高自己的艺术楼层，甚至有机会抢下emo的“国师”名号。我觉得陈思诚大概率可以实现他的企图，但这不可悲吗。
+      关于本片对阳光灿烂的日子的抹黑与伤痕...",
+      "uri": "douban://douban.com/review/16081144",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 19,
+      "user": {
+        "kind": "user",
+        "name": "两个司令部",
+        "url": "https://www.douban.com/people/4460627/",
+        "uri": "douban://douban.com/user/4460627",
+        "avatar": "https://img9.doubanio.com/icon/up4460627-4.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "4460627",
+        "uid": "limu9999"
+      },
+      "create_time": "2024-07-26 17:57:43",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16081144",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "useful_count": 4,
+      "sharing_url": "https://movie.douban.com/review/16079679/",
+      "title": "流氓的梦里没有选择—并不是所有的梦都会给我们带来真相",
+      "url": "https://movie.douban.com/review/16079679/",
+      "abstract": "本片名为《解密》，但实则似乎是在制造谎言。因为解密是要去探寻事物的真理，然而真理并不是在于立场的选择，事实上 真理存在于所有的立场之上。要想探究真相则需要做的应该是远离这些掌握话语权的强者的态度，（但同时也最好远离一些“被强者了的”态度），因为真理不在任何的立场之中。如果我们说我们是在探究真相，但我们只是选择了一方的立场去支持他，那么我们只是在彻头彻尾的欺骗观众。
+      文明就是给你权利，给你选择的机会。而流氓，就是不给你空间，不给你可能性，强迫你接受，替你做决定。
+      这部电影的背...",
+      "uri": "douban://douban.com/review/16079679",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 1,
+      "user": {
+        "kind": "user",
+        "name": "DIANA",
+        "url": "https://www.douban.com/people/232474665/",
+        "uri": "douban://douban.com/user/232474665",
+        "avatar": "https://img1.doubanio.com/icon/up232474665-9.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "232474665",
+        "uid": "232474665"
+      },
+      "create_time": "2024-07-26 03:56:36",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16079679",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 3,
+      "sharing_url": "https://movie.douban.com/review/16097543/",
+      "title": "密码天才的心灵迷宫",
+      "url": "https://movie.douban.com/review/16097543/",
+      "abstract": "这部改编自麦家同名原著的谍战故事讲述了一位密码天才的故事，那是上世纪四十年代，容校长遇到还是孩子但是数学天赋极高的容金珍，并把他带入自家收养，在他的成长过程中才华不断展露，最终进入701局，担负起战时最重要的密码破译工作。
+      初了解《解密》的故事，我的第一想法是，这未免太不陈思诚了，如果照着麦家的原著拍。
+      那毫无疑问是一部人物传记电影，可能也会很精彩，但对市场一定是挑战。每年奥斯卡都会有些质量不错的传记片，但它们几乎在市场上引发不了什么热度。
+      原因也很简单，传记电影往往不以情节...",
+      "uri": "douban://douban.com/review/16097543",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 0,
+      "user": {
+        "kind": "user",
+        "name": "掉线",
+        "url": "https://www.douban.com/people/45134592/",
+        "uri": "douban://douban.com/user/45134592",
+        "avatar": "https://img9.doubanio.com/icon/up45134592-86.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "45134592",
+        "uid": "ballteda"
+      },
+      "create_time": "2024-08-03 00:47:05",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16097543",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": null,
+      "useful_count": 4,
+      "sharing_url": "https://movie.douban.com/review/16096038/",
+      "title": "《解密》：终其一生要解开的密码",
+      "url": "https://movie.douban.com/review/16096038/",
+      "abstract": "库尔特·哥德尔，是二十世纪最伟大的逻辑学家之一，爱因斯坦称他是“亚里士多德之后最伟大的逻辑学家”。其最杰出的贡献是哥德尔不完全性定理，为计算机科学和人工智能领域的发展奠定了基础。
+      他的不完备性定理，堪称数学逻辑理论中最伟大的发现。而他的一生在哲学、数学、人工智能等领域都提出了颠覆性的理论，甚至涉猎了相对论。他获得普林斯顿高等研究院终身教职，但晚年他的大脑却饱受挫败和被害妄想的折磨，因被害妄想症悲惨离世……
+      曾经，年仅 24 岁的他便凭借出色的研究能力享誉世界，他提出了一种十分...",
+      "uri": "douban://douban.com/review/16096038",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 2,
+      "user": {
+        "kind": "user",
+        "name": "西楼尘",
+        "url": "https://www.douban.com/people/49290419/",
+        "uri": "douban://douban.com/user/49290419",
+        "avatar": "https://img3.doubanio.com/icon/up49290419-32.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "49290419",
+        "uid": "xilouchen"
+      },
+      "create_time": "2024-08-02 09:41:07",
+      "reshares_count": 1,
+      "type": "review",
+      "id": "16096038",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "useful_count": 5,
+      "sharing_url": "https://movie.douban.com/review/16087606/",
+      "title": "蹭着蹭着，还真就蹭进去了。",
+      "url": "https://movie.douban.com/review/16087606/",
+      "abstract": "陈思诚真是一头缝合怪：你能想象一部《奥本海默》+《盗梦空间》+《暗算》+《心灵捕手》，同时还融入了《我和我的祖国》、克苏鲁元素、《梦魔》等各种零碎的电影吗？如果加上视觉部分，那也许还得再加上《移动迷宫》等一大长串名单。这不是致敬，而是从整个电影史中“拿”：软饭硬吃。有些好电影跟下棋一样，通篇无妙手，但整体却是大师级的，陈思诚是通篇无原创，但整体还挺好看的——这就是高科技界的华强北、先锋美术界的大芬村、松江区的泰晤士、天通苑的玛丽莲梦露·周。
+      前半程整体奉行了一个原则：就蹭一蹭...",
+      "uri": "douban://douban.com/review/16087606",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 16,
+      "user": {
+        "kind": "user",
+        "name": "马陌上",
+        "url": "https://www.douban.com/people/1094308/",
+        "uri": "douban://douban.com/user/1094308",
+        "avatar": "https://img9.doubanio.com/icon/up1094308-36.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "1094308",
+        "uid": "mamoshang"
+      },
+      "create_time": "2024-07-29 00:32:47",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16087606",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 24,
+      "sharing_url": "https://movie.douban.com/review/16085294/",
+      "title": "解密码，解人生，解电影：10场梦境串起的“天才半生”",
+      "url": "https://movie.douban.com/review/16085294/",
+      "abstract": " 电影《解密》，片长两个多小时，讲述一位天才被命运，或者说是宿命拿捏的故事。
+      故事相对通俗，没有什么理解上的障碍，将个人发展融入到历史大事件之中，可以看到南京解放、克什米尔公主号事件、红旗二号击落U-2侦察机（作为航空迷，侦察机起飞时，起落架脱落这个还原的细节好评）、中国第一颗原子弹爆炸……
+      这些编年史般片段，都融入到了主角容金珍的故事里，来自于从原著到电影的虚构剧情——神秘机构701所，瞎子阿炳、紫密与黑密的师徒对决。
+      电影的画面感、氛围效果和叙事方面我就不说了，只细说一条，梦...",
+      "uri": "douban://douban.com/review/16085294",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+        {
+          "tag_name": "img_11080423",
+          "id": "11080423",
+          "image": {
+            "large": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11080423.webp",
+              "width": 600,
+              "height": 649,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "",
+            "normal": {
+              "url": "https://img3.doubanio.com/view/thing_review/l/public/p11080423.webp",
+              "width": 600,
+              "height": 649,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11080424",
+          "id": "11080424",
+          "image": {
+            "large": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11080424.webp",
+              "width": 600,
+              "height": 281,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "",
+            "normal": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11080424.webp",
+              "width": 600,
+              "height": 281,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        },
+        {
+          "tag_name": "img_11080425",
+          "id": "11080425",
+          "image": {
+            "large": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11080425.webp",
+              "width": 600,
+              "height": 297,
+              "size": 0
+            },
+            "raw": null,
+            "primary_color": "",
+            "normal": {
+              "url": "https://img9.doubanio.com/view/thing_review/l/public/p11080425.webp",
+              "width": 600,
+              "height": 297,
+              "size": 0
+            },
+            "is_animated": false
+          },
+          "description": ""
+        }
+      ],
+      "reactions_count": 1,
+      "comments_count": 11,
+      "user": {
+        "kind": "user",
+        "name": "乌鸦火堂",
+        "url": "https://www.douban.com/people/2297669/",
+        "uri": "douban://douban.com/user/2297669",
+        "avatar": "https://img3.doubanio.com/icon/up2297669-12.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "2297669",
+        "uid": "dreamfox"
+      },
+      "create_time": "2024-07-28 08:53:54",
+      "reshares_count": 2,
+      "type": "review",
+      "id": "16085294",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 15,
+      "sharing_url": "https://movie.douban.com/review/16082529/",
+      "title": "每个人的一生都在和命运对弈与“解密”",
+      "url": "https://movie.douban.com/review/16082529/",
+      "abstract": "观看《解密》就像坠入一个无边无垠的奇幻梦境，电影结束还出不来或不愿出来，跌跌撞撞只想一个劲儿走到底，走到光亮的尽头。电影从40年代抗日、国共内战，到49年建国，将“隐蔽战线”上的一群陌生人、一个陌生的秘密机构推到了普通观众眼前。以一个数学天才短暂的一生，展现大事件和小人物不平凡的境遇，梦境和现实交融，绚烂与写实联袂，细致入微地刻画了不为人知的一代人。
+      影片开始，童年时代蜗居黑暗陋室，饥一顿饱一顿的容金珍，幼年失怙，被吴彦祖饰演的远房亲戚、大学校长发现其数学才华，准备带他离开故...",
+      "uri": "douban://douban.com/review/16082529",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 3,
+      "user": {
+        "kind": "user",
+        "name": "内陆飞鱼",
+        "url": "https://www.douban.com/people/1226256/",
+        "uri": "douban://douban.com/user/1226256",
+        "avatar": "https://img2.doubanio.com/icon/up1226256-41.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "1226256",
+        "uid": "veverlee"
+      },
+      "create_time": "2024-07-27 09:43:15",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16082529",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    },
+    {
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "useful_count": 4,
+      "sharing_url": "https://movie.douban.com/review/16085653/",
+      "title": "《解密》：太过聪明可能不是祝福，也许是诅咒",
+      "url": "https://movie.douban.com/review/16085653/",
+      "abstract": "看完这部电影，坐在地铁里想起了许倬云的夫人曼丽女士受访时说过的一句话：“太过聪明可能不是祝福，也许是诅咒。”套在这片里，显得尤为恰当。特别是许多过来人，经历过那个悲怆而动荡的年代，都能深有体会。个人太过出众的才智会变成一种更加有利的武器，也注定了自身有别于常人的悲凉命运。纵观那些影史“天才人物”，他们一边慢慢成了“救世主”，一边积聚集着格格不入的非议和误解，建功立业的同时也在泥足深陷，很少会在圆满幸福中落幕。
+      这片主要以时间线为轴，讲述了天才少年容金珍的一生。从饱受争议但...",
+      "uri": "douban://douban.com/review/16085653",
+      "ad_info": null,
+      "topic": null,
+      "photos": [
+
+      ],
+      "reactions_count": 1,
+      "comments_count": 2,
+      "user": {
+        "kind": "user",
+        "name": "尉迟上九",
+        "url": "https://www.douban.com/people/55361585/",
+        "uri": "douban://douban.com/user/55361585",
+        "avatar": "https://img9.doubanio.com/icon/up55361585-106.jpg",
+        "is_club": false,
+        "type": "user",
+        "id": "55361585",
+        "uid": "yuchishangjiu"
+      },
+      "create_time": "2024-07-28 11:48:59",
+      "reshares_count": 0,
+      "type": "review",
+      "id": "16085653",
+      "subject": {
+        "type": "movie",
+        "title": "解密"
+      }
+    }
+  ]
+}

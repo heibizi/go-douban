@@ -1,0 +1,579 @@
+{
+  "banned": "",
+  "subjects": {
+    "target_name": "更多“花千骨”相关图书、音乐等",
+    "items": [
+      {
+        "layout": "subject",
+        "type_name": "电视剧",
+        "target_id": "25812420",
+        "target": {
+          "rating": {
+            "count": 223150,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+          },
+          "controversy_reason": "",
+          "title": "花千骨",
+          "abstract": "",
+          "has_linewatch": true,
+          "uri": "douban://douban.com/tv/25812420",
+          "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2266262929.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+          "year": "2015",
+          "card_subtitle": "中国大陆 / 剧情 爱情 奇幻 古装 / 林玉芬 高林豹 梁胜权 / 霍建华 赵丽颖",
+          "id": "25812420",
+          "null_rating_reason": ""
+        },
+        "target_type": "tv"
+      },
+      {
+        "layout": "subject",
+        "type_name": "电影",
+        "target_id": "35033629",
+        "target": {
+          "rating": {
+            "count": 13120,
+            "max": 10,
+            "star_count": 2,
+            "value": 4.1
+          },
+          "controversy_reason": "",
+          "title": "花千骨",
+          "abstract": "",
+          "has_linewatch": true,
+          "uri": "douban://douban.com/movie/35033629",
+          "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2903324518.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+          "year": "2024",
+          "card_subtitle": "中国大陆 / 动作 爱情 奇幻 / 张超理 / 陈都灵 李程彬",
+          "id": "35033629",
+          "null_rating_reason": ""
+        },
+        "target_type": "movie"
+      }
+    ],
+    "show_more_subjects": true
+  },
+  "smart_box": [
+
+  ],
+  "fuzzy": "",
+  "search_egg": null,
+  "promotion": [
+
+  ],
+  "contents": {
+    "count": 10,
+    "start": 0,
+    "total": 3380,
+    "items": [
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "300944693",
+        "target": {
+          "photos_count": 1,
+          "title": "吹什么清冷感，大型的娟子爆改花千骨",
+          "abstract": "",
+          "uri": "douban://douban.com/group/topic/300944693",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p639354409.webp",
+                "width": 500,
+                "height": 931,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p639354409.webp",
+                "width": 500,
+                "height": 931,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "我是疯子（求私 7赞 · 39回复",
+          "create_time": "2024-01-23 13:22:54",
+          "owner": {
+            "uri": "douban://douban.com/group/636571",
+            "avatar": "https://img3.doubanio.com/view/group/sqxs/public/a3bcf1e12c7ecef.webp",
+            "name": "好事花生小组",
+            "id": "636571"
+          }
+        },
+        "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "307086701",
+        "target": {
+          "photos_count": 2,
+          "title": "｜已开奖｜[抽奖]🎉今天是花千骨开播九周年🎉 中奖者联系我！",
+          "abstract": "同时也是喜欢🌰的第九年啦！
+          希望🌰的 演员 生活之路
+          长长久久 红红火火
+          抽一个9.99和10.16
+          要求：正常人 不引战
+          等我研究一下怎么抽",
+          "uri": "douban://douban.com/group/topic/307086701",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img2.doubanio.com/view/group_topic/l/public/p652832011.webp",
+                "width": 500,
+                "height": 1111,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img2.doubanio.com/view/group_topic/l/public/p652832011.webp",
+                "width": 500,
+                "height": 1111,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p652832010.webp",
+                "width": 500,
+                "height": 689,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p652832010.webp",
+                "width": 500,
+                "height": 689,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "卷心菜又菜又卷 20赞 · 506回复",
+          "create_time": "2024-06-09 09:00:41",
+          "owner": {
+            "uri": "douban://douban.com/group/718202",
+            "avatar": "https://img1.doubanio.com/view/group/sqxs/public/5d4c5a2779bd5f0.webp",
+            "name": "花渣聚集地小组",
+            "id": "718202"
+          }
+        },
+        "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "304786485",
+        "target": {
+          "photos_count": 1,
+          "title": "🫘刷到的，花千骨原著这么炼吗",
+          "abstract": "很刺激的样子…
+          有没有看过原著的哥哥能说说",
+          "uri": "douban://douban.com/group/topic/304786485",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p647950187.webp",
+                "width": 500,
+                "height": 1083,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p647950187.webp",
+                "width": 500,
+                "height": 1083,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "momo 23赞 · 68回复",
+          "create_time": "2024-04-20 01:25:51",
+          "owner": {
+            "uri": "douban://douban.com/group/661193",
+            "avatar": "https://img3.doubanio.com/view/group/sqxs/public/6a768a4273e71df.webp",
+            "name": "豆瓣句号小组",
+            "id": "661193"
+          }
+        },
+        "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "300943449",
+        "target": {
+          "photos_count": 4,
+          "title": "影版花千骨扑街，导演出来道歉了",
+          "abstract": "听说日本如果扑街的话 主演要出来磕头的",
+          "uri": "douban://douban.com/group/topic/300943449",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img9.doubanio.com/view/group_topic/l/public/p639352324.webp",
+                "width": 500,
+                "height": 465,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img9.doubanio.com/view/group_topic/l/public/p639352324.webp",
+                "width": 500,
+                "height": 465,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img9.doubanio.com/view/group_topic/l/public/p639352325.webp",
+                "width": 500,
+                "height": 675,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img9.doubanio.com/view/group_topic/l/public/p639352325.webp",
+                "width": 500,
+                "height": 675,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p639352327.webp",
+                "width": 500,
+                "height": 346,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p639352327.webp",
+                "width": 500,
+                "height": 346,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "芝士 12赞 · 260回复",
+          "create_time": "2024-01-23 12:51:18",
+          "owner": {
+            "uri": "douban://douban.com/group/738250",
+            "avatar": "https://img1.doubanio.com/view/group/sqxs/public/31ca1dd8523924b.webp",
+            "name": "国产剧体感小组",
+            "id": "738250"
+          }
+        },
+        "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "300805472",
+        "target": {
+          "photos_count": 4,
+          "title": "花千骨。。到底有什么。。拍电影的必要。。。",
+          "abstract": "。。。。沉默这个造型。。乞丐吗。。
+          白子画你怎么变这样。。。。
+          这俩ex炒的也在里面。。。。们炒不愧是好姐妹。。。看上去像是约了一个医生。。脸都歪的。。。。甚至是站子图。。稠到震撼。。",
+          "uri": "douban://douban.com/group/topic/300805472",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p639082733.webp",
+                "width": 500,
+                "height": 333,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p639082733.webp",
+                "width": 500,
+                "height": 333,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img2.doubanio.com/view/group_topic/l/public/p639082741.webp",
+                "width": 500,
+                "height": 333,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img2.doubanio.com/view/group_topic/l/public/p639082741.webp",
+                "width": 500,
+                "height": 333,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p639082740.webp",
+                "width": 500,
+                "height": 749,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p639082740.webp",
+                "width": 500,
+                "height": 749,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "备忘录🦢 22赞 · 87回复",
+          "create_time": "2024-01-19 22:57:22",
+          "owner": {
+            "uri": "douban://douban.com/group/661193",
+            "avatar": "https://img3.doubanio.com/view/group/sqxs/public/6a768a4273e71df.webp",
+            "name": "豆瓣句号小组",
+            "id": "661193"
+          }
+        },
+        "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "292726015",
+        "target": {
+          "photos_count": 1,
+          "title": "花千骨是真好嗑啊。。",
+          "abstract": "虽然这剧有很多显而易见的缺点。
+          比如特效一般般，有些服化道也不是很好。
+          然后整个故事特别的玛丽苏，还是什么现在的人批判的狗血爱情故事。
+          但是就是很好嗑。。
+          【【纯情的撩拨，禁欲的失控】【花千骨/师徒恋的极致禁忌】-哔哩哔哩】
+      [视频]
+      就是一部偶像剧的男女主，明明都很相爱，但是两个人最大的愿望就是希望能陪伴在自己身边就好了。
+      而且他俩但凡不是爱情，都会过的很好。
+      但是偏偏就是真的相爱了。
+      我记得小...",
+      "uri": "douban://douban.com/group/topic/292726015",
+      "photos": [
+        {
+          "large": {
+            "url": "https://img3.doubanio.com/view/group_topic/l/public/p619726852.webp",
+            "width": 500,
+            "height": 333,
+            "size": 0
+          },
+          "raw": null,
+          "primary_color": "",
+          "normal": {
+            "url": "https://img3.doubanio.com/view/group_topic/l/public/p619726852.webp",
+            "width": 500,
+            "height": 333,
+            "size": 0
+          }
+        }
+      ],
+      "card_subtitle": "momo 54赞 · 233回复",
+      "create_time": "2023-08-03 01:03:08",
+      "owner": {
+        "uri": "douban://douban.com/group/629678",
+        "avatar": "https://img2.doubanio.com/view/group/sqxs/public/ead17b448fd9f4e.webp",
+        "name": "国产剧小组",
+        "id": "629678"
+      }
+      },
+      "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "298069527",
+        "target": {
+          "photos_count": 1,
+          "title": "花千骨就是比古剑奇谭爆啊，所谓花千骨不如古剑爆配角根本就无稽之谈",
+          "abstract": "论收视率，同为湖南卫视钻石独播剧场周播：
+          花千骨2.1＞古剑1.4
+          论网播量：
+          花千骨历史第一个网播破两百亿＞古剑第一部网播破一百亿
+          论剧百指：
+          爆OST：
+          年轮≥剑心＝不可说＞剑伤
+          爆梗：
+          花千骨洪荒之力
+          主角红利：
+          花千骨爆女顶流，奖项金鹰视后获奖和白玉兰各项提名
+          古剑爆男顶流，打响反舔韩第一枪，无三大奖提名",
+          "uri": "douban://douban.com/group/topic/298069527",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p633118399.webp",
+                "width": 500,
+                "height": 215,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p633118399.webp",
+                "width": 500,
+                "height": 215,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "麟台落月 14赞 · 197回复",
+          "create_time": "2023-11-21 10:07:38",
+          "owner": {
+            "uri": "douban://douban.com/group/718202",
+            "avatar": "https://img1.doubanio.com/view/group/sqxs/public/5d4c5a2779bd5f0.webp",
+            "name": "花渣聚集地小组",
+            "id": "718202"
+          }
+        },
+        "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "300826838",
+        "target": {
+          "photos_count": 2,
+          "title": "花千骨票房大噗",
+          "abstract": "影院给了11.6%的拍片，已经可以说非常给面子了。然而票房只有3.2%，上座率更是只有0.9%。按照这个趋势，总票房估计只能有个小几千万，投资方不知道要赔多少进去。
+          其实这就跟非诚勿扰3差不多，炒已经过期了好几年的ip冷饭，结果自然是票房惨淡。只不过非诚勿扰3还能靠冯小刚和葛大爷带来的阵容强度，花千骨是真的找不到一点优势了。
+          ——————————————
+          次日票房占比2.2%，排片占比6.4%，仍然有充分的下降空间。考...",
+          "uri": "douban://douban.com/group/topic/300826838",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p639128692.webp",
+                "width": 500,
+                "height": 973,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p639128692.webp",
+                "width": 500,
+                "height": 973,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img9.doubanio.com/view/group_topic/l/public/p639195664.webp",
+                "width": 500,
+                "height": 1044,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img9.doubanio.com/view/group_topic/l/public/p639195664.webp",
+                "width": 500,
+                "height": 1044,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "momo 5赞 · 215回复",
+          "create_time": "2024-01-20 15:35:35",
+          "owner": {
+            "uri": "douban://douban.com/group/636571",
+            "avatar": "https://img3.doubanio.com/view/group/sqxs/public/a3bcf1e12c7ecef.webp",
+            "name": "好事花生小组",
+            "id": "636571"
+          }
+        },
+        "target_type": "topic"
+      },
+      {
+        "layout": "content",
+        "type_name": "小组帖子",
+        "target_id": "300644187",
+        "target": {
+          "photos_count": 7,
+          "title": "花千骨预售票房追踪楼（首日破130w，预售总票房破170w）",
+          "abstract": "1.17 零点 74.4w
+          1.18 零点 86.7w
+          1.18 21点 100w
+          1.19 零点 103.2w
+          花千骨战报截图留存纪念🥰
+          终于被我截到奖杯图了🏆
+          1.20 零点 174.9w",
+          "uri": "douban://douban.com/group/topic/300644187",
+          "photos": [
+            {
+              "large": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p638816310.webp",
+                "width": 500,
+                "height": 1082,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p638816310.webp",
+                "width": 500,
+                "height": 1082,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p638907353.webp",
+                "width": 500,
+                "height": 1082,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img3.doubanio.com/view/group_topic/l/public/p638907353.webp",
+                "width": 500,
+                "height": 1082,
+                "size": 0
+              }
+            },
+            {
+              "large": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p638981288.webp",
+                "width": 500,
+                "height": 1082,
+                "size": 0
+              },
+              "raw": null,
+              "primary_color": "",
+              "normal": {
+                "url": "https://img1.doubanio.com/view/group_topic/l/public/p638981288.webp",
+                "width": 500,
+                "height": 1082,
+                "size": 0
+              }
+            }
+          ],
+          "card_subtitle": "人的本质是真香 3赞 · 114回复",
+          "create_time": "2024-01-16 17:20:57",
+          "owner": {
+            "uri": "douban://douban.com/group/738335",
+            "avatar": "https://img9.doubanio.com/view/group/sqxs/public/41655323e126666.webp",
+            "name": "笑一下蒜了小组",
+            "id": "738335"
+          }
+        },
+        "target_type": "topic"
+      }
+    ]
+  }
+}

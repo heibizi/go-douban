@@ -1,0 +1,79 @@
+{
+  "locations": [
+    {
+      "uid": "beijing",
+      "id": "108288",
+      "name": "北京"
+    },
+    {
+      "uid": "shanghai",
+      "id": "108296",
+      "name": "上海"
+    },
+    {
+      "uid": "guangzhou",
+      "id": "118281",
+      "name": "广州"
+    },
+    {
+      "uid": "shenzhen",
+      "id": "118282",
+      "name": "深圳"
+    },
+    {
+      "uid": "chengdu",
+      "id": "118318",
+      "name": "成都"
+    },
+    {
+      "uid": "hangzhou",
+      "id": "118172",
+      "name": "杭州"
+    },
+    {
+      "uid": "wuhan",
+      "id": "118254",
+      "name": "武汉"
+    },
+    {
+      "uid": "chongqing",
+      "id": "108309",
+      "name": "重庆"
+    },
+    {
+      "uid": "nanjing",
+      "id": "118159",
+      "name": "南京"
+    },
+    {
+      "uid": "xian",
+      "id": "118371",
+      "name": "西安"
+    },
+    {
+      "uid": "zhengzhou",
+      "id": "118237",
+      "name": "郑州"
+    },
+    {
+      "uid": "suzhou",
+      "id": "118163",
+      "name": "苏州"
+    },
+    {
+      "uid": "changsha",
+      "id": "118267",
+      "name": "长沙"
+    },
+    {
+      "uid": "tianjin",
+      "id": "108289",
+      "name": "天津"
+    },
+    {
+      "uid": "fuzhou",
+      "id": "118200",
+      "name": "福州"
+    }
+  ]
+}

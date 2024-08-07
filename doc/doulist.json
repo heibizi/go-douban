@@ -1,0 +1,47 @@
+{
+  "is_follow": false,
+  "screenshot_title": "分享海报",
+  "playable_count": 2,
+  "screenshot_url": "douban://partial.douban.com/screenshot/doulist/156792838/_content",
+  "create_time": "2023-10-24 12:51:18",
+  "owner": {
+    "kind": "user",
+    "name": "Jolc",
+    "url": "https://www.douban.com/people/261202034/",
+    "uri": "douban://douban.com/user/261202034",
+    "avatar": "https://img3.doubanio.com/icon/up261202034-3.jpg",
+    "is_club": false,
+    "type": "user",
+    "id": "261202034",
+    "uid": "261202034"
+  },
+  "screenshot_type": "rexxar",
+  "id": "156792838",
+  "category": "movie",
+  "is_merged_cover": false,
+  "title": "今日上线新片",
+  "is_subject_selection": false,
+  "followers_count": 5,
+  "is_private": false,
+  "sharing_url": "https://www.douban.com/doulist/156792838/",
+  "type": "doulist",
+  "update_time": "2024-07-09 14:05:42",
+  "tags": [
+
+  ],
+  "syncing_note": null,
+  "cover_url": "https://img3.doubanio.com/view/elanor_image/raw/public/41497282.jpg",
+  "header_bg_image": "",
+  "doulist_type": "",
+  "done_count": 0,
+  "desc": "4ms",
+  "filter_switch": {
+    "rating_range": false
+  },
+  "items_count": 10,
+  "wechat_timeline_share": "url",
+  "url": "https://www.douban.com/doulist/156792838/",
+  "is_sys_private": false,
+  "uri": "douban://douban.com/doulist/156792838",
+  "list_type": "ugc_doulist"
+}

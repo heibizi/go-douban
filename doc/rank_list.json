@@ -1,0 +1,1416 @@
+{
+  "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/recommend_list?index=0",
+  "groups": [
+    {
+      "title": "",
+      "type": "weekly",
+      "selected_collections": [
+        {
+          "subject_type": "movie",
+          "subtitle": "豆瓣榜单",
+          "background_color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6f6672",
+            "secondary_color": "f8f4f9",
+            "primary_color_dark": "4a444c"
+          },
+          "is_follow": false,
+          "updated_at": "2024-08-02 18:02:23",
+          "rank": true,
+          "skynet_model": null,
+          "total": 10,
+          "type_icon_bg_text": "WEEK",
+          "category": "movie",
+          "is_official": false,
+          "is_merged_cover": false,
+          "header_fg_image": "https://img2.doubanio.com/img/files/file-1637045101.jpeg",
+          "title": "一周口碑电影榜",
+          "wx_qr_code": "https://img3.doubanio.com/img/frodo/files/file-76358b0d-502c-4981-bd2d-1ae4bc0804f3.png",
+          "finish_soon": false,
+          "id": "movie_weekly_best",
+          "followers_count": 312127,
+          "show_header_mask": true,
+          "medium_name": "口碑电影",
+          "type": "chart",
+          "rank_type": "weekly",
+          "description": "每周五更新；关注榜单，第一时间了解最新口碑佳片。",
+          "short_name": "口碑电影",
+          "n_followers": 312127,
+          "cover_url": "https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_0ca071b671ac15d3/profile/chart_cover_url",
+          "header_bg_image": "https://img9.doubanio.com/view/photo/photo/public/p2908568716.webp",
+          "show_rank": true,
+          "chart_id": 33,
+          "done_count": 0,
+          "name": "一周口碑电影榜",
+          "wx_app_code": "https://img1.doubanio.com/img/frodo/files/file-6900a7f0-11a7-43a8-80e3-09315ca9b919.png",
+          "subject_count": 10,
+          "items_count": 10,
+          "sharing_url": "https://m.douban.com/subject_collection/movie_weekly_best",
+          "collect_count": 0,
+          "url": "",
+          "items": [
+            {
+              "rating": {
+                "count": 65443,
+                "max": 10,
+                "star_count": 4.5,
+                "value": 9.1
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-05-31(美国/中国大陆)"
+              ],
+              "rank_value": 1,
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910815887.webp",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910815887.webp"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 美国 / 剧情 传记 运动 / 乔阿吉姆·罗恩尼 / 黛西·雷德利 蒂尔达·格哈姆-哈维",
+              "id": "26656728",
+              "genres": [
+                "剧情",
+                "传记",
+                "运动"
+              ],
+              "trend_down": false,
+              "title": "泳者之心",
+              "trend_equal": false,
+              "trend_up": true,
+              "is_released": true,
+              "rank_value_changed": 10,
+              "actors": [
+                {
+                  "name": "黛西·雷德利"
+                },
+                {
+                  "name": "蒂尔达·格哈姆-哈维"
+                },
+                {
+                  "name": "斯蒂芬·格拉汉姆"
+                },
+                {
+                  "name": "金·波德尼亚"
+                },
+                {
+                  "name": "詹妮特·海因"
+                },
+                {
+                  "name": "格伦·弗莱舍尔"
+                },
+                {
+                  "name": "茜安·克利福德"
+                },
+                {
+                  "name": "克里斯托弗·埃克莱斯顿"
+                },
+                {
+                  "name": "伊桑·劳斯"
+                },
+                {
+                  "name": "奥利弗·伊莉丝·阿伯克隆比"
+                },
+                {
+                  "name": "莉莉·阿斯佩尔"
+                },
+                {
+                  "name": "亚历山大·卡里姆"
+                },
+                {
+                  "name": "阿历克斯·哈赛尔"
+                },
+                {
+                  "name": ""
+                },
+                {
+                  "name": ""
+                },
+                {
+                  "name": "道克·巴特勒"
+                },
+                {
+                  "name": "约旦·安杰洛夫"
+                },
+                {
+                  "name": "罗伯特·伊德斯"
+                },
+                {
+                  "name": "休伊·欧格雷迪"
+                },
+                {
+                  "name": ""
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "606972",
+                "_base_color": [
+                  0.5833333333333334,
+                  0.16129032258064516,
+                  0.24313725490196078
+                ],
+                "secondary_color": "f4f7f9",
+                "_avg_color": [
+                  0.5714285714285715,
+                  0.07692307692307696,
+                  0.3568627450980392
+                ],
+                "primary_color_dark": "40464c"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910815887.webp",
+              "sharing_url": "https://movie.douban.com/subject/26656728/",
+              "url": "https://movie.douban.com/subject/26656728/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/26656728",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "乔阿吉姆·罗恩尼"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            },
+            {
+              "rating": {
+                "count": 621,
+                "max": 10,
+                "star_count": 4.5,
+                "value": 8.5
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2023-05-20(戛纳电影节)"
+              ],
+              "rank_value": 2,
+              "pic": {
+                "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2891707171.webp",
+                "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891707171.webp"
+              },
+              "is_show": false,
+              "year": "2023",
+              "card_subtitle": "2023 / 苏丹 瑞典 德国 沙特阿拉伯 法国 埃及 / 剧情 / 穆罕默德·科尔多法尼 /  ",
+              "id": "36070920",
+              "genres": [
+                "剧情"
+              ],
+              "trend_down": false,
+              "title": "再见，朱莉娅",
+              "trend_equal": false,
+              "trend_up": true,
+              "is_released": true,
+              "rank_value_changed": 9,
+              "actors": [
+                {
+                  "name": ""
+                },
+                {
+                  "name": ""
+                },
+                {
+                  "name": ""
+                },
+                {
+                  "name": "格·达尼"
+                },
+                {
+                  "name": ""
+                },
+                {
+                  "name": ""
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "722911",
+                "_base_color": [
+                  0.041666666666666685,
+                  0.8461538461538461,
+                  0.20392156862745098
+                ],
+                "secondary_color": "f9f6f4",
+                "_avg_color": [
+                  0.045238095238095244,
+                  0.8045977011494253,
+                  0.3411764705882353
+                ],
+                "primary_color_dark": "4c1b0b"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2891707171.webp",
+              "sharing_url": "https://movie.douban.com/subject/36070920/",
+              "url": "https://movie.douban.com/subject/36070920/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/36070920",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "穆罕默德·科尔多法尼"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            },
+            {
+              "rating": {
+                "count": 3134,
+                "max": 10,
+                "star_count": 4,
+                "value": 8.2
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2023-11-23(中国香港)"
+              ],
+              "rank_value": 3,
+              "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2901073916.webp",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2901073916.webp"
+              },
+              "is_show": false,
+              "year": "2023",
+              "card_subtitle": "2023 / 中国香港 / 纪录片 / 许鞍华 / 许鞍华 黄灿然",
+              "id": "35641752",
+              "genres": [
+                "纪录片"
+              ],
+              "trend_down": true,
+              "title": "诗",
+              "trend_equal": false,
+              "trend_up": false,
+              "is_released": true,
+              "rank_value_changed": 2,
+              "actors": [
+                {
+                  "name": "许鞍华"
+                },
+                {
+                  "name": "黄灿然"
+                },
+                {
+                  "name": "廖伟棠"
+                },
+                {
+                  "name": "淮远"
+                },
+                {
+                  "name": "饮江"
+                },
+                {
+                  "name": "邓阿蓝"
+                },
+                {
+                  "name": "马若"
+                },
+                {
+                  "name": "西西"
+                },
+                {
+                  "name": "也斯"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "386ba5",
+                "_base_color": [
+                  0.5896358543417367,
+                  0.6574585635359116,
+                  0.7098039215686275
+                ],
+                "secondary_color": "f4f7f9",
+                "_avg_color": [
+                  0.585,
+                  0.5586592178770949,
+                  0.7019607843137254
+                ],
+                "primary_color_dark": "2b527f"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2901073916.webp",
+              "sharing_url": "https://movie.douban.com/subject/35641752/",
+              "url": "https://movie.douban.com/subject/35641752/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/35641752",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "许鞍华"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            }
+          ],
+          "is_badge_chart": false,
+          "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+          "mini_program_page": "",
+          "icon_fg_image": "",
+          "icon_text": "片单",
+          "more_description": "",
+          "list_type": "rank_list",
+          "mini_program_name": "",
+          "display": {
+            "layout": "list"
+          },
+          "user": null
+        },
+        {
+          "subject_type": "movie",
+          "subtitle": "豆瓣榜单",
+          "background_color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6f6672",
+            "secondary_color": "f8f4f9",
+            "primary_color_dark": "4a444c"
+          },
+          "is_follow": false,
+          "updated_at": "2024-08-04 09:15:43",
+          "skynet_model": null,
+          "total": 10,
+          "type_icon_bg_text": "HOUR",
+          "category": "movie",
+          "is_official": false,
+          "is_merged_cover": false,
+          "title": "实时热门电影",
+          "finish_soon": false,
+          "id": "movie_real_time_hotest",
+          "followers_count": 0,
+          "show_header_mask": true,
+          "medium_name": "实时热门",
+          "type": "chart",
+          "rank_type": "realtime_hot",
+          "description": "豆瓣热门电影作品，根据电影实时热度与关注度得出的综合排名，每小时更新。",
+          "short_name": "电影",
+          "n_followers": 0,
+          "cover_url": "https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_b8e3a578ea5e934d/profile/chart_cover_url",
+          "header_bg_image": "https://img1.doubanio.com/view/photo/photo/public/p2910352389.webp",
+          "show_rank": true,
+          "chart_id": 3756,
+          "done_count": 0,
+          "name": "实时热门电影",
+          "subject_count": 10,
+          "items_count": 10,
+          "sharing_url": "https://m.douban.com/subject_collection/movie_real_time_hotest",
+          "collect_count": 0,
+          "url": "",
+          "items": [
+            {
+              "rating": {
+                "count": 66767,
+                "max": 10,
+                "star_count": 4,
+                "value": 7.7
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-08-02(中国大陆)"
+              ],
+              "rank_value": 1,
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911256273.webp",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911256273.webp"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 中国大陆 / 喜剧 科幻 / 李阳 / 张若昀 钟楚曦",
+              "id": "26816104",
+              "genres": [
+                "喜剧",
+                "科幻"
+              ],
+              "trend_down": false,
+              "title": "从21世纪安全撤离",
+              "trend_equal": true,
+              "trend_up": false,
+              "is_released": true,
+              "rank_value_changed": 0,
+              "actors": [
+                {
+                  "name": "张若昀"
+                },
+                {
+                  "name": "钟楚曦"
+                },
+                {
+                  "name": "宋洋"
+                },
+                {
+                  "name": "吴晓亮"
+                },
+                {
+                  "name": "朱颜曼滋"
+                },
+                {
+                  "name": "李晨浩"
+                },
+                {
+                  "name": "温峥嵘"
+                },
+                {
+                  "name": "石凉"
+                },
+                {
+                  "name": "陈一辰"
+                },
+                {
+                  "name": "李卓钊"
+                },
+                {
+                  "name": "康启轩"
+                },
+                {
+                  "name": "马凡丁"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "726355",
+                "_base_color": [
+                  0.07777777777777779,
+                  0.25423728813559326,
+                  0.23137254901960785
+                ],
+                "secondary_color": "f9f7f4",
+                "_avg_color": [
+                  0.08156028368794326,
+                  0.4311926605504587,
+                  0.42745098039215684
+                ],
+                "primary_color_dark": "4c4239"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911256273.webp",
+              "sharing_url": "https://movie.douban.com/subject/26816104/",
+              "url": "https://movie.douban.com/subject/26816104/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/26816104",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "李阳"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            },
+            {
+              "rating": {
+                "count": 53650,
+                "max": 10,
+                "star_count": 3.5,
+                "value": 6.9
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-08-03(中国大陆)"
+              ],
+              "rank_value": 2,
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911118127.webp",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911118127.webp"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 中国大陆 / 剧情 历史 / 陈思诚 / 刘昊然 约翰·库萨克",
+              "id": "26370387",
+              "genres": [
+                "剧情",
+                "历史"
+              ],
+              "trend_down": false,
+              "title": "解密",
+              "trend_equal": true,
+              "trend_up": false,
+              "is_released": true,
+              "rank_value_changed": 0,
+              "actors": [
+                {
+                  "name": "刘昊然"
+                },
+                {
+                  "name": "约翰·库萨克"
+                },
+                {
+                  "name": "陈道明"
+                },
+                {
+                  "name": "吴彦祖"
+                },
+                {
+                  "name": "俞飞鸿"
+                },
+                {
+                  "name": "任璐遥"
+                },
+                {
+                  "name": "陈雨锶"
+                },
+                {
+                  "name": "王雨甜"
+                },
+                {
+                  "name": "周游"
+                },
+                {
+                  "name": "朱珠"
+                },
+                {
+                  "name": "曹翠芬"
+                },
+                {
+                  "name": "吴彦姝"
+                },
+                {
+                  "name": "许还山"
+                },
+                {
+                  "name": "王宝强"
+                },
+                {
+                  "name": "肖央"
+                },
+                {
+                  "name": "潘粤明"
+                },
+                {
+                  "name": "沙宝亮"
+                },
+                {
+                  "name": "周野芒"
+                },
+                {
+                  "name": "王龙正"
+                },
+                {
+                  "name": "欧阳娜娜"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "725d69",
+                "_base_color": [
+                  0.9047619047619047,
+                  0.18421052631578946,
+                  0.14901960784313725
+                ],
+                "secondary_color": "f9f4f7",
+                "_avg_color": [
+                  0.4166666666666667,
+                  0.027397260273972508,
+                  0.28627450980392155
+                ],
+                "primary_color_dark": "4c3e46"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911118127.webp",
+              "sharing_url": "https://movie.douban.com/subject/26370387/",
+              "url": "https://movie.douban.com/subject/26370387/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/26370387",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "陈思诚"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            },
+            {
+              "rating": {
+                "count": 131719,
+                "max": 10,
+                "star_count": 3.5,
+                "value": 7.2
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-07-26(中国大陆)"
+              ],
+              "rank_value": 3,
+              "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2909497944.webp",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2909497944.webp"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 美国 / 喜剧 动作 科幻 / 肖恩·利维 / 瑞安·雷诺兹 休·杰克曼",
+              "id": "26957900",
+              "genres": [
+                "喜剧",
+                "动作",
+                "科幻"
+              ],
+              "trend_down": false,
+              "title": "死侍与金刚狼",
+              "trend_equal": true,
+              "trend_up": false,
+              "is_released": true,
+              "rank_value_changed": 0,
+              "actors": [
+                {
+                  "name": "瑞安·雷诺兹"
+                },
+                {
+                  "name": "休·杰克曼"
+                },
+                {
+                  "name": "艾玛·科林"
+                },
+                {
+                  "name": "马修·麦克费登"
+                },
+                {
+                  "name": "达芙妮·基恩"
+                },
+                {
+                  "name": "莫蕾娜·巴卡琳"
+                },
+                {
+                  "name": "乔恩·费儒"
+                },
+                {
+                  "name": "罗伯·德兰尼"
+                },
+                {
+                  "name": "莱斯利·格塞斯"
+                },
+                {
+                  "name": "克里斯·埃文斯"
+                },
+                {
+                  "name": "詹妮弗·加纳"
+                },
+                {
+                  "name": "韦斯利·斯奈普斯"
+                },
+                {
+                  "name": "查宁·塔图姆"
+                },
+                {
+                  "name": "亨利·卡维尔"
+                },
+                {
+                  "name": "乌米·马萨库"
+                },
+                {
+                  "name": "亚伦·斯坦福"
+                },
+                {
+                  "name": "布蕾克·莱弗利"
+                },
+                {
+                  "name": "马修·麦康纳"
+                },
+                {
+                  "name": "内森·菲利安"
+                },
+                {
+                  "name": "泰勒·梅恩"
+                },
+                {
+                  "name": "卡兰·索尼"
+                },
+                {
+                  "name": "布里安娜·希德布兰德"
+                },
+                {
+                  "name": "忽那汐里"
+                },
+                {
+                  "name": "斯蒂芬·卡皮契奇"
+                },
+                {
+                  "name": "兰德尔·瑞德"
+                },
+                {
+                  "name": "刘易斯·陈"
+                },
+                {
+                  "name": "尼克·保利"
+                },
+                {
+                  "name": "亚伦·W·里德"
+                },
+                {
+                  "name": "丹尼尔·麦地纳·拉莫斯"
+                },
+                {
+                  "name": "爱德华多·加戈·米诺"
+                },
+                {
+                  "name": "洁德·黎"
+                },
+                {
+                  "name": "小利莫尔·马雷特"
+                },
+                {
+                  "name": "詹姆斯·德莱顿"
+                },
+                {
+                  "name": "佩吉"
+                },
+                {
+                  "name": "伊内兹·雷诺兹"
+                },
+                {
+                  "name": "奥林·雷诺兹"
+                },
+                {
+                  "name": "詹姆斯·雷诺兹"
+                },
+                {
+                  "name": "保罗·穆林"
+                },
+                {
+                  "name": "亚历克斯·基什科维奇"
+                },
+                {
+                  "name": "格雷格·亨普希尔"
+                },
+                {
+                  "name": "索妮塔·亨利"
+                },
+                {
+                  "name": "瑞恩·麦肯"
+                },
+                {
+                  "name": "纳纳克·弗罗拉"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "a5a5a2",
+                "_base_color": [
+                  0.125,
+                  0.016597510373443924,
+                  0.9450980392156862
+                ],
+                "secondary_color": "f9f8f4",
+                "_avg_color": [
+                  0.06410256410256411,
+                  0.2254335260115607,
+                  0.6784313725490196
+                ],
+                "primary_color_dark": "7f7e7d"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2909497944.webp",
+              "sharing_url": "https://movie.douban.com/subject/26957900/",
+              "url": "https://movie.douban.com/subject/26957900/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/26957900",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "肖恩·利维"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            }
+          ],
+          "is_badge_chart": false,
+          "uri": "douban://douban.com/subject_collection/movie_real_time_hotest?type=rank&category=movie&rank_type=realtime_hot",
+          "mini_program_page": "",
+          "icon_fg_image": "",
+          "icon_text": "片单",
+          "more_description": "",
+          "list_type": "rank_list",
+          "mini_program_name": "",
+          "display": {
+            "layout": "list"
+          },
+          "user": null
+        },
+        {
+          "subject_type": "movie",
+          "subtitle": "豆瓣榜单",
+          "background_color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "32323B",
+            "secondary_color": "32323B",
+            "primary_color_dark": "32323B"
+          },
+          "is_follow": false,
+          "updated_at": null,
+          "rank": true,
+          "skynet_model": null,
+          "is_official": false,
+          "background_color": "#E1A01A",
+          "type_icon_bg_text": "",
+          "category": "movie",
+          "total": 250,
+          "is_merged_cover": false,
+          "header_fg_image": "https://img1.doubanio.com/img/files/file-1637045770.jpeg",
+          "title": "豆瓣电影 Top250",
+          "wx_qr_code": "https://img1.doubanio.com/img/frodo/files/roboport-chart-qrcode-movie_top250.png",
+          "finish_soon": false,
+          "id": "movie_top250",
+          "followers_count": 1452867,
+          "show_header_mask": false,
+          "medium_name": "豆瓣 Top250",
+          "type": "chart",
+          "rank_type": "top250",
+          "description": "根据“看过”人数、评分、评价等因素，通过算法得出的电影综合排名，每周更新。",
+          "short_name": "",
+          "n_followers": 1452867,
+          "cover_url": "https://img9.doubanio.com/img/files/file-1637044446.jpeg",
+          "header_bg_image": "https://img1.doubanio.com/img/files/file-1543564940.png",
+          "show_rank": true,
+          "chart_id": 40,
+          "done_count": 0,
+          "name": "豆瓣电影 Top250",
+          "wx_app_code": "https://img3.doubanio.com/img/frodo/files/file-8a83e584-b108-473c-87bc-91ae0dcdcc8a.png",
+          "subject_count": 250,
+          "items_count": 250,
+          "sharing_url": "https://m.douban.com/subject_collection/movie_top250",
+          "collect_count": 0,
+          "url": "",
+          "items": [
+            {
+              "rating": {
+                "count": 3047974,
+                "max": 10,
+                "star_count": 5,
+                "value": 9.7
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "1994-09-10(多伦多电影节)"
+              ],
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p480747492.webp",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.webp"
+              },
+              "is_show": false,
+              "year": "1994",
+              "card_subtitle": "1994 / 美国 / 剧情 犯罪 / 弗兰克·德拉邦特 / 蒂姆·罗宾斯 摩根·弗里曼",
+              "id": "1292052",
+              "genres": [
+                "剧情",
+                "犯罪"
+              ],
+              "title": "肖申克的救赎",
+              "is_released": true,
+              "actors": [
+                {
+                  "name": "蒂姆·罗宾斯"
+                },
+                {
+                  "name": "摩根·弗里曼"
+                },
+                {
+                  "name": "鲍勃·冈顿"
+                },
+                {
+                  "name": "威廉姆·赛德勒"
+                },
+                {
+                  "name": "克兰西·布朗"
+                },
+                {
+                  "name": "吉尔·贝罗斯"
+                },
+                {
+                  "name": "马克·罗斯顿"
+                },
+                {
+                  "name": "詹姆斯·惠特摩"
+                },
+                {
+                  "name": "杰弗里·德曼"
+                },
+                {
+                  "name": "拉里·布兰登伯格"
+                },
+                {
+                  "name": "尼尔·吉恩托利"
+                },
+                {
+                  "name": "布赖恩·利比"
+                },
+                {
+                  "name": "大卫·普罗瓦尔"
+                },
+                {
+                  "name": "约瑟夫·劳格诺"
+                },
+                {
+                  "name": "祖德·塞克利拉"
+                },
+                {
+                  "name": "保罗·麦克兰尼"
+                },
+                {
+                  "name": "芮妮·布莱恩"
+                },
+                {
+                  "name": "阿方索·弗里曼"
+                },
+                {
+                  "name": "V·J·福斯特"
+                },
+                {
+                  "name": "弗兰克·梅德拉诺"
+                },
+                {
+                  "name": "马克·迈尔斯"
+                },
+                {
+                  "name": "尼尔·萨默斯"
+                },
+                {
+                  "name": "耐德·巴拉米"
+                },
+                {
+                  "name": "布赖恩·戴拉特"
+                },
+                {
+                  "name": "唐·麦克马纳斯"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "723b2c",
+                "_base_color": [
+                  0.03508771929824561,
+                  0.6129032258064516,
+                  0.12156862745098039
+                ],
+                "secondary_color": "f9f5f4",
+                "_avg_color": [
+                  0.06060606060606061,
+                  0.4125,
+                  0.3137254901960784
+                ],
+                "primary_color_dark": "4c271d"
+              },
+              "type": "movie",
+              "has_linewatch": true,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p480747492.webp",
+              "sharing_url": "https://movie.douban.com/subject/1292052/",
+              "url": "https://movie.douban.com/subject/1292052/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/1292052",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "弗兰克·德拉邦特"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            },
+            {
+              "rating": {
+                "count": 2252015,
+                "max": 10,
+                "star_count": 5,
+                "value": 9.6
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "1993-07-26(中国大陆)"
+              ],
+              "pic": {
+                "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2561716440.webp",
+                "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.webp"
+              },
+              "is_show": false,
+              "year": "1993",
+              "card_subtitle": "1993 / 中国大陆 中国香港 / 剧情 爱情 同性 / 陈凯歌 / 张国荣 张丰毅",
+              "id": "1291546",
+              "genres": [
+                "剧情",
+                "爱情",
+                "同性"
+              ],
+              "title": "霸王别姬",
+              "is_released": true,
+              "actors": [
+                {
+                  "name": "张国荣"
+                },
+                {
+                  "name": "张丰毅"
+                },
+                {
+                  "name": "巩俐"
+                },
+                {
+                  "name": "葛优"
+                },
+                {
+                  "name": "英达"
+                },
+                {
+                  "name": "蒋雯丽"
+                },
+                {
+                  "name": "吴大维"
+                },
+                {
+                  "name": "吕齐"
+                },
+                {
+                  "name": "雷汉"
+                },
+                {
+                  "name": "尹治"
+                },
+                {
+                  "name": "马明威"
+                },
+                {
+                  "name": "费振翔"
+                },
+                {
+                  "name": "智一桐"
+                },
+                {
+                  "name": "李春"
+                },
+                {
+                  "name": "赵海龙"
+                },
+                {
+                  "name": "李丹"
+                },
+                {
+                  "name": "童弟"
+                },
+                {
+                  "name": "沈慧芬"
+                },
+                {
+                  "name": "黄斐"
+                },
+                {
+                  "name": "徐杰"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "a5a39e",
+                "_base_color": [
+                  0.10606060606060595,
+                  0.044715447154471614,
+                  0.9647058823529412
+                ],
+                "secondary_color": "f9f8f4",
+                "_avg_color": [
+                  0.01388888888888882,
+                  0.054298642533936715,
+                  0.8666666666666667
+                ],
+                "primary_color_dark": "7f7d79"
+              },
+              "type": "movie",
+              "has_linewatch": true,
+              "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2561716440.webp",
+              "sharing_url": "https://movie.douban.com/subject/1291546/",
+              "url": "https://movie.douban.com/subject/1291546/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/1291546",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "陈凯歌"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            },
+            {
+              "rating": {
+                "count": 2270604,
+                "max": 10,
+                "star_count": 5,
+                "value": 9.5
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "1994-06-23(洛杉矶首映)"
+              ],
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2372307693.webp",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.webp"
+              },
+              "is_show": false,
+              "year": "1994",
+              "card_subtitle": "1994 / 美国 / 剧情 爱情 / 罗伯特·泽米吉斯 / 汤姆·汉克斯 罗宾·怀特",
+              "id": "1292720",
+              "genres": [
+                "剧情",
+                "爱情"
+              ],
+              "title": "阿甘正传",
+              "is_released": true,
+              "actors": [
+                {
+                  "name": "汤姆·汉克斯"
+                },
+                {
+                  "name": "罗宾·怀特"
+                },
+                {
+                  "name": "加里·辛尼斯"
+                },
+                {
+                  "name": "麦凯尔泰·威廉逊"
+                },
+                {
+                  "name": "莎莉·菲尔德"
+                },
+                {
+                  "name": "海利·乔·奥斯蒙"
+                },
+                {
+                  "name": "迈克尔·康纳·亨弗里斯"
+                },
+                {
+                  "name": "哈罗德·G·赫瑟姆"
+                },
+                {
+                  "name": "山姆·安德森"
+                },
+                {
+                  "name": "伊俄涅·M·特雷奇"
+                },
+                {
+                  "name": "彼得·道博森"
+                },
+                {
+                  "name": "希芳·法隆"
+                },
+                {
+                  "name": "伊丽莎白·汉克斯"
+                },
+                {
+                  "name": "汉娜·豪尔"
+                },
+                {
+                  "name": "克里斯托弗·琼斯"
+                },
+                {
+                  "name": "罗布·兰德里"
+                },
+                {
+                  "name": "杰森·麦克奎尔"
+                },
+                {
+                  "name": "桑尼·施罗耶"
+                },
+                {
+                  "name": "艾德·戴维斯"
+                },
+                {
+                  "name": "丹尼尔C.斯瑞派克"
+                },
+                {
+                  "name": "大卫·布里斯宾"
+                },
+                {
+                  "name": "德博拉·麦克蒂尔"
+                },
+                {
+                  "name": "艾尔·哈林顿"
+                },
+                {
+                  "name": "阿非莫·奥米拉"
+                },
+                {
+                  "name": "约翰·沃德斯塔德"
+                },
+                {
+                  "name": "迈克尔·伯吉斯"
+                },
+                {
+                  "name": "埃里克·安德伍德"
+                },
+                {
+                  "name": "拜伦·明斯"
+                },
+                {
+                  "name": "斯蒂芬·布吉格沃特"
+                },
+                {
+                  "name": "约翰·威廉·高尔特"
+                },
+                {
+                  "name": "希拉里·沙普兰"
+                },
+                {
+                  "name": "伊莎贝尔·罗斯"
+                },
+                {
+                  "name": "理查德·达历山德罗"
+                },
+                {
+                  "name": "迪克·史迪威"
+                },
+                {
+                  "name": "迈克尔-杰斯"
+                },
+                {
+                  "name": "杰弗里·布莱克"
+                },
+                {
+                  "name": "瓦妮莎·罗斯"
+                },
+                {
+                  "name": "迪克·卡维特"
+                },
+                {
+                  "name": "马拉·苏查雷特扎"
+                },
+                {
+                  "name": "乔·阿拉斯奇"
+                },
+                {
+                  "name": "W·本森·泰瑞"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "a53f6b",
+                "_base_color": [
+                  0.9285714285714286,
+                  0.6176470588235294,
+                  0.13333333333333333
+                ],
+                "secondary_color": "f9f4f7",
+                "_avg_color": [
+                  0.04166666666666652,
+                  0.03636363636363636,
+                  0.8627450980392157
+                ],
+                "primary_color_dark": "7f3052"
+              },
+              "type": "movie",
+              "has_linewatch": true,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2372307693.webp",
+              "sharing_url": "https://movie.douban.com/subject/1292720/",
+              "url": "https://movie.douban.com/subject/1292720/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/1292720",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "罗伯特·泽米吉斯"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": ""
+            }
+          ],
+          "is_badge_chart": false,
+          "uri": "douban://douban.com/subject_collection/movie_top250?type=rank&category=movie&rank_type=top250",
+          "mini_program_page": "",
+          "icon_fg_image": "https://img1.doubanio.com/img/files/file-1543460329.png",
+          "icon_text": "片单",
+          "more_description": "",
+          "list_type": "rank_list",
+          "mini_program_name": "",
+          "display": {
+            "layout": "list"
+          },
+          "user": null
+        }
+      ],
+      "uri": ""
+    },
+    {
+      "tabs": [
+        {
+          "key": "2023",
+          "title": "2023"
+        },
+        {
+          "key": "2022",
+          "title": "2022"
+        },
+        {
+          "key": "2021",
+          "title": "2021"
+        },
+        {
+          "key": "2020",
+          "title": "2020"
+        },
+        {
+          "key": "2019",
+          "title": "2019"
+        },
+        {
+          "key": "2018",
+          "title": "2018"
+        },
+        {
+          "key": "2017",
+          "title": "2017"
+        },
+        {
+          "key": "2016",
+          "title": "2016"
+        },
+        {
+          "key": "2015",
+          "title": "2015"
+        },
+        {
+          "key": "2014",
+          "title": "2014"
+        }
+      ],
+      "title": "年度电影榜单",
+      "type": "year",
+      "selected_collections": [
+      ],
+      "uri": ""
+    },
+    {
+      "tabs": [
+        {
+          "key": "all",
+          "title": "全部"
+        },
+        {
+          "key": "recent_hot",
+          "title": "近期热门"
+        },
+        {
+          "key": "high_classic",
+          "title": "高分经典"
+        },
+        {
+          "key": "dark_horse",
+          "title": "冷门佳作"
+        },
+        {
+          "key": "area_best",
+          "title": "地区佳作"
+        },
+        {
+          "key": "topic",
+          "title": "分类题材"
+        }
+      ],
+      "title": "电影类型榜单",
+      "type": "category",
+      "selected_collections": [
+      ],
+      "uri": ""
+    }
+  ],
+  "title": "豆瓣榜单"
+}

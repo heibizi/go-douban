@@ -1,0 +1,239 @@
+{
+  "id": "web",
+  "name": "豆瓣 WEB",
+  "domain": "https://movie.douban.com",
+  "requests": {
+    "detail": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/subject/{id}",
+      "fields": {
+        "title": {
+          "selector": "//span[@property='v:itemreviewed']/text()"
+        },
+        "year": {
+          "selector": "//div[@id='content']//span[@class='year']/text()"
+        },
+        "intro": {
+          "selector": "//span[@property='v:summary']/text()"
+        },
+        "cover": {
+          "selector": "//div[@id='mainpic']//img/@src"
+        },
+        "rate": {
+          "selector": "//strong[@property='v:average']/text()"
+        },
+        "imdb": {
+          "selector": "//div[@id='info']/span[contains(text(), 'IMDb:')]/following-sibling::text()"
+        },
+        "season": {
+          "any": [
+            {
+              "selector": "//div[@id='info']/span[contains(text(), '季数')]/following-sibling::text()"
+            },
+            {
+              "selector": "//*[@id=\"season\"]/option[1]"
+            }
+          ]
+        },
+        "episode_num": {
+          "selector": "//div[@id='info']/span[contains(text(), '集数')]/following-sibling::text()"
+        }
+      }
+    },
+    "now_playing": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/cinema/nowplaying",
+      "list": {
+        "selector": "//div[@id='nowplaying']//ul[@class='lists']/li"
+      },
+      "fields": {
+        "id": {
+          "selector": "./@data-subject"
+        },
+        "title": {
+          "selector": "./@data-title"
+        },
+        "rate": {
+          "selector": "./@data-score"
+        },
+        "cover": {
+          "selector": "./ul/li[@class='poster']/a/img/@src"
+        },
+        "year": {
+          "selector": "./@data-release"
+        }
+      }
+    },
+    "later": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/cinema/later",
+      "list": {
+        "selector": "//div[@id='showing-soon']/div"
+      },
+      "fields": {
+        "id": {
+          "selector": "./div[@class='intro']/h3/a/@href]",
+          "filters": [
+            {
+              "name": "re_search",
+              "args": [
+                "/subject/(.*)/",
+                1
+              ]
+            }
+          ]
+        },
+        "title": {
+          "selector": "./div[@class='intro']/h3/a/text()]"
+        },
+        "cover": {
+          "selector": "./a[@class='thumb']/img/@src"
+        },
+        "url": {
+          "selector": "./div[@class='intro']/h3/a/@href"
+        }
+      }
+    },
+    "top250": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/top250",
+      "list": {
+        "selector": "//ol[@class='grid_view']/li"
+      },
+      "fields": {
+        "title": {
+          "selector": "./div[@class='item']/div[@class='pic']/a/img/@alt"
+        },
+        "cover": {
+          "selector": "./div[@class='item']/div[@class='pic']/a/img/@src"
+        },
+        "url": {
+          "selector": "./div[@class='item']/div[@class='pic']/a/@href"
+        }
+      }
+    },
+    "collect": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/people/{peopleId}/collect?start={start}&sort=time&rating=all&filter=all&mode=grid",
+      "list": {
+        "selector": "//div[@class='grid-view']/div[contains(@class, 'item')]"
+      },
+      "fields": {
+        "title": {
+          "selector": "./div[@class='info']/ul/li[@class='title']/a/em/text()"
+        },
+        "cover": {
+          "selector": "./div[@class='pic']/a/img/@src"
+        },
+        "url": {
+          "selector": "./div[@class='info']/ul/li[@class='title']/a/@href"
+        }
+      }
+    },
+    "wish": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/people/{peopleId}/wish?start={start}&sort=time&rating=all&filter=all&mode=grid",
+      "list": {
+        "selector": "//div[@class='grid-view']/div[contains(@class, 'item')]"
+      },
+      "fields": {
+        "title": {
+          "selector": "./div[@class='info']/ul/li[@class='title']/a/em/text()"
+        },
+        "cover": {
+          "selector": "./div[@class='pic']/a/img/@src"
+        },
+        "url": {
+          "selector": "./div[@class='info']/ul/li[@class='title']/a/@href"
+        },
+        "date": {
+          "selector": "./div[@class='info']//span[@class='date']/text()"
+        }
+      }
+    },
+    "do": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/people/{peopleId}/do?start={start}&sort=time&rating=all&filter=all&mode=grid",
+      "list": {
+        "selector": "//div[@class='grid-view']/div[contains(@class, 'item')]"
+      },
+      "fields": {
+        "title": {
+          "selector": "./div[@class='info']/ul/li[@class='title']/a/em/text()"
+        },
+        "cover": {
+          "selector": "./div[@class='pic']/a/img/@src"
+        },
+        "url": {
+          "selector": "./div[@class='info']/ul/li[@class='title']/a/@href"
+        }
+      }
+    },
+    "user": {
+      "parser": "XPath",
+      "method": "GET",
+      "path": "/people/{peopleId}/",
+      "fields": {
+        "name": {
+          "selector": "//div[@class='side-info']/div[@class='side-info-txt']/h3/text()"
+        }
+      }
+    },
+    "interests_rss": {
+      "parser": "None",
+      "method": "GET",
+      "path": "https://www.douban.com/feed/people/{peopleId}/interests"
+    },
+    "search_subjects": {
+      "parser": "JsonPath",
+      "method": "GET",
+      "path": "/j/search_subjects",
+      "params": {
+        "type": [
+          "{type}"
+        ],
+        "tag": [
+          "{tag}"
+        ],
+        "page_limit": [
+          "{pageLimit}"
+        ],
+        "page_start": [
+          "{pageStart}"
+        ]
+      },
+      "list": {
+        "selector": "subjects"
+      },
+      "fields": {
+        "episodes_info": {
+        },
+        "rate": {
+        },
+        "cover_x": {
+        },
+        "title": {
+        },
+        "url": {
+        },
+        "playable": {
+        },
+        "cover": {
+        },
+        "id": {
+        },
+        "cover_y": {
+        },
+        "is_new": {
+        }
+      }
+    }
+  }
+}

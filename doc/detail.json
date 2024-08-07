@@ -1,0 +1,414 @@
+{
+  "rating": {
+    "count": 62656,
+    "max": 10,
+    "star_count": 3.5,
+    "value": 6.8
+  },
+  "lineticket_url": "douban://douban.com/movie/26370387/ticket",
+  "controversy_reason": "",
+  "pubdate": [
+    "2024-08-03(中国大陆)"
+  ],
+  "last_episode_number": null,
+  "interest_control_info": null,
+  "pic": {
+    "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911118127.webp",
+    "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911118127.webp"
+  },
+  "year": "2024",
+  "vendor_count": 0,
+  "body_bg_color": "f9f4f7",
+  "is_tv": false,
+  "card_subtitle": "2024 / 中国大陆 / 剧情 历史 / 陈思诚 / 刘昊然 约翰·库萨克",
+  "album_no_interact": false,
+  "ticket_price_info": "",
+  "pre_playable_date": null,
+  "can_rate": true,
+  "head_info": null,
+  "forum_info": null,
+  "share_activities": [
+
+  ],
+  "webisode": null,
+  "id": "26370387",
+  "gallery_topic_count": 0,
+  "languages": [
+    "汉语普通话",
+    "英语"
+  ],
+  "genres": [
+    "剧情",
+    "历史"
+  ],
+  "review_count": 1029,
+  "variable_modules": [
+    {
+      "sub_modules": [
+
+      ],
+      "id": "rating"
+    },
+    {
+      "sub_modules": [
+
+      ],
+      "id": "other_interests"
+    },
+    {
+      "sub_modules": [
+
+      ],
+      "id": "video_photos"
+    },
+    {
+      "sub_modules": [
+
+      ],
+      "id": "tags"
+    },
+    {
+      "sub_modules": [
+        {
+          "id": "screenshot"
+        },
+        {
+          "id": "doulist"
+        },
+        {
+          "id": "status"
+        },
+        {
+          "id": "other_channels"
+        }
+      ],
+      "id": "share"
+    },
+    {
+      "sub_modules": [
+
+      ],
+      "id": "related_items"
+    },
+    {
+      "sub_modules": [
+        {
+          "id": "count"
+        },
+        {
+          "data": [
+            {
+              "name": "热门",
+              "id": "hot"
+            },
+            {
+              "name": "最新",
+              "id": "latest"
+            },
+            {
+              "name": "友邻",
+              "id": "friend"
+            }
+          ],
+          "id": "sort_by",
+          "data_type": "sort_by"
+        },
+        {
+          "id": "rating_scope"
+        }
+      ],
+      "id": "comments"
+    },
+    {
+      "sub_modules": [
+
+      ],
+      "id": "honor_infos"
+    },
+    {
+      "sub_modules": [
+
+      ],
+      "id": "interest"
+    },
+    {
+      "sub_modules": [
+
+      ],
+      "id": "related_subjects"
+    },
+    {
+      "sub_modules": [
+        {
+          "data": {
+            "count": 1978,
+            "title": "综合",
+            "uri": "douban://partial.douban.com/subject/26370387/suggest",
+            "source": "综合",
+            "type": "mixed_suggestion",
+            "id": "mixed_suggestion"
+          },
+          "id": "ugc_tab",
+          "data_type": "ugc_tab"
+        },
+        {
+          "data": {
+            "source": "reviews",
+            "title": "影评",
+            "type": "review",
+            "sort_by": [
+              {
+                "name": "热门",
+                "id": "hot"
+              },
+              {
+                "name": "最新",
+                "id": "latest"
+              },
+              {
+                "name": "友邻",
+                "id": "friend"
+              }
+            ]
+          },
+          "id": "ugc_tab",
+          "data_type": "ugc_tab"
+        },
+        {
+          "data": {
+            "count": 295,
+            "title": "小组讨论",
+            "uri": "douban://partial.douban.com/subject/26370387/group_topic/_content?group_id=745849",
+            "source": "小组讨论",
+            "type": "custom",
+            "id": "group"
+          },
+          "id": "ugc_tab",
+          "data_type": "ugc_tab"
+        }
+      ],
+      "id": "ugc_tabs"
+    }
+  ],
+  "title": "解密",
+  "intro": "影片根据茅盾文学奖获奖者麦家的同名长篇小说改编，故事关于上世纪四十年代，世界局势风起云涌，及时准确破译敌方的通讯密码至关重要。容金珍（刘昊然 饰）自幼展现出惊人的数学天赋，被时任大学校长的小黎黎（吴彦祖 饰）和太太叶筱凝（俞飞鸿 饰）抚养长大。大学入学之际，容金珍因解出数学系老师希伊斯（约翰·库萨克 饰）布置的难题而被更多人注意到，其中就有神秘部门701局局长郑某（陈道明 饰），容金珍从此走进了密码破译的大门。",
+  "interest_cmt_earlier_tip_title": "发布于上映前",
+  "has_linewatch": false,
+  "comment_count": 37797,
+  "forum_topic_count": 23,
+  "ticket_promo_text": "",
+  "webview_info": {
+
+  },
+  "is_released": true,
+  "vendors": [
+
+  ],
+  "actors": [
+    {
+      "name": "刘昊然"
+    },
+    {
+      "name": "约翰·库萨克"
+    },
+    {
+      "name": "陈道明"
+    },
+    {
+      "name": "吴彦祖"
+    },
+    {
+      "name": "俞飞鸿"
+    },
+    {
+      "name": "任璐遥"
+    },
+    {
+      "name": "陈雨锶"
+    },
+    {
+      "name": "王雨甜"
+    },
+    {
+      "name": "周游"
+    },
+    {
+      "name": "朱珠"
+    },
+    {
+      "name": "曹翠芬"
+    },
+    {
+      "name": "吴彦姝"
+    },
+    {
+      "name": "许还山"
+    },
+    {
+      "name": "王宝强"
+    },
+    {
+      "name": "肖央"
+    },
+    {
+      "name": "潘粤明"
+    },
+    {
+      "name": "沙宝亮"
+    },
+    {
+      "name": "周野芒"
+    },
+    {
+      "name": "王龙正"
+    },
+    {
+      "name": "欧阳娜娜"
+    }
+  ],
+  "interest": null,
+  "subtype": "movie",
+  "episodes_count": 0,
+  "color_scheme": {
+    "is_dark": true,
+    "primary_color_light": "725d69",
+    "_base_color": [
+      0.9047619047619047,
+      0.18421052631578946,
+      0.14901960784313725
+    ],
+    "secondary_color": "f9f4f7",
+    "_avg_color": [
+      0.4166666666666667,
+      0.027397260273972508,
+      0.28627450980392155
+    ],
+    "primary_color_dark": "4c3e46"
+  },
+  "type": "movie",
+  "linewatches": [
+
+  ],
+  "info_url": "https://www.douban.com/doubanapp//h5/movie/26370387/desc",
+  "tags": [
+
+  ],
+  "vendor_desc": "",
+  "durations": [
+    "156分钟"
+  ],
+  "cover": {
+    "description": "",
+    "author": {
+      "loc": {
+        "id": "118237",
+        "name": "郑州",
+        "uid": "zhengzhou"
+      },
+      "kind": "user",
+      "name": "小小豪力",
+      "reg_year": 5,
+      "avatar_side_icon_type": 2,
+      "url": "https://www.douban.com/people/201194055/",
+      "id": "201194055",
+      "reg_time": "2019-08-05 21:23:38",
+      "uri": "douban://douban.com/user/201194055",
+      "avatar": "https://img3.doubanio.com/icon/up201194055-12.jpg",
+      "is_club": false,
+      "type": "user",
+      "avatar_side_icon": "https://img1.doubanio.com/img/files/file-1609326400.png",
+      "uid": "201194055"
+    },
+    "url": "https://movie.douban.com/photos/photo/2911118127/",
+    "image": {
+      "normal": {
+        "url": "https://img3.doubanio.com/view/photo/m/public/p2911118127.webp",
+        "width": 443,
+        "height": 600,
+        "size": 0
+      },
+      "large": {
+        "url": "https://img3.doubanio.com/view/photo/l/public/p2911118127.webp",
+        "width": 1183,
+        "height": 1600,
+        "size": 0
+      },
+      "raw": null,
+      "small": {
+        "url": "https://img3.doubanio.com/view/photo/s/public/p2911118127.webp",
+        "width": 443,
+        "height": 600,
+        "size": 0
+      },
+      "primary_color": "DFDFDF",
+      "is_animated": false
+    },
+    "uri": "douban://douban.com/photo/2911118127",
+    "create_time": "2024-07-27 18:14:15",
+    "position": 0,
+    "owner_uri": "douban://douban.com/movie/26370387",
+    "type": "photo",
+    "id": "2911118127",
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/photo/2911118127/"
+  },
+  "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911118127.webp",
+  "trailers": [
+    {
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/26370387/trailer%3Ftrailer_id%3D317096%26trailer_type%3DA",
+      "video_url": "https://vt1.doubanio.com/202408051935/c4ac9740bc3892ca903ce12fed850350/view/movie/M/703170096.mp4",
+      "title": "预告片：终极版 (中文字幕)",
+      "type_name": "预告片",
+      "uri": "douban://douban.com/movie/26370387/trailer?trailer_id=317096&trailer_type=A",
+      "cover_url": "https://img9.doubanio.com/img/trailer/medium/2911118455.jpg",
+      "term_num": 0,
+      "n_comments": 21,
+      "create_time": "2024-07-27",
+      "file_size": 39442469,
+      "runtime": "01:50",
+      "type": "A",
+      "id": "317096",
+      "desc": ""
+    }
+  ],
+  "header_bg_color": "4c3e46",
+  "is_douban_intro": false,
+  "ticket_vendor_icons": [
+    "https://img9.doubanio.com/view/dale-online/dale_ad/public/0589a62f2f2d7c2.jpg"
+  ],
+  "honor_infos": [
+
+  ],
+  "sharing_url": "https://movie.douban.com/subject/26370387/",
+  "subject_collections": [
+
+  ],
+  "wechat_timeline_share": "screenshot",
+  "restrictive_icon_url": "",
+  "rate_info": "",
+  "release_date": null,
+  "countries": [
+    "中国大陆"
+  ],
+  "original_title": "",
+  "uri": "douban://douban.com/movie/26370387",
+  "webisode_count": 0,
+  "episodes_info": "",
+  "url": "https://movie.douban.com/subject/26370387/",
+  "directors": [
+    {
+      "name": "陈思诚"
+    }
+  ],
+  "is_show": false,
+  "vendor_icons": [
+
+  ],
+  "pre_release_desc": "",
+  "video": null,
+  "aka": [
+    "Decoded"
+  ],
+  "is_restrictive": false,
+  "null_rating_reason": "",
+  "interest_cmt_earlier_tip_desc": "该短评的发布时间早于公开上映时间，作者可能通过其他渠道提前观看，请谨慎参考。其评分将不计入总评分。"
+}

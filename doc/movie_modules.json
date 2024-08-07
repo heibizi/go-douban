@@ -1,0 +1,3389 @@
+{
+  "modules": [
+    {
+      "url": "",
+      "module_name": "movie_subject_entrances",
+      "data": {
+        "subject_entrances": [
+          {
+            "icon": {
+              "dark": "https://img9.doubanio.com/view/treasury_image/raw/public/7181eeb168d5e75.jpg",
+              "light": "https://img2.doubanio.com/view/treasury_image/raw/public/acb767c6f8b95f1.jpg"
+            },
+            "uri": "douban://douban.com/subject/find_landing/movie?event_source=movie_subject_entrances_category_with_tag",
+            "key": "filter",
+            "title": "找电影"
+          },
+          {
+            "icon": {
+              "dark": "https://img9.doubanio.com/view/treasury_image/raw/public/a917a2dc2d563d4.jpg",
+              "light": "https://img1.doubanio.com/view/treasury_image/raw/public/7afc01d0986b51c.jpg"
+            },
+            "uri": "douban://douban.com/movie/recommend_list?index=0&tag=movie&event_source=movie_subject_entrances_collection&target_event=movie_subject_collection_detail_clicked",
+            "key": "entrance",
+            "title": "豆瓣榜单"
+          },
+          {
+            "icon": {
+              "dark": "https://img9.doubanio.com/view/treasury_image/raw/public/bf06592dbc6e675.jpg",
+              "light": "https://img1.doubanio.com/view/treasury_image/raw/public/f4a91498ee976bb.jpg"
+            },
+            "uri": "douban://douban.com/movie/coming_soon?event_source=movie_soon&sortby=time",
+            "key": "entrance",
+            "title": "即将上映"
+          },
+          {
+            "icon": {
+              "dark": "https://img9.doubanio.com/view/treasury_image/raw/public/68ce1dd5c4d9f44.jpg",
+              "light": "https://img1.doubanio.com/view/treasury_image/raw/public/92a1638ea9ac29c.jpg"
+            },
+            "uri": "douban://douban.com/movie/recommend_list?index=2&tag=movie",
+            "key": "entrance",
+            "title": "豆瓣片单"
+          }
+        ],
+        "total": 4
+      },
+      "uri": "",
+      "key": "subject_entrances"
+    },
+    {
+      "module_name": "movie_subject_unions",
+      "data": [
+        {
+          "type": "movie",
+          "extra": [],
+          "collections": [
+            "movie_showing"
+          ],
+          "title": "影院热映"
+        },
+        {
+          "type": "movie",
+          "extra": [],
+          "collections": [
+            "movie_hot_gaia"
+          ],
+          "title": "豆瓣热门"
+        }
+      ],
+      "key": "subject_unions"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_ad",
+      "data": {
+        "type": "movie",
+        "unit": "dale_movie_operated_banner"
+      },
+      "uri": "",
+      "key": "subject_ad"
+    },
+    {
+      "url": "",
+      "module_name": "movie_coming_soon",
+      "data": [
+        {
+          "title": "国内即将上映",
+          "items": [
+            {
+              "rating": {
+                "count": 0,
+                "max": 10,
+                "value": 0,
+                "star_count": 0.0
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-08-23(中国大陆)"
+              ],
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911329747.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911329747.jpg"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 中国大陆 / 剧情 喜剧 家庭 / 顾长卫 / 葛优 王俊凯",
+              "id": "35633904",
+              "genres": [
+                "剧情",
+                "喜剧",
+                "家庭"
+              ],
+              "title": "刺猬",
+              "is_released": true,
+              "actors": [
+                {
+                  "name": "葛优"
+                },
+                {
+                  "name": "王俊凯"
+                },
+                {
+                  "name": "李萍"
+                },
+                {
+                  "name": "刘威葳"
+                },
+                {
+                  "name": "耿乐"
+                },
+                {
+                  "name": "张本煜"
+                },
+                {
+                  "name": "赵千紫"
+                },
+                {
+                  "name": "李千逸"
+                },
+                {
+                  "name": "吕行"
+                },
+                {
+                  "name": "朱怀旭"
+                },
+                {
+                  "name": "蒋灵儿"
+                },
+                {
+                  "name": "朱亚男"
+                },
+                {
+                  "name": "恩美"
+                },
+                {
+                  "name": "李汀珝"
+                },
+                {
+                  "name": "范明"
+                },
+                {
+                  "name": "毛阿敏"
+                },
+                {
+                  "name": "王自健"
+                },
+                {
+                  "name": "任素汐"
+                },
+                {
+                  "name": "吴双"
+                },
+                {
+                  "name": "刘雅瑟"
+                },
+                {
+                  "name": "潘斌龙"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "5b82a5",
+                "_base_color": [
+                  0.5797101449275363,
+                  0.4466019417475728,
+                  0.403921568627451
+                ],
+                "secondary_color": "f4f7f9",
+                "_avg_color": [
+                  0.42592592592592576,
+                  0.06716417910447768,
+                  0.5254901960784314
+                ],
+                "primary_color_dark": "46647f"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911329747.jpg",
+              "sharing_url": "https://movie.douban.com/subject/35633904/",
+              "url": "https://movie.douban.com/subject/35633904/",
+              "release_date": "2024-08-23",
+              "uri": "douban://douban.com/movie/35633904",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "顾长卫"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": "暂无评分"
+            },
+            {
+              "rating": {
+                "count": 0,
+                "max": 10,
+                "value": 0,
+                "star_count": 0.0
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-08-16(美国/中国大陆)"
+              ],
+              "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910926865.jpg",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910926865.jpg"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 英国 美国 / 科幻 恐怖 / 费德·阿尔瓦雷兹 / 卡莉·史派妮 伊莎贝拉·莫塞德",
+              "id": "35792500",
+              "genres": [
+                "科幻",
+                "恐怖"
+              ],
+              "title": "异形：夺命舰",
+              "is_released": false,
+              "actors": [
+                {
+                  "name": "卡莉·史派妮"
+                },
+                {
+                  "name": "伊莎贝拉·莫塞德"
+                },
+                {
+                  "name": "阿奇·雷诺"
+                },
+                {
+                  "name": "戴维·荣松"
+                },
+                {
+                  "name": "斯派克·费恩"
+                },
+                {
+                  "name": "爱玲·吴"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "724d37",
+                "_base_color": [
+                  0.06140350877192983,
+                  0.516304347826087,
+                  0.7215686274509804
+                ],
+                "secondary_color": "f9f6f4",
+                "_avg_color": [
+                  0.05333333333333332,
+                  0.42372881355932207,
+                  0.23137254901960785
+                ],
+                "primary_color_dark": "4c3325"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910926865.jpg",
+              "sharing_url": "https://movie.douban.com/subject/35792500/",
+              "url": "https://movie.douban.com/subject/35792500/",
+              "release_date": "2024-08-16",
+              "uri": "douban://douban.com/movie/35792500",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "费德·阿尔瓦雷兹"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": "尚未上映"
+            },
+            {
+              "rating": {
+                "count": 0,
+                "max": 10,
+                "value": 0,
+                "star_count": 0.0
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-08-10(中国大陆)"
+              ],
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911337432.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911337432.jpg"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 中国大陆 / 喜剧 爱情 动画 奇幻 / 陈健喜 李佳锴 / 杨天翔 张喆",
+              "id": "36463483",
+              "genres": [
+                "喜剧",
+                "爱情",
+                "动画"
+              ],
+              "title": "白蛇：浮生",
+              "is_released": false,
+              "actors": [
+                {
+                  "name": "杨天翔"
+                },
+                {
+                  "name": "张喆"
+                },
+                {
+                  "name": "唐小喜"
+                },
+                {
+                  "name": "张赫"
+                },
+                {
+                  "name": "郑小璞"
+                },
+                {
+                  "name": "刘琮"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "7897a5",
+                "_base_color": [
+                  0.5545454545454546,
+                  0.2709359605911329,
+                  0.796078431372549
+                ],
+                "secondary_color": "f4f8f9",
+                "_avg_color": [
+                  0.5658914728682171,
+                  0.24431818181818177,
+                  0.6901960784313725
+                ],
+                "primary_color_dark": "5c747f"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911337432.jpg",
+              "sharing_url": "https://movie.douban.com/subject/36463483/",
+              "url": "https://movie.douban.com/subject/36463483/",
+              "release_date": "2024-08-10",
+              "uri": "douban://douban.com/movie/36463483",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "陈健喜"
+                },
+                {
+                  "name": "李佳锴"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": "尚未上映"
+            }
+          ],
+          "uri": "douban://douban.com/movie/coming_soon?sortby=time#domestic",
+          "total_hot": 7,
+          "total": 38,
+          "type": "movie"
+        },
+        {
+          "title": "全球值得期待",
+          "items": [
+            {
+              "rating": {
+                "count": 0,
+                "max": 10,
+                "value": 0,
+                "star_count": 0.0
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-08-16(美国/中国大陆)"
+              ],
+              "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910926865.jpg",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910926865.jpg"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 英国 美国 / 科幻 恐怖 / 费德·阿尔瓦雷兹 / 卡莉·史派妮 伊莎贝拉·莫塞德",
+              "id": "35792500",
+              "genres": [
+                "科幻",
+                "恐怖"
+              ],
+              "title": "异形：夺命舰",
+              "is_released": false,
+              "actors": [
+                {
+                  "name": "卡莉·史派妮"
+                },
+                {
+                  "name": "伊莎贝拉·莫塞德"
+                },
+                {
+                  "name": "阿奇·雷诺"
+                },
+                {
+                  "name": "戴维·荣松"
+                },
+                {
+                  "name": "斯派克·费恩"
+                },
+                {
+                  "name": "爱玲·吴"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "724d37",
+                "_base_color": [
+                  0.06140350877192983,
+                  0.516304347826087,
+                  0.7215686274509804
+                ],
+                "secondary_color": "f9f6f4",
+                "_avg_color": [
+                  0.05333333333333332,
+                  0.42372881355932207,
+                  0.23137254901960785
+                ],
+                "primary_color_dark": "4c3325"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910926865.jpg",
+              "sharing_url": "https://movie.douban.com/subject/35792500/",
+              "url": "https://movie.douban.com/subject/35792500/",
+              "release_date": "2024-08-16",
+              "uri": "douban://douban.com/movie/35792500",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "费德·阿尔瓦雷兹"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": "尚未上映"
+            },
+            {
+              "rating": {
+                "count": 0,
+                "max": 10,
+                "value": 0,
+                "star_count": 0.0
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2024-10-02(中国台湾)"
+              ],
+              "pic": {
+                "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2911093596.jpg",
+                "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2911093596.jpg"
+              },
+              "is_show": false,
+              "year": "2024",
+              "card_subtitle": "2024 / 美国 / 剧情 动作 惊悚 歌舞 犯罪 / 托德·菲利普斯 / 华金·菲尼克斯 ",
+              "id": "34909341",
+              "genres": [
+                "剧情",
+                "动作",
+                "惊悚"
+              ],
+              "title": "小丑2：双重妄想",
+              "is_released": false,
+              "actors": [
+                {
+                  "name": "华金·菲尼克斯"
+                },
+                {
+                  "name": ""
+                },
+                {
+                  "name": "布莱丹·格里森"
+                },
+                {
+                  "name": "凯瑟琳·基纳"
+                },
+                {
+                  "name": "莎姬·贝兹"
+                },
+                {
+                  "name": "史蒂夫·库根"
+                },
+                {
+                  "name": "梁振邦"
+                },
+                {
+                  "name": "雅库布·洛弗兰德"
+                },
+                {
+                  "name": "比尔·斯米托洛维奇"
+                },
+                {
+                  "name": "盖特林·格里菲斯"
+                },
+                {
+                  "name": "哈利·劳蒂"
+                },
+                {
+                  "name": "提姆·狄龙"
+                },
+                {
+                  "name": "乔治·卡罗尔"
+                },
+                {
+                  "name": "莎珑·华盛顿"
+                },
+                {
+                  "name": "麦克·休斯顿"
+                },
+                {
+                  "name": ""
+                },
+                {
+                  "name": "特洛伊·梅特卡夫"
+                },
+                {
+                  "name": "G·L·麦奎里"
+                },
+                {
+                  "name": "布莱恩·多纳休"
+                },
+                {
+                  "name": "吉米·斯玛古拉"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "726965",
+                "_base_color": [
+                  0.05303030303030304,
+                  0.11640211640211644,
+                  0.7411764705882353
+                ],
+                "secondary_color": "f9f6f4",
+                "_avg_color": [
+                  0.0701754385964913,
+                  0.24675324675324672,
+                  0.30196078431372547
+                ],
+                "primary_color_dark": "4c4643"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2911093596.jpg",
+              "sharing_url": "https://movie.douban.com/subject/34909341/",
+              "url": "https://movie.douban.com/subject/34909341/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/34909341",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "托德·菲利普斯"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": "尚未上映"
+            },
+            {
+              "rating": {
+                "count": 0,
+                "max": 10,
+                "value": 0,
+                "star_count": 0.0
+              },
+              "controversy_reason": "",
+              "pubdate": [
+                "2025-11-26(美国)"
+              ],
+              "pic": {
+                "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2566292103.jpg",
+                "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566292103.jpg"
+              },
+              "is_show": false,
+              "year": "2025",
+              "card_subtitle": "2025 / 美国 / 喜剧 动画 悬疑 犯罪 冒险 / 拜伦·霍华德 瑞奇·摩尔 / 杰森·贝特曼 金妮弗·古德温",
+              "id": "26817136",
+              "genres": [
+                "喜剧",
+                "动画",
+                "悬疑"
+              ],
+              "title": "疯狂动物城2",
+              "is_released": false,
+              "actors": [
+                {
+                  "name": "杰森·贝特曼"
+                },
+                {
+                  "name": "金妮弗·古德温"
+                },
+                {
+                  "name": "罗兰多·达维拉-贝尔特兰"
+                }
+              ],
+              "color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "7386a5",
+                "_base_color": [
+                  0.6049382716049383,
+                  0.3033707865168539,
+                  0.34901960784313724
+                ],
+                "secondary_color": "f4f6f9",
+                "_avg_color": [
+                  0.4444444444444444,
+                  0.013274336283185794,
+                  0.8862745098039215
+                ],
+                "primary_color_dark": "58677f"
+              },
+              "type": "movie",
+              "has_linewatch": false,
+              "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2566292103.jpg",
+              "sharing_url": "https://movie.douban.com/subject/26817136/",
+              "url": "https://movie.douban.com/subject/26817136/",
+              "release_date": null,
+              "uri": "douban://douban.com/movie/26817136",
+              "subtype": "movie",
+              "directors": [
+                {
+                  "name": "拜伦·霍华德"
+                },
+                {
+                  "name": "瑞奇·摩尔"
+                }
+              ],
+              "album_no_interact": false,
+              "null_rating_reason": "尚未上映"
+            }
+          ],
+          "uri": "douban://douban.com/movie/coming_soon#international",
+          "total_hot": 5,
+          "total": 709,
+          "type": "movie"
+        }
+      ],
+      "uri": "",
+      "key": "movie_coming_soon"
+    },
+    {
+      "url": "",
+      "module_name": "movie_hot_gaia",
+      "data": {
+        "subject_collection_boards": [
+          {
+            "subject_collection": {
+              "subject_type": "",
+              "subtitle": "",
+              "background_color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "a58553",
+                "secondary_color": "f9f7f4",
+                "primary_color_dark": "7f6640"
+              },
+              "sharing_title": "",
+              "updated_at": null,
+              "id": "movie_hot_gaia",
+              "show_header_mask": false,
+              "medium_name": "",
+              "description": "",
+              "short_name": "",
+              "n_followers": null,
+              "cover_url": "",
+              "show_rank": true,
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/movie_hot_gaia/",
+              "subject_count": 425,
+              "name": "豆瓣热门",
+              "url": "https://m.douban.com/app_topic/movie_hot_gaia",
+              "uri": "douban://douban.com/subject_collection/movie_hot_gaia",
+              "show_filter_playable": true,
+              "icon_fg_image": "",
+              "more_description": "",
+              "display": {
+                "layout": "list"
+              }
+            },
+            "type": "movie",
+            "items": [
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 45101,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.1
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 喜剧 爱情 / 刘博文 / 黄轩 柳岩",
+                "id": "36173819",
+                "title": "来福大酒店",
+                "label": null,
+                "actors": [
+                  "黄轩",
+                  "柳岩",
+                  "刘洋"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 剧情 喜剧 爱情 / 刘博文 / 黄轩 柳岩",
+                "url": "https://movie.douban.com/subject/36173819/",
+                "release_date": "06.28",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2909005405.jpg",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/36173819",
+                "subtype": "",
+                "directors": [
+                  "刘博文"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 64100,
+                  "max": 10,
+                  "star_count": 4.5,
+                  "value": 9.1
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 剧情 传记 运动 / 乔阿吉姆·罗恩尼 / 黛西·雷德利 蒂尔达·格哈姆-哈维",
+                "id": "26656728",
+                "title": "泳者之心",
+                "label": null,
+                "actors": [
+                  "黛西·雷德利",
+                  "蒂尔达·格哈姆-哈维",
+                  "斯蒂芬·格拉汉姆"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 剧情 传记 运动 / 乔阿吉姆·罗恩尼 / 黛西·雷德利 蒂尔达·格哈姆-哈维",
+                "url": "https://movie.douban.com/subject/26656728/",
+                "release_date": "05.31",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910815887.jpg",
+                  "width": 4056,
+                  "shape": "rectangle",
+                  "height": 6009
+                },
+                "uri": "douban://douban.com/movie/26656728",
+                "subtype": "",
+                "directors": [
+                  "乔阿吉姆·罗恩尼"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 697,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 6.7
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 剧情 西部 / 凯文·科斯特纳 / 凯文·科斯特纳 西耶娜·米勒",
+                "id": "36056968",
+                "title": "地平线",
+                "label": null,
+                "actors": [
+                  "凯文·科斯特纳",
+                  "西耶娜·米勒",
+                  "萨姆·沃辛顿"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 剧情 西部 / 凯文·科斯特纳 / 凯文·科斯特纳 西耶娜·米勒",
+                "url": "https://movie.douban.com/subject/36056968/",
+                "release_date": "05.19",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2908345502.jpg",
+                  "width": 2835,
+                  "shape": "rectangle",
+                  "height": 3780
+                },
+                "uri": "douban://douban.com/movie/36056968",
+                "subtype": "",
+                "directors": [
+                  "凯文·科斯特纳"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 315,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 6.2
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 喜剧 爱情 音乐 / 丝切莱拉·考莱斯 / 小哈里·康尼克 阿格尼·斯科特",
+                "id": "36430027",
+                "title": "坠爱地中海",
+                "label": null,
+                "actors": [
+                  "小哈里·康尼克",
+                  "阿格尼·斯科特",
+                  "Ali Fumiko Whitney"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 喜剧 爱情 音乐 / 丝切莱拉·考莱斯 / 小哈里·康尼克 阿格尼·斯科特",
+                "url": "https://movie.douban.com/subject/36430027/",
+                "release_date": "07.19",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910816424.jpg",
+                  "width": 1500,
+                  "shape": "rectangle",
+                  "height": 2222
+                },
+                "uri": "douban://douban.com/movie/36430027",
+                "subtype": "",
+                "directors": [
+                  "丝切莱拉·考莱斯"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 1730,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 6.7
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 韩国 / 剧情 悬疑 惊悚 灾难 / 金圣翰 / 河正宇 吕珍九",
+                "id": "36065756",
+                "title": "劫机",
+                "label": null,
+                "actors": [
+                  "河正宇",
+                  "吕珍九",
+                  "成东日"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "韩国 / 剧情 悬疑 惊悚 / 金圣翰 / 河正宇 吕珍九",
+                "url": "https://movie.douban.com/subject/36065756/",
+                "release_date": "06.21",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2908723795.jpg",
+                  "width": 1500,
+                  "shape": "rectangle",
+                  "height": 2143
+                },
+                "uri": "douban://douban.com/movie/36065756",
+                "subtype": "",
+                "directors": [
+                  "金圣翰"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 86494,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.2
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 中国香港 / 剧情 犯罪 / 邱礼涛 / 刘青云 吴镇宇",
+                "id": "36401888",
+                "title": "谈判专家",
+                "label": null,
+                "actors": [
+                  "刘青云",
+                  "吴镇宇",
+                  "刘德华"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 中国香港 / 剧情 犯罪 / 邱礼涛 / 刘青云 吴镇宇",
+                "url": "https://movie.douban.com/subject/36401888/",
+                "release_date": "06.08",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2908537625.jpg",
+                  "width": 2098,
+                  "shape": "rectangle",
+                  "height": 2976
+                },
+                "uri": "douban://douban.com/movie/36401888",
+                "subtype": "",
+                "directors": [
+                  "邱礼涛"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 206963,
+                  "max": 10,
+                  "star_count": 4.0,
+                  "value": 8.0
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 喜剧 家庭 / 龙飞 / 胡歌 高圆圆",
+                "id": "35956190",
+                "title": "走走停停",
+                "label": null,
+                "actors": [
+                  "胡歌",
+                  "高圆圆",
+                  "岳红"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 剧情 喜剧 家庭 / 龙飞 / 胡歌 高圆圆",
+                "url": "https://movie.douban.com/subject/35956190/",
+                "release_date": "06.08",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2907440658.jpg",
+                  "width": 6000,
+                  "shape": "rectangle",
+                  "height": 9000
+                },
+                "uri": "douban://douban.com/movie/35956190",
+                "subtype": "",
+                "directors": [
+                  "龙飞"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 8343,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 5.6
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 爱情 / 温婧 / 邱天 包上恩",
+                "id": "26290372",
+                "title": "沙漏",
+                "label": null,
+                "actors": [
+                  "邱天",
+                  "包上恩",
+                  "黄明昊"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 剧情 爱情 / 温婧 / 邱天 包上恩",
+                "url": "https://movie.douban.com/subject/26290372/",
+                "release_date": "06.21",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2909630176.jpg",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 2800
+                },
+                "uri": "douban://douban.com/movie/26290372",
+                "subtype": "",
+                "directors": [
+                  "温婧"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 46869,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 5.6
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 英国 / 剧情 科幻 惊悚 恐怖 / 迈克尔·萨诺斯基 / 露皮塔·尼永奥 约瑟夫·奎恩",
+                "id": "34996971",
+                "title": "寂静之地：入侵日",
+                "label": null,
+                "actors": [
+                  "露皮塔·尼永奥",
+                  "约瑟夫·奎恩",
+                  "亚历克斯·沃尔夫"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 英国 / 剧情 科幻 惊悚 / 迈克尔·萨诺斯基 / 露皮塔·尼永奥 约瑟夫·奎恩",
+                "url": "https://movie.douban.com/subject/34996971/",
+                "release_date": "06.28",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2909263868.jpg",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 2956
+                },
+                "uri": "douban://douban.com/movie/34996971",
+                "subtype": "",
+                "directors": [
+                  "迈克尔·萨诺斯基"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 8324,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 6.4
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 韩国 / 剧情 爱情 科幻 / 金泰勇 / 汤唯 裴秀智",
+                "id": "34453198",
+                "title": "梦境",
+                "label": null,
+                "actors": [
+                  "汤唯",
+                  "裴秀智",
+                  "朴宝剑"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "韩国 / 剧情 爱情 科幻 / 金泰勇 / 汤唯 裴秀智",
+                "url": "https://movie.douban.com/subject/34453198/",
+                "release_date": "06.05",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910694617.jpg",
+                  "width": 1682,
+                  "shape": "rectangle",
+                  "height": 2400
+                },
+                "uri": "douban://douban.com/movie/34453198",
+                "subtype": "",
+                "directors": [
+                  "金泰勇"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 245934,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.3
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国香港 中国大陆 / 动作 犯罪 / 郑保瑞 / 古天乐 洪金宝",
+                "id": "24284175",
+                "title": "九龙城寨之围城",
+                "label": null,
+                "actors": [
+                  "古天乐",
+                  "洪金宝",
+                  "任贤齐"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "price": null,
+                "date": null,
+                "info": "中国香港 中国大陆 / 动作 犯罪 / 郑保瑞 / 古天乐 洪金宝",
+                "url": "https://movie.douban.com/subject/24284175/",
+                "release_date": "05.01",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2907242293.jpg",
+                  "width": 3000,
+                  "shape": "rectangle",
+                  "height": 4200
+                },
+                "uri": "douban://douban.com/movie/24284175",
+                "subtype": "",
+                "directors": [
+                  "郑保瑞"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 13059,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 6.2
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 喜剧 动作 犯罪 / 阿迪尔·埃尔·阿比 比拉勒·法拉赫 / 威尔·史密斯 马丁·劳伦斯",
+                "id": "26586556",
+                "title": "绝地战警：生死与共",
+                "label": null,
+                "actors": [
+                  "威尔·史密斯",
+                  "马丁·劳伦斯",
+                  "凡妮莎·哈金斯"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 喜剧 动作 犯罪 / 阿迪尔·埃尔·阿比 / 威尔·史密斯 马丁·劳伦斯",
+                "url": "https://movie.douban.com/subject/26586556/",
+                "release_date": "06.22",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2908796507.jpg",
+                  "width": 3000,
+                  "shape": "rectangle",
+                  "height": 4447
+                },
+                "uri": "douban://douban.com/movie/26586556",
+                "subtype": "",
+                "directors": [
+                  "阿迪尔·埃尔·阿比"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 2423,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 6.2
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 恐怖 / 缇·威斯特 / 米娅·高斯 伊丽莎白·德比齐",
+                "id": "35891632",
+                "title": "玛克辛",
+                "label": null,
+                "actors": [
+                  "米娅·高斯",
+                  "伊丽莎白·德比齐",
+                  "摩西·萨姆尼"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 恐怖 / 缇·威斯特 / 米娅·高斯 伊丽莎白·德比齐",
+                "url": "https://movie.douban.com/subject/35891632/",
+                "release_date": "07.05",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2908453412.jpg",
+                  "width": 8100,
+                  "shape": "rectangle",
+                  "height": 12000
+                },
+                "uri": "douban://douban.com/movie/35891632",
+                "subtype": "",
+                "directors": [
+                  "缇·威斯特"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 2559,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.1
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 瑞士 美国 / 喜剧 动作 / 约什·马戈林 / 朱恩·斯奎布 弗莱德·赫钦格",
+                "id": "36304130",
+                "title": "末路老奶",
+                "label": null,
+                "actors": [
+                  "朱恩·斯奎布",
+                  "弗莱德·赫钦格",
+                  "帕克·波西"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "瑞士 美国 / 喜剧 动作 / 约什·马戈林 / 朱恩·斯奎布 弗莱德·赫钦格",
+                "url": "https://movie.douban.com/subject/36304130/",
+                "release_date": "01.18",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2908051645.jpg",
+                  "width": 1600,
+                  "shape": "rectangle",
+                  "height": 2370
+                },
+                "uri": "douban://douban.com/movie/36304130",
+                "subtype": "",
+                "directors": [
+                  "约什·马戈林"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 102724,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.4
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 澳大利亚 美国 / 动作 科幻 惊悚 冒险 / 乔治·米勒 / 安雅·泰勒-乔伊 克里斯·海姆斯沃斯",
+                "id": "34996127",
+                "title": "疯狂的麦克斯：狂暴女神",
+                "label": null,
+                "actors": [
+                  "安雅·泰勒-乔伊",
+                  "克里斯·海姆斯沃斯",
+                  "汤姆·伯克"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "澳大利亚 美国 / 动作 科幻 惊悚 / 乔治·米勒 / 安雅·泰勒-乔伊 克里斯·海姆斯沃斯",
+                "url": "https://movie.douban.com/subject/34996127/",
+                "release_date": "06.07",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2908300510.jpg",
+                  "width": 3000,
+                  "shape": "rectangle",
+                  "height": 4445
+                },
+                "uri": "douban://douban.com/movie/34996127",
+                "subtype": "",
+                "directors": [
+                  "乔治·米勒"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 5179,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.4
+                },
+                "actions": [],
+                "year": "2023",
+                "card_subtitle": "2023 / 中国香港 中国台湾 / 剧情 / 黄绮琳 / 钟雪莹 陈毅燊",
+                "id": "35986833",
+                "title": "填词L",
+                "label": null,
+                "actors": [
+                  "钟雪莹",
+                  "陈毅燊",
+                  "吴冰"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国香港 中国台湾 / 剧情 / 黄绮琳 / 钟雪莹 陈毅燊",
+                "url": "https://movie.douban.com/subject/35986833/",
+                "release_date": "03.07",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2898674345.jpg",
+                  "width": 1920,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/35986833",
+                "subtype": "",
+                "directors": [
+                  "黄绮琳"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 4789,
+                  "max": 10,
+                  "star_count": 4.0,
+                  "value": 7.8
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 日本 / 剧情 / 三宅唱 / 松村北斗 上白石萌音",
+                "id": "36135198",
+                "title": "黎明的一切",
+                "label": null,
+                "actors": [
+                  "松村北斗",
+                  "上白石萌音",
+                  "涩川清彦"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "日本 / 剧情 / 三宅唱 / 松村北斗 上白石萌音",
+                "url": "https://movie.douban.com/subject/36135198/",
+                "release_date": "02.09",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2898938983.jpg",
+                  "width": 2893,
+                  "shape": "rectangle",
+                  "height": 4096
+                },
+                "uri": "douban://douban.com/movie/36135198",
+                "subtype": "",
+                "directors": [
+                  "三宅唱"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 172961,
+                  "max": 10,
+                  "star_count": 4.0,
+                  "value": 8.1
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 中国香港 / 剧情 爱情 家庭 / 韩延 / 彭昱畅 李庚希",
+                "id": "36149032",
+                "title": "我们一起摇太阳",
+                "label": null,
+                "actors": [
+                  "彭昱畅",
+                  "李庚希",
+                  "徐帆"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": true,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 中国香港 / 剧情 爱情 家庭 / 韩延 / 彭昱畅 李庚希",
+                "url": "https://movie.douban.com/subject/36149032/",
+                "release_date": "02.10",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2904467472.jpg",
+                  "width": 1279,
+                  "shape": "rectangle",
+                  "height": 1791
+                },
+                "uri": "douban://douban.com/movie/36149032",
+                "subtype": "",
+                "directors": [
+                  "韩延"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 6065,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 6.7
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 韩国 / 悬疑 惊悚 / 金世辉 / 卞约汉 申惠善",
+                "id": "35640020",
+                "title": "她死了",
+                "label": null,
+                "actors": [
+                  "卞约汉",
+                  "申惠善",
+                  "李艾"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "韩国 / 悬疑 惊悚 / 金世辉 / 卞约汉 申惠善",
+                "url": "https://movie.douban.com/subject/35640020/",
+                "release_date": "05.15",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2907283458.jpg",
+                  "width": 1403,
+                  "shape": "rectangle",
+                  "height": 2000
+                },
+                "uri": "douban://douban.com/movie/35640020",
+                "subtype": "",
+                "directors": [
+                  "金世辉"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 80747,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 6.6
+                },
+                "actions": [],
+                "year": "2023",
+                "card_subtitle": "2023 / 中国大陆 中国香港 / 剧情 喜剧 / 宁浩 / 刘德华 单立文",
+                "id": "35494829",
+                "title": "红毯先生",
+                "label": null,
+                "actors": [
+                  "刘德华",
+                  "单立文",
+                  "瑞玛·席丹"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 中国香港 / 剧情 喜剧 / 宁浩 / 刘德华 单立文",
+                "url": "https://movie.douban.com/subject/35494829/",
+                "release_date": "02.10",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2905249058.jpg",
+                  "width": 5000,
+                  "shape": "rectangle",
+                  "height": 7072
+                },
+                "uri": "douban://douban.com/movie/35494829",
+                "subtype": "",
+                "directors": [
+                  "宁浩"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              }
+            ]
+          }
+        ],
+        "total": 1
+      },
+      "uri": "douban://douban.com/tag/49/subject_collection_boards",
+      "key": "subject_collection_boards"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_ad",
+      "data": {
+        "type": "movie",
+        "unit": "dale_movie_ad_first_banner"
+      },
+      "uri": "",
+      "key": "subject_ad"
+    },
+    {
+      "url": "",
+      "module_name": "movie_selected_collections",
+      "data": {
+        "total": 8,
+        "selected_collections": [
+          {
+            "rank": true,
+            "subtitle": "豆瓣榜单",
+            "description": "每周五更新；关注榜单，第一时间了解最新口碑佳片。",
+            "header_fg_image": "https://img2.doubanio.com/img/files/file-1637045101.jpeg",
+            "url": "",
+            "items": [
+              {
+                "rating": {
+                  "count": 64100,
+                  "max": 10,
+                  "value": 9.1,
+                  "star_count": 4.5
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "2024-05-31(美国/中国大陆)"
+                ],
+                "rank_value": 1,
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910815887.jpg",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910815887.jpg"
+                },
+                "is_show": false,
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 剧情 传记 运动 / 乔阿吉姆·罗恩尼 / 黛西·雷德利 蒂尔达·格哈姆-哈维",
+                "id": "26656728",
+                "genres": [
+                  "剧情",
+                  "传记",
+                  "运动"
+                ],
+                "trend_down": false,
+                "title": "泳者之心",
+                "trend_equal": false,
+                "trend_up": true,
+                "is_released": true,
+                "rank_value_changed": 10,
+                "actors": [
+                  {
+                    "name": "黛西·雷德利"
+                  },
+                  {
+                    "name": "蒂尔达·格哈姆-哈维"
+                  },
+                  {
+                    "name": "斯蒂芬·格拉汉姆"
+                  },
+                  {
+                    "name": "金·波德尼亚"
+                  },
+                  {
+                    "name": "詹妮特·海因"
+                  },
+                  {
+                    "name": "格伦·弗莱舍尔"
+                  },
+                  {
+                    "name": "茜安·克利福德"
+                  },
+                  {
+                    "name": "克里斯托弗·埃克莱斯顿"
+                  },
+                  {
+                    "name": "伊桑·劳斯"
+                  },
+                  {
+                    "name": "奥利弗·伊莉丝·阿伯克隆比"
+                  },
+                  {
+                    "name": "莉莉·阿斯佩尔"
+                  },
+                  {
+                    "name": "亚历山大·卡里姆"
+                  },
+                  {
+                    "name": "阿历克斯·哈赛尔"
+                  },
+                  {
+                    "name": ""
+                  },
+                  {
+                    "name": ""
+                  },
+                  {
+                    "name": "道克·巴特勒"
+                  },
+                  {
+                    "name": "约旦·安杰洛夫"
+                  },
+                  {
+                    "name": "罗伯特·伊德斯"
+                  },
+                  {
+                    "name": "休伊·欧格雷迪"
+                  },
+                  {
+                    "name": ""
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "606972",
+                  "_base_color": [
+                    0.5833333333333334,
+                    0.16129032258064516,
+                    0.24313725490196078
+                  ],
+                  "secondary_color": "f4f7f9",
+                  "_avg_color": [
+                    0.5714285714285715,
+                    0.07692307692307696,
+                    0.3568627450980392
+                  ],
+                  "primary_color_dark": "40464c"
+                },
+                "type": "movie",
+                "has_linewatch": false,
+                "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910815887.jpg",
+                "sharing_url": "https://movie.douban.com/subject/26656728/",
+                "url": "https://movie.douban.com/subject/26656728/",
+                "release_date": null,
+                "uri": "douban://douban.com/movie/26656728",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "乔阿吉姆·罗恩尼"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 564,
+                  "max": 10,
+                  "value": 8.5,
+                  "star_count": 4.5
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "2023-05-20(戛纳电影节)"
+                ],
+                "rank_value": 2,
+                "pic": {
+                  "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2891707171.jpg",
+                  "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891707171.jpg"
+                },
+                "is_show": false,
+                "year": "2023",
+                "card_subtitle": "2023 / 苏丹 瑞典 德国 沙特阿拉伯 法国 埃及 / 剧情 / 穆罕默德·科尔多法尼 /  ",
+                "id": "36070920",
+                "genres": [
+                  "剧情"
+                ],
+                "trend_down": false,
+                "title": "再见，朱莉娅",
+                "trend_equal": false,
+                "trend_up": true,
+                "is_released": true,
+                "rank_value_changed": 9,
+                "actors": [
+                  {
+                    "name": ""
+                  },
+                  {
+                    "name": ""
+                  },
+                  {
+                    "name": ""
+                  },
+                  {
+                    "name": "格·达尼"
+                  },
+                  {
+                    "name": ""
+                  },
+                  {
+                    "name": ""
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "722911",
+                  "_base_color": [
+                    0.041666666666666685,
+                    0.8461538461538461,
+                    0.20392156862745098
+                  ],
+                  "secondary_color": "f9f6f4",
+                  "_avg_color": [
+                    0.045238095238095244,
+                    0.8045977011494253,
+                    0.3411764705882353
+                  ],
+                  "primary_color_dark": "4c1b0b"
+                },
+                "type": "movie",
+                "has_linewatch": false,
+                "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2891707171.jpg",
+                "sharing_url": "https://movie.douban.com/subject/36070920/",
+                "url": "https://movie.douban.com/subject/36070920/",
+                "release_date": null,
+                "uri": "douban://douban.com/movie/36070920",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "穆罕默德·科尔多法尼"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 3092,
+                  "max": 10,
+                  "value": 8.2,
+                  "star_count": 4.0
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "2023-11-23(中国香港)"
+                ],
+                "rank_value": 3,
+                "pic": {
+                  "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2901073916.jpg",
+                  "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2901073916.jpg"
+                },
+                "is_show": false,
+                "year": "2023",
+                "card_subtitle": "2023 / 中国香港 / 纪录片 / 许鞍华 / 许鞍华 黄灿然",
+                "id": "35641752",
+                "genres": [
+                  "纪录片"
+                ],
+                "trend_down": true,
+                "title": "诗",
+                "trend_equal": false,
+                "trend_up": false,
+                "is_released": true,
+                "rank_value_changed": 2,
+                "actors": [
+                  {
+                    "name": "许鞍华"
+                  },
+                  {
+                    "name": "黄灿然"
+                  },
+                  {
+                    "name": "廖伟棠"
+                  },
+                  {
+                    "name": "淮远"
+                  },
+                  {
+                    "name": "饮江"
+                  },
+                  {
+                    "name": "邓阿蓝"
+                  },
+                  {
+                    "name": "马若"
+                  },
+                  {
+                    "name": "西西"
+                  },
+                  {
+                    "name": "也斯"
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "386ba5",
+                  "_base_color": [
+                    0.5896358543417367,
+                    0.6574585635359116,
+                    0.7098039215686275
+                  ],
+                  "secondary_color": "f4f7f9",
+                  "_avg_color": [
+                    0.585,
+                    0.5586592178770949,
+                    0.7019607843137254
+                  ],
+                  "primary_color_dark": "2b527f"
+                },
+                "type": "movie",
+                "has_linewatch": false,
+                "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2901073916.jpg",
+                "sharing_url": "https://movie.douban.com/subject/35641752/",
+                "url": "https://movie.douban.com/subject/35641752/",
+                "release_date": null,
+                "uri": "douban://douban.com/movie/35641752",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "许鞍华"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              }
+            ],
+            "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+            "cover_url": "https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_0ca071b671ac15d3/profile/chart_cover_url",
+            "updated_at": "2024-08-02 18:02:23",
+            "icon_fg_image": null,
+            "header_bg_image": "https://img9.doubanio.com/view/photo/photo/public/p2908568716.jpg",
+            "type_text": "豆瓣周榜",
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "6f6672",
+              "secondary_color": "f8f4f9",
+              "primary_color_dark": "4a444c"
+            },
+            "covers": [
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910815887.jpg",
+              "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891707171.jpg",
+              "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2901073916.jpg"
+            ],
+            "medium_name": "口碑电影",
+            "total": 10,
+            "type": "chart",
+            "id": "movie_weekly_best",
+            "name": "一周口碑电影榜"
+          },
+          {
+            "rank": true,
+            "subtitle": "豆瓣榜单",
+            "description": "根据“看过”人数、评分、评价等因素，通过算法得出的电影综合排名，每周更新。",
+            "header_fg_image": "https://img1.doubanio.com/img/files/file-1637045770.jpeg",
+            "url": "",
+            "items": [
+              {
+                "rating": {
+                  "count": 3047621,
+                  "max": 10,
+                  "value": 9.7,
+                  "star_count": 5.0
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "1994-09-10(多伦多电影节)"
+                ],
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p480747492.jpg",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg"
+                },
+                "is_show": false,
+                "year": "1994",
+                "card_subtitle": "1994 / 美国 / 剧情 犯罪 / 弗兰克·德拉邦特 / 蒂姆·罗宾斯 摩根·弗里曼",
+                "id": "1292052",
+                "genres": [
+                  "剧情",
+                  "犯罪"
+                ],
+                "title": "肖申克的救赎",
+                "is_released": true,
+                "actors": [
+                  {
+                    "name": "蒂姆·罗宾斯"
+                  },
+                  {
+                    "name": "摩根·弗里曼"
+                  },
+                  {
+                    "name": "鲍勃·冈顿"
+                  },
+                  {
+                    "name": "威廉姆·赛德勒"
+                  },
+                  {
+                    "name": "克兰西·布朗"
+                  },
+                  {
+                    "name": "吉尔·贝罗斯"
+                  },
+                  {
+                    "name": "马克·罗斯顿"
+                  },
+                  {
+                    "name": "詹姆斯·惠特摩"
+                  },
+                  {
+                    "name": "杰弗里·德曼"
+                  },
+                  {
+                    "name": "拉里·布兰登伯格"
+                  },
+                  {
+                    "name": "尼尔·吉恩托利"
+                  },
+                  {
+                    "name": "布赖恩·利比"
+                  },
+                  {
+                    "name": "大卫·普罗瓦尔"
+                  },
+                  {
+                    "name": "约瑟夫·劳格诺"
+                  },
+                  {
+                    "name": "祖德·塞克利拉"
+                  },
+                  {
+                    "name": "保罗·麦克兰尼"
+                  },
+                  {
+                    "name": "芮妮·布莱恩"
+                  },
+                  {
+                    "name": "阿方索·弗里曼"
+                  },
+                  {
+                    "name": "V·J·福斯特"
+                  },
+                  {
+                    "name": "弗兰克·梅德拉诺"
+                  },
+                  {
+                    "name": "马克·迈尔斯"
+                  },
+                  {
+                    "name": "尼尔·萨默斯"
+                  },
+                  {
+                    "name": "耐德·巴拉米"
+                  },
+                  {
+                    "name": "布赖恩·戴拉特"
+                  },
+                  {
+                    "name": "唐·麦克马纳斯"
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "723b2c",
+                  "_base_color": [
+                    0.03508771929824561,
+                    0.6129032258064516,
+                    0.12156862745098039
+                  ],
+                  "secondary_color": "f9f5f4",
+                  "_avg_color": [
+                    0.06060606060606061,
+                    0.4125,
+                    0.3137254901960784
+                  ],
+                  "primary_color_dark": "4c271d"
+                },
+                "type": "movie",
+                "has_linewatch": true,
+                "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p480747492.jpg",
+                "sharing_url": "https://movie.douban.com/subject/1292052/",
+                "url": "https://movie.douban.com/subject/1292052/",
+                "release_date": null,
+                "uri": "douban://douban.com/movie/1292052",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "弗兰克·德拉邦特"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 2251781,
+                  "max": 10,
+                  "value": 9.6,
+                  "star_count": 5.0
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "1993-07-26(中国大陆)"
+                ],
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2561716440.jpg",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg"
+                },
+                "is_show": false,
+                "year": "1993",
+                "card_subtitle": "1993 / 中国大陆 中国香港 / 剧情 爱情 同性 / 陈凯歌 / 张国荣 张丰毅",
+                "id": "1291546",
+                "genres": [
+                  "剧情",
+                  "爱情",
+                  "同性"
+                ],
+                "title": "霸王别姬",
+                "is_released": true,
+                "actors": [
+                  {
+                    "name": "张国荣"
+                  },
+                  {
+                    "name": "张丰毅"
+                  },
+                  {
+                    "name": "巩俐"
+                  },
+                  {
+                    "name": "葛优"
+                  },
+                  {
+                    "name": "英达"
+                  },
+                  {
+                    "name": "蒋雯丽"
+                  },
+                  {
+                    "name": "吴大维"
+                  },
+                  {
+                    "name": "吕齐"
+                  },
+                  {
+                    "name": "雷汉"
+                  },
+                  {
+                    "name": "尹治"
+                  },
+                  {
+                    "name": "马明威"
+                  },
+                  {
+                    "name": "费振翔"
+                  },
+                  {
+                    "name": "智一桐"
+                  },
+                  {
+                    "name": "李春"
+                  },
+                  {
+                    "name": "赵海龙"
+                  },
+                  {
+                    "name": "李丹"
+                  },
+                  {
+                    "name": "童弟"
+                  },
+                  {
+                    "name": "沈慧芬"
+                  },
+                  {
+                    "name": "黄斐"
+                  },
+                  {
+                    "name": "徐杰"
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "a5a39e",
+                  "_base_color": [
+                    0.10606060606060595,
+                    0.044715447154471614,
+                    0.9647058823529412
+                  ],
+                  "secondary_color": "f9f8f4",
+                  "_avg_color": [
+                    0.01388888888888882,
+                    0.054298642533936715,
+                    0.8666666666666667
+                  ],
+                  "primary_color_dark": "7f7d79"
+                },
+                "type": "movie",
+                "has_linewatch": true,
+                "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2561716440.jpg",
+                "sharing_url": "https://movie.douban.com/subject/1291546/",
+                "url": "https://movie.douban.com/subject/1291546/",
+                "release_date": null,
+                "uri": "douban://douban.com/movie/1291546",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "陈凯歌"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 2270335,
+                  "max": 10,
+                  "value": 9.5,
+                  "star_count": 5.0
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "1994-06-23(洛杉矶首映)"
+                ],
+                "pic": {
+                  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2372307693.jpg",
+                  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg"
+                },
+                "is_show": false,
+                "year": "1994",
+                "card_subtitle": "1994 / 美国 / 剧情 爱情 / 罗伯特·泽米吉斯 / 汤姆·汉克斯 罗宾·怀特",
+                "id": "1292720",
+                "genres": [
+                  "剧情",
+                  "爱情"
+                ],
+                "title": "阿甘正传",
+                "is_released": true,
+                "actors": [
+                  {
+                    "name": "汤姆·汉克斯"
+                  },
+                  {
+                    "name": "罗宾·怀特"
+                  },
+                  {
+                    "name": "加里·辛尼斯"
+                  },
+                  {
+                    "name": "麦凯尔泰·威廉逊"
+                  },
+                  {
+                    "name": "莎莉·菲尔德"
+                  },
+                  {
+                    "name": "海利·乔·奥斯蒙"
+                  },
+                  {
+                    "name": "迈克尔·康纳·亨弗里斯"
+                  },
+                  {
+                    "name": "哈罗德·G·赫瑟姆"
+                  },
+                  {
+                    "name": "山姆·安德森"
+                  },
+                  {
+                    "name": "伊俄涅·M·特雷奇"
+                  },
+                  {
+                    "name": "彼得·道博森"
+                  },
+                  {
+                    "name": "希芳·法隆"
+                  },
+                  {
+                    "name": "伊丽莎白·汉克斯"
+                  },
+                  {
+                    "name": "汉娜·豪尔"
+                  },
+                  {
+                    "name": "克里斯托弗·琼斯"
+                  },
+                  {
+                    "name": "罗布·兰德里"
+                  },
+                  {
+                    "name": "杰森·麦克奎尔"
+                  },
+                  {
+                    "name": "桑尼·施罗耶"
+                  },
+                  {
+                    "name": "艾德·戴维斯"
+                  },
+                  {
+                    "name": "丹尼尔C.斯瑞派克"
+                  },
+                  {
+                    "name": "大卫·布里斯宾"
+                  },
+                  {
+                    "name": "德博拉·麦克蒂尔"
+                  },
+                  {
+                    "name": "艾尔·哈林顿"
+                  },
+                  {
+                    "name": "阿非莫·奥米拉"
+                  },
+                  {
+                    "name": "约翰·沃德斯塔德"
+                  },
+                  {
+                    "name": "迈克尔·伯吉斯"
+                  },
+                  {
+                    "name": "埃里克·安德伍德"
+                  },
+                  {
+                    "name": "拜伦·明斯"
+                  },
+                  {
+                    "name": "斯蒂芬·布吉格沃特"
+                  },
+                  {
+                    "name": "约翰·威廉·高尔特"
+                  },
+                  {
+                    "name": "希拉里·沙普兰"
+                  },
+                  {
+                    "name": "伊莎贝尔·罗斯"
+                  },
+                  {
+                    "name": "理查德·达历山德罗"
+                  },
+                  {
+                    "name": "迪克·史迪威"
+                  },
+                  {
+                    "name": "迈克尔-杰斯"
+                  },
+                  {
+                    "name": "杰弗里·布莱克"
+                  },
+                  {
+                    "name": "瓦妮莎·罗斯"
+                  },
+                  {
+                    "name": "迪克·卡维特"
+                  },
+                  {
+                    "name": "马拉·苏查雷特扎"
+                  },
+                  {
+                    "name": "乔·阿拉斯奇"
+                  },
+                  {
+                    "name": "W·本森·泰瑞"
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "a53f6b",
+                  "_base_color": [
+                    0.9285714285714286,
+                    0.6176470588235294,
+                    0.13333333333333333
+                  ],
+                  "secondary_color": "f9f4f7",
+                  "_avg_color": [
+                    0.04166666666666652,
+                    0.03636363636363636,
+                    0.8627450980392157
+                  ],
+                  "primary_color_dark": "7f3052"
+                },
+                "type": "movie",
+                "has_linewatch": true,
+                "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2372307693.jpg",
+                "sharing_url": "https://movie.douban.com/subject/1292720/",
+                "url": "https://movie.douban.com/subject/1292720/",
+                "release_date": null,
+                "uri": "douban://douban.com/movie/1292720",
+                "subtype": "movie",
+                "directors": [
+                  {
+                    "name": "罗伯特·泽米吉斯"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              }
+            ],
+            "uri": "douban://douban.com/subject_collection/movie_top250?type=rank&category=movie&rank_type=top250",
+            "cover_url": "https://img9.doubanio.com/img/files/file-1637044446.jpeg",
+            "updated_at": null,
+            "icon_fg_image": "https://img1.doubanio.com/img/files/file-1543460329.png",
+            "header_bg_image": "https://img1.doubanio.com/view/photo/photo/public/p456482220.jpg",
+            "type_text": "",
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "32323B",
+              "secondary_color": "32323B",
+              "primary_color_dark": "32323B"
+            },
+            "covers": [
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+              "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg",
+              "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg"
+            ],
+            "background_color": "#E1A01A",
+            "medium_name": "豆瓣 Top250",
+            "total": 250,
+            "type": "chart",
+            "id": "movie_top250",
+            "name": "豆瓣电影 Top250"
+          },
+          {
+            "subtitle": "豆瓣榜单",
+            "description": "每周三更新；关注榜单，第一时间了解最新华语口碑好剧。",
+            "header_fg_image": "https://img3.doubanio.com/img/files/file-1637045067.jpeg",
+            "url": "",
+            "items": [
+              {
+                "rating": {
+                  "count": 39436,
+                  "max": 10,
+                  "value": 8.5,
+                  "star_count": 4.5
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "2024-05-08(中国大陆)"
+                ],
+                "rank_value": 1,
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2874883359.jpg",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2874883359.jpg"
+                },
+                "is_show": false,
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 / 楼健 卫立洲 / 秦俊杰 刘宇宁",
+                "id": "35656028",
+                "genres": [
+                  "剧情"
+                ],
+                "trend_down": false,
+                "title": "天行健",
+                "trend_equal": true,
+                "trend_up": false,
+                "is_released": true,
+                "rank_value_changed": 0,
+                "actors": [
+                  {
+                    "name": "秦俊杰"
+                  },
+                  {
+                    "name": "刘宇宁"
+                  },
+                  {
+                    "name": "黄梦莹"
+                  },
+                  {
+                    "name": "庞瀚辰"
+                  },
+                  {
+                    "name": "傅菁"
+                  },
+                  {
+                    "name": "陈天明"
+                  },
+                  {
+                    "name": "陈思澈"
+                  },
+                  {
+                    "name": "黄昊月"
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "a5977e",
+                  "_base_color": [
+                    0.10606060606060604,
+                    0.23655913978494617,
+                    0.7294117647058823
+                  ],
+                  "secondary_color": "f9f8f4",
+                  "_avg_color": [
+                    0.1016260162601626,
+                    0.23976608187134502,
+                    0.6705882352941176
+                  ],
+                  "primary_color_dark": "7f7461"
+                },
+                "type": "tv",
+                "has_linewatch": true,
+                "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2874883359.jpg",
+                "sharing_url": "https://movie.douban.com/subject/35656028/",
+                "url": "https://movie.douban.com/subject/35656028/",
+                "release_date": null,
+                "uri": "douban://douban.com/tv/35656028",
+                "subtype": "tv",
+                "directors": [
+                  {
+                    "name": "楼健"
+                  },
+                  {
+                    "name": "卫立洲"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 267649,
+                  "max": 10,
+                  "value": 8.9,
+                  "star_count": 4.5
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "2024-05-07(中国大陆)"
+                ],
+                "rank_value": 2,
+                "pic": {
+                  "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2905618615.jpg",
+                  "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2905618615.jpg"
+                },
+                "is_show": false,
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 / 滕丛丛 / 马伊琍 周依然",
+                "id": "36245596",
+                "genres": [
+                  "剧情"
+                ],
+                "trend_down": false,
+                "title": "我的阿勒泰",
+                "trend_equal": true,
+                "trend_up": false,
+                "is_released": true,
+                "rank_value_changed": 0,
+                "actors": [
+                  {
+                    "name": "马伊琍"
+                  },
+                  {
+                    "name": "周依然"
+                  },
+                  {
+                    "name": "于适"
+                  },
+                  {
+                    "name": "蒋奇明"
+                  },
+                  {
+                    "name": "闫佩伦"
+                  },
+                  {
+                    "name": "黄晓娟"
+                  },
+                  {
+                    "name": "阿力木江·吐尔斯拜克"
+                  },
+                  {
+                    "name": "阿丽玛"
+                  },
+                  {
+                    "name": "海拉提·哈木"
+                  },
+                  {
+                    "name": "马尔江·巴依吐肯"
+                  },
+                  {
+                    "name": "特尼斯·买德勒汗"
+                  },
+                  {
+                    "name": "阿依拉·居热提"
+                  },
+                  {
+                    "name": "孔署阿克·胡特拜"
+                  },
+                  {
+                    "name": "叶尔达拿·叶尔肯"
+                  },
+                  {
+                    "name": "娜迪拉·叶尔肯"
+                  },
+                  {
+                    "name": "巴德玛"
+                  },
+                  {
+                    "name": "再比拉·努尔太"
+                  },
+                  {
+                    "name": "李文玲"
+                  },
+                  {
+                    "name": "普瑞可"
+                  },
+                  {
+                    "name": "方一龙"
+                  },
+                  {
+                    "name": "久丽度子·巴克提努尔"
+                  },
+                  {
+                    "name": "王逸飞"
+                  },
+                  {
+                    "name": "郭成"
+                  },
+                  {
+                    "name": "衣云鹤"
+                  },
+                  {
+                    "name": "张玉龙"
+                  },
+                  {
+                    "name": "蒙坎"
+                  },
+                  {
+                    "name": "布荣"
+                  },
+                  {
+                    "name": "巴特尔·巴特拉西"
+                  },
+                  {
+                    "name": "布音杰·阿拉西"
+                  },
+                  {
+                    "name": "王艺龙"
+                  },
+                  {
+                    "name": "夏甄"
+                  },
+                  {
+                    "name": "阿斯卡尔"
+                  },
+                  {
+                    "name": "达布力·黑巴提"
+                  },
+                  {
+                    "name": "奴尔扎列"
+                  },
+                  {
+                    "name": "哈米音·拜肯"
+                  },
+                  {
+                    "name": "唐加尔克·阿合提"
+                  },
+                  {
+                    "name": "乌坦别克·科拜根"
+                  },
+                  {
+                    "name": "都曼·哈勒木别克"
+                  },
+                  {
+                    "name": "哈合列孜·赛勒克"
+                  },
+                  {
+                    "name": "陈宝勇"
+                  },
+                  {
+                    "name": "石若蜚"
+                  },
+                  {
+                    "name": "赛里克·合德尔毛拉"
+                  },
+                  {
+                    "name": "努尔夏提·努拉西"
+                  },
+                  {
+                    "name": "金山"
+                  },
+                  {
+                    "name": "魏建云"
+                  },
+                  {
+                    "name": "易子瑶"
+                  },
+                  {
+                    "name": "蒋君燕"
+                  },
+                  {
+                    "name": "赛尔达尔·地里夏提"
+                  },
+                  {
+                    "name": "依明江·吐尔达洪"
+                  },
+                  {
+                    "name": "兰志海"
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "a5a3a5",
+                  "_base_color": [
+                    0.8333333333333334,
+                    0.014084507042253471,
+                    0.2784313725490196
+                  ],
+                  "secondary_color": "f9f4f9",
+                  "_avg_color": [
+                    0.11904761904761857,
+                    0.037037037037037056,
+                    0.7411764705882353
+                  ],
+                  "primary_color_dark": "7f7d7f"
+                },
+                "type": "tv",
+                "has_linewatch": true,
+                "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2905618615.jpg",
+                "sharing_url": "https://movie.douban.com/subject/36245596/",
+                "url": "https://movie.douban.com/subject/36245596/",
+                "release_date": null,
+                "uri": "douban://douban.com/tv/36245596",
+                "subtype": "tv",
+                "directors": [
+                  {
+                    "name": "滕丛丛"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              },
+              {
+                "rating": {
+                  "count": 72154,
+                  "max": 10,
+                  "value": 8.3,
+                  "star_count": 4.0
+                },
+                "controversy_reason": "",
+                "pubdate": [
+                  "2024-07-18(中国大陆)"
+                ],
+                "rank_value": 3,
+                "pic": {
+                  "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2910162228.jpg",
+                  "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910162228.jpg"
+                },
+                "is_show": false,
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 新加坡 / 悬疑 奇幻 古装 / 柏杉 / 杨旭文 杨志刚",
+                "id": "36188849",
+                "genres": [
+                  "悬疑",
+                  "奇幻",
+                  "古装"
+                ],
+                "trend_down": false,
+                "title": "唐朝诡事录之西行",
+                "trend_equal": false,
+                "trend_up": true,
+                "is_released": true,
+                "rank_value_changed": 8,
+                "actors": [
+                  {
+                    "name": "杨旭文"
+                  },
+                  {
+                    "name": "杨志刚"
+                  },
+                  {
+                    "name": "郜思雯"
+                  },
+                  {
+                    "name": "孙雪宁"
+                  },
+                  {
+                    "name": "陈创"
+                  },
+                  {
+                    "name": "岳丽娜"
+                  },
+                  {
+                    "name": "刘智扬"
+                  },
+                  {
+                    "name": "于毅"
+                  },
+                  {
+                    "name": "车保罗"
+                  },
+                  {
+                    "name": "黑子"
+                  },
+                  {
+                    "name": "韩承羽"
+                  },
+                  {
+                    "name": "曲霄宇"
+                  },
+                  {
+                    "name": "汤晶媚"
+                  }
+                ],
+                "color_scheme": {
+                  "is_dark": true,
+                  "primary_color_light": "725b3f",
+                  "_base_color": [
+                    0.08974358974358974,
+                    0.4482758620689655,
+                    0.11372549019607843
+                  ],
+                  "secondary_color": "f9f7f4",
+                  "_avg_color": [
+                    0.1149425287356322,
+                    0.48333333333333334,
+                    0.23529411764705882
+                  ],
+                  "primary_color_dark": "4c3c2a"
+                },
+                "type": "tv",
+                "has_linewatch": true,
+                "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2910162228.jpg",
+                "sharing_url": "https://movie.douban.com/subject/36188849/",
+                "url": "https://movie.douban.com/subject/36188849/",
+                "release_date": null,
+                "uri": "douban://douban.com/tv/36188849",
+                "subtype": "tv",
+                "directors": [
+                  {
+                    "name": "柏杉"
+                  }
+                ],
+                "album_no_interact": false,
+                "null_rating_reason": ""
+              }
+            ],
+            "uri": "douban://douban.com/subject_collection/tv_chinese_best_weekly?type=rank&category=movie&rank_type=weekly",
+            "covers": [
+              "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2874883359.jpg",
+              "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2905618615.jpg",
+              "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910162228.jpg"
+            ],
+            "updated_at": "2024-07-31 16:19:01",
+            "icon_fg_image": null,
+            "header_bg_image": "https://img3.doubanio.com/view/photo/photo/public/p2908614397.jpg",
+            "type_text": "豆瓣周榜",
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "6f6672",
+              "secondary_color": "f8f4f9",
+              "primary_color_dark": "4a444c"
+            },
+            "cover_url": "https://img1.doubanio.com/dae/screenshot/image/v2/html/cos_bcb0b7cbfb78f9da/profile/chart_cover_url",
+            "medium_name": "华语口碑剧集",
+            "total": 10,
+            "type": "chart",
+            "id": "tv_chinese_best_weekly",
+            "name": "华语口碑剧集榜"
+          }
+        ],
+        "title": ""
+      },
+      "uri": "douban://douban.com/movie/recommend_list?index=0&tag=movie&event_source=movie_selected_collections&target_event=movie_subject_collection_detail_exposed",
+      "key": "selected_collections"
+    },
+    {
+      "url": "",
+      "module_name": "movie_selected_chart_collections",
+      "data": {
+        "total": 5,
+        "selected_collections": [
+          {
+            "category": "movie",
+            "items_count": 30,
+            "is_merged_cover": true,
+            "sharing_url": "https://m.douban.com/subject_collection/EC246LLYY",
+            "title": "2024年08月定档热门电影推荐",
+            "url": "",
+            "uri": "douban://douban.com/subject_collection/EC246LLYY?type=rank&category=movie&rank_type=tmp",
+            "cover_url": "https://img1.doubanio.com/dae/merged_cover/img_handler/chart_cover/round_rec/EC246LLYY",
+            "followers_count": 17,
+            "is_official": false,
+            "type": "chart",
+            "id": "EC246LLYY",
+            "done_count": 0,
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "725f33",
+              "secondary_color": "f9f8f4",
+              "primary_color_dark": "4c3f22"
+            }
+          },
+          {
+            "category": "movie",
+            "items_count": 50,
+            "is_merged_cover": true,
+            "sharing_url": "https://m.douban.com/subject_collection/EC446NAZA",
+            "title": "2024年上半年高分电影Top50",
+            "url": "",
+            "uri": "douban://douban.com/subject_collection/EC446NAZA?type=rank&category=movie&rank_type=tmp_official",
+            "cover_url": "https://img9.doubanio.com/dae/merged_cover/img_handler/chart_cover/round_rec/EC446NAZA",
+            "followers_count": 821,
+            "is_official": true,
+            "type": "chart",
+            "id": "EC446NAZA",
+            "done_count": 0,
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "254d72",
+              "secondary_color": "f4f7f9",
+              "primary_color_dark": "19334c"
+            }
+          },
+          {
+            "category": "movie",
+            "items_count": 60,
+            "is_merged_cover": true,
+            "sharing_url": "https://m.douban.com/subject_collection/EC7E6LJFA",
+            "title": "2024年下半年定档热门电影推荐",
+            "url": "",
+            "uri": "douban://douban.com/subject_collection/EC7E6LJFA?type=rank&category=movie&rank_type=tmp",
+            "cover_url": "https://img9.doubanio.com/dae/merged_cover/img_handler/chart_cover/round_rec/EC7E6LJFA",
+            "followers_count": 139,
+            "is_official": false,
+            "type": "chart",
+            "id": "EC7E6LJFA",
+            "done_count": 0,
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "a59d94",
+              "secondary_color": "f9f7f4",
+              "primary_color_dark": "7f7872"
+            }
+          },
+          {
+            "category": "movie",
+            "items_count": 20,
+            "is_merged_cover": false,
+            "sharing_url": "https://m.douban.com/subject_collection/ECWY6NXAY",
+            "title": "2023年度榜单高分电影精选",
+            "url": "",
+            "uri": "douban://douban.com/subject_collection/ECWY6NXAY?type=rank&category=movie&rank_type=year",
+            "cover_url": "https://img1.doubanio.com/view/files/raw/file-1705412830.jpg",
+            "followers_count": 14477,
+            "is_official": false,
+            "type": "chart",
+            "id": "ECWY6NXAY",
+            "done_count": 0,
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "726d6b",
+              "secondary_color": "f9f6f4",
+              "primary_color_dark": "4c4847"
+            }
+          },
+          {
+            "category": "movie",
+            "items_count": 45,
+            "is_merged_cover": true,
+            "sharing_url": "https://m.douban.com/subject_collection/EC7Q6NHQQ",
+            "title": "2024年定档美国新片推荐",
+            "url": "",
+            "uri": "douban://douban.com/subject_collection/EC7Q6NHQQ?type=rank&category=movie&rank_type=tmp_official",
+            "cover_url": "https://img2.doubanio.com/dae/merged_cover/img_handler/chart_cover/round_rec/EC7Q6NHQQ",
+            "followers_count": 1030,
+            "is_official": true,
+            "type": "chart",
+            "id": "EC7Q6NHQQ",
+            "done_count": 0,
+            "background_color_scheme": {
+              "is_dark": true,
+              "primary_color_light": "725f64",
+              "secondary_color": "f9f4f6",
+              "primary_color_dark": "4c3f43"
+            }
+          }
+        ],
+        "title": "豆瓣片单"
+      },
+      "uri": "douban://douban.com/movie/recommend_list?index=2&tag=movie",
+      "key": "selected_chart_collections"
+    },
+    {
+      "url": "",
+      "module_name": "movie_showing",
+      "data": {
+        "subject_collection_boards": [
+          {
+            "subject_collection": {
+              "subject_count": 26,
+              "subject_type": "",
+              "subtitle": "",
+              "background_color_scheme": {
+                "is_dark": true,
+                "primary_color_light": "6f6672",
+                "secondary_color": "f8f4f9",
+                "primary_color_dark": "4a444c"
+              },
+              "short_name": "",
+              "display": {
+                "layout": "grid"
+              },
+              "url": "https://m.douban.com/app_topic/movie_showing",
+              "name": "影院热映",
+              "sharing_title": "",
+              "uri": "douban://douban.com/subject_collection/movie_showing",
+              "cover_url": "",
+              "updated_at": null,
+              "icon_fg_image": "",
+              "show_header_mask": false,
+              "show_rank": true,
+              "n_followers": null,
+              "more_description": "",
+              "medium_name": "",
+              "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/movie_showing/",
+              "id": "movie_showing",
+              "description": ""
+            },
+            "type": "movie",
+            "items": [
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 122643,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.3
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 喜剧 动作 科幻 / 肖恩·利维 / 瑞安·雷诺兹 休·杰克曼",
+                "id": "26957900",
+                "title": "死侍与金刚狼",
+                "label": null,
+                "actors": [
+                  "瑞安·雷诺兹",
+                  "休·杰克曼",
+                  "艾玛·科林"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 喜剧 动作 科幻 / 肖恩·利维 / 瑞安·雷诺兹 休·杰克曼",
+                "url": "https://movie.douban.com/subject/26957900/",
+                "release_date": "07.26",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2909497944.jpg",
+                  "width": 5413,
+                  "shape": "rectangle",
+                  "height": 8192
+                },
+                "uri": "douban://douban.com/movie/26957900",
+                "subtype": "",
+                "directors": [
+                  "肖恩·利维"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": null,
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 历史 / 陈思诚 / 刘昊然 约翰·库萨克",
+                "id": "26370387",
+                "title": "解密",
+                "label": null,
+                "actors": [
+                  "刘昊然",
+                  "约翰·库萨克",
+                  "陈道明"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 剧情 历史 / 陈思诚 / 刘昊然 约翰·库萨克",
+                "url": "https://movie.douban.com/subject/26370387/",
+                "release_date": "08.03",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911118127.jpg",
+                  "width": 2217,
+                  "shape": "rectangle",
+                  "height": 2998
+                },
+                "uri": "douban://douban.com/movie/26370387",
+                "subtype": "",
+                "directors": [
+                  "陈思诚"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": "暂无评分"
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 50965,
+                  "max": 10,
+                  "star_count": 4.0,
+                  "value": 7.7
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 喜剧 科幻 / 李阳 / 张若昀 钟楚曦",
+                "id": "26816104",
+                "title": "从21世纪安全撤离",
+                "label": null,
+                "actors": [
+                  "张若昀",
+                  "钟楚曦",
+                  "宋洋"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 喜剧 科幻 / 李阳 / 张若昀 钟楚曦",
+                "url": "https://movie.douban.com/subject/26816104/",
+                "release_date": "08.02",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911256273.jpg",
+                  "width": 1500,
+                  "shape": "rectangle",
+                  "height": 2157
+                },
+                "uri": "douban://douban.com/movie/26816104",
+                "subtype": "",
+                "directors": [
+                  "李阳"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 69352,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 6.1
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 动作 奇幻 / 乌尔善 夏鹏 / 胡先煦 李宛妲",
+                "id": "35228399",
+                "title": "异人之下",
+                "label": null,
+                "actors": [
+                  "胡先煦",
+                  "李宛妲",
+                  "冯绍峰"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 动作 奇幻 / 乌尔善 / 胡先煦 李宛妲",
+                "url": "https://movie.douban.com/subject/35228399/",
+                "release_date": "07.26",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910944812.jpg",
+                  "width": 7190,
+                  "shape": "rectangle",
+                  "height": 10269
+                },
+                "uri": "douban://douban.com/movie/35228399",
+                "subtype": "",
+                "directors": [
+                  "乌尔善"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 359591,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 7.3
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 喜剧 / 闫非 彭大魔 / 沈腾 马丽",
+                "id": "36653918",
+                "title": "抓娃娃",
+                "label": null,
+                "actors": [
+                  "沈腾",
+                  "马丽",
+                  "史彭元"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 喜剧 / 闫非 / 沈腾 马丽",
+                "url": "https://movie.douban.com/subject/36653918/",
+                "release_date": "07.16",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910105262.jpg",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 3000
+                },
+                "uri": "douban://douban.com/movie/36653918",
+                "subtype": "",
+                "directors": [
+                  "闫非"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 33630,
+                  "max": 10,
+                  "star_count": 4.0,
+                  "value": 7.8
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 动画 奇幻 / 钟鼎 / 大昕 刘校妤",
+                "id": "36624248",
+                "title": "落凡尘",
+                "label": null,
+                "actors": [
+                  "大昕",
+                  "刘校妤",
+                  "星潮"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 剧情 动画 奇幻 / 钟鼎 / 大昕 刘校妤",
+                "url": "https://movie.douban.com/subject/36624248/",
+                "release_date": "07.12",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910990607.jpg",
+                  "width": 2000,
+                  "shape": "rectangle",
+                  "height": 2801
+                },
+                "uri": "douban://douban.com/movie/36624248",
+                "subtype": "",
+                "directors": [
+                  "钟鼎"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 161781,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 6.2
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 中国大陆 / 剧情 悬疑 犯罪 / 柯汶利 / 王传君 张钧甯",
+                "id": "36877322",
+                "title": "默杀",
+                "label": null,
+                "actors": [
+                  "王传君",
+                  "张钧甯",
+                  "吴镇宇"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "中国大陆 / 剧情 悬疑 犯罪 / 柯汶利 / 王传君 张钧甯",
+                "url": "https://movie.douban.com/subject/36877322/",
+                "release_date": "07.03",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910148246.jpg",
+                  "width": 1753,
+                  "shape": "rectangle",
+                  "height": 2800
+                },
+                "uri": "douban://douban.com/movie/36877322",
+                "subtype": "",
+                "directors": [
+                  "柯汶利"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 12536,
+                  "max": 10,
+                  "star_count": 3.5,
+                  "value": 6.9
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 动作 惊悚 冒险 / 李·以萨克·郑 / 黛西·埃德加-琼斯 格伦·鲍威尔",
+                "id": "35118955",
+                "title": "龙卷风",
+                "label": null,
+                "actors": [
+                  "黛西·埃德加-琼斯",
+                  "格伦·鲍威尔",
+                  "安东尼·拉莫斯"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 动作 惊悚 冒险 / 李·以萨克·郑 / 黛西·埃德加-琼斯 格伦·鲍威尔",
+                "url": "https://movie.douban.com/subject/35118955/",
+                "release_date": "07.19",
+                "cover": {
+                  "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910821152.jpg",
+                  "width": 675,
+                  "shape": "rectangle",
+                  "height": 1000
+                },
+                "uri": "douban://douban.com/movie/35118955",
+                "subtype": "",
+                "directors": [
+                  "李·以萨克·郑"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 45898,
+                  "max": 10,
+                  "star_count": 3.0,
+                  "value": 6.3
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 美国 / 喜剧 动画 冒险 / 克里斯·雷纳德  帕特里克·德拉吉 / 史蒂夫·卡瑞尔 克里斯汀·韦格",
+                "id": "30170847",
+                "title": "神偷奶爸4",
+                "label": null,
+                "actors": [
+                  "史蒂夫·卡瑞尔",
+                  "克里斯汀·韦格",
+                  "皮埃尔·柯芬"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "美国 / 喜剧 动画 冒险 / 克里斯·雷纳德 / 史蒂夫·卡瑞尔 克里斯汀·韦格",
+                "url": "https://movie.douban.com/subject/30170847/",
+                "release_date": "07.12",
+                "cover": {
+                  "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2907916556.jpg",
+                  "width": 3158,
+                  "shape": "rectangle",
+                  "height": 5000
+                },
+                "uri": "douban://douban.com/movie/30170847",
+                "subtype": "",
+                "directors": [
+                  "克里斯·雷纳德"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              },
+              {
+                "original_price": null,
+                "rating": {
+                  "count": 3600,
+                  "max": 10,
+                  "star_count": 4.0,
+                  "value": 7.5
+                },
+                "actions": [],
+                "year": "2024",
+                "card_subtitle": "2024 / 日本 / 动画 运动 / 石川俊介 / 岛崎信长 内田雄马",
+                "id": "36330215",
+                "title": "蓝色禁区：凪",
+                "label": null,
+                "actors": [
+                  "岛崎信长",
+                  "内田雄马",
+                  "兴津和幸"
+                ],
+                "interest": null,
+                "type": "movie",
+                "description": "",
+                "has_linewatch": false,
+                "price": null,
+                "date": null,
+                "info": "日本 / 动画 运动 / 石川俊介 / 岛崎信长 内田雄马",
+                "url": "https://movie.douban.com/subject/36330215/",
+                "release_date": "07.26",
+                "cover": {
+                  "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2909861298.jpg",
+                  "width": 4093,
+                  "shape": "rectangle",
+                  "height": 5787
+                },
+                "uri": "douban://douban.com/movie/36330215",
+                "subtype": "",
+                "directors": [
+                  "石川俊介"
+                ],
+                "reviewer_name": "",
+                "null_rating_reason": ""
+              }
+            ]
+          }
+        ],
+        "total": 1
+      },
+      "uri": "douban://douban.com/tag/49/subject_collection_boards",
+      "key": "subject_collection_boards"
+    },
+    {
+      "url": "",
+      "module_name": "movie_subject_suggestion",
+      "data": {
+        "type": "movie",
+        "title": "找电影"
+      },
+      "uri": "",
+      "key": "subject_suggestion"
+    }
+  ],
+  "name": "电影"
+}

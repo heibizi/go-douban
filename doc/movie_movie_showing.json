@@ -1,0 +1,934 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 31,
+  "sharing_info": {
+    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/movie_showing/",
+    "title": "影院热映",
+    "screenshot_title": "分享海报",
+    "screenshot_url": "douban://partial.douban.com/screenshot/subject_collection/movie_showing/_content",
+    "screenshot_type": "rexxar",
+    "wechat_timeline_share": "url"
+  },
+  "items": [
+    {
+      "comment": "在地球人都不知道的K星，三个被命运选中的少年，靠打个喷嚏就可以往返未来二十年。面对毁灭世界的惊天阴谋，他们除了清澈的愚蠢和个位数的战力外一无所有，如何变身英雄对抗意图毁灭世界的超级坏坏的大坏蛋？外表看似大人，头脑却异于常人的“王炸”兄弟组合，代表K星拯救未来！",
+      "rating": {
+        "count": 80686,
+        "max": 10,
+        "star_count": 4,
+        "value": 7.6
+      },
+      "lineticket_url": "douban://douban.com/movie/26816104/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911256273.webp",
+        "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911256273.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/26816104",
+      "photos": [
+        "https://img1.doubanio.com/view/photo/m/public/p2910352389.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910352388.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2910352386.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910352387.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 喜剧 科幻 / 李阳 / 张若昀 钟楚曦",
+      "title": "从21世纪安全撤离",
+      "type": "movie",
+      "id": "26816104",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "影片根据茅盾文学奖获奖者麦家的同名长篇小说改编，故事关于上世纪四十年代，世界局势风起云涌，及时准确破译敌方的通讯密码至关重要。容金珍（刘昊然 饰）自幼展现出惊人的数学天赋，被时任大学校长的小黎黎（吴彦祖 饰）和太太叶筱凝（俞飞鸿 饰）抚养长大。大学入学之际，容金珍因解出数学系老师希伊斯（约翰·库萨克 饰）布置的难题而被更多人注意到，其中就有神秘部门701局局长郑某（陈道明 饰），容金珍从此走进了密码破译的大门。",
+      "rating": {
+        "count": 61769,
+        "max": 10,
+        "star_count": 3.5,
+        "value": 6.8
+      },
+      "lineticket_url": "douban://douban.com/movie/26370387/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2911118127.webp",
+        "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911118127.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/26370387",
+      "photos": [
+        "https://img3.doubanio.com/view/photo/m/public/p2911384977.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2911332305.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2911219275.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2911219266.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 剧情 历史 / 陈思诚 / 刘昊然 约翰·库萨克",
+      "title": "解密",
+      "type": "movie",
+      "id": "26370387",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "史上最另类超级英雄、语不惊人死不休的死侍（瑞安·雷诺兹 Ryan Reynolds 饰）睽违六年终于重返大银幕，更首度加入漫威电影宇宙！除了与一众昔日战友重新聚首，更与睽别15年的金钢狼（休·杰克曼 Hugh Jackman 饰）二度并肩作战再续兄弟情。直面时间变异管理局的追捕，迎战让人意想不到的神秘劲敌卡桑德拉·诺瓦（艾玛·科林 Emma Corrin 饰）。即便如此，死侍也毫不畏惧，自信满满地宣称自己就是“漫威救世主”，并将改写漫威电影宇宙！",
+      "rating": {
+        "count": 140405,
+        "max": 10,
+        "star_count": 3.5,
+        "value": 7.2
+      },
+      "lineticket_url": "douban://douban.com/movie/26957900/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2909497944.webp",
+        "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2909497944.webp"
+      },
+      "honor_infos": [
+        {
+          "kind": "movie",
+          "uri": "douban://douban.com/subject_collection/ECWQ57XIY?type=rank&category=movie&rank_type=year",
+          "rank": 2,
+          "title": "豆瓣2024最值得期待外语电影"
+        }
+      ],
+      "uri": "douban://douban.com/movie/26957900",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2904362626.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2907275446.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2907624156.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2907604502.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 美国 / 喜剧 动作 科幻 / 肖恩·利维 / 瑞安·雷诺兹 休·杰克曼",
+      "title": "死侍与金刚狼",
+      "type": "movie",
+      "id": "26957900",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "困苦的爹，辛劳的妈，破烂的院子，破碎的他。西虹市做大做强的路上怎么把老马家落下了？！
+      “
+      汤里没油
+      ，
+      兜里没子
+      ”
+      的马成钢
+      （
+      沈腾
+      饰
+      ）
+      和春兰
+      （
+      马丽
+      饰
+      ）
+      ，
+      赶驴打工
+      ，
+      家徒四壁
+      ，
+      而儿子马继业
+      （
+      肖帛辰
+      饰
+      ）
+      则是他们逆天改命的唯一希望
+      。
+      小马很争气
+      ，
+      年年好成绩
+      ，
+      一点不娇气
+      ，
+      意志贼坚毅
+      。
+      但随着小马
+      （
+      史彭元
+      饰
+      ）
+      一天天长大
+      ，
+      他却逐渐发现身边的人们都越来越不对劲
+      …
+      …
+      ",
+      "rating": {
+        "count": 375424,
+        "max": 10,
+        "star_count": 3.5,
+        "value": 7.3
+      },
+      "lineticket_url": "douban://douban.com/movie/36653918/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910105262.webp",
+        "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910105262.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/36653918",
+      "photos": [
+        "https://img3.doubanio.com/view/photo/m/public/p2910360527.webp",
+        "https://img2.doubanio.com/view/photo/m/public/p2910360531.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910978739.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910978733.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 喜剧 / 闫非 彭大魔 / 沈腾 马丽",
+      "title": "抓娃娃",
+      "type": "movie",
+      "id": "36653918",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "一直隐藏自己异人身份的张楚岚（胡先煦 饰），自从遇到身世神秘的冯宝宝（李宛妲 饰）后，便被卷入不同异人门派争斗的漩涡中。随着张楚岚是神秘功法“炁体源流”传人的秘密被公之于众，异人界围绕他展开了激烈的争夺，哪都通、全性派、天下会、天一门等各方势力一一登场，混战一触即发，而此时张楚岚却意外揭开了当年的秘密……
+      影片改编自国漫
+      《
+      一人之下
+      》
+      。
+      ",
+      "rating": {
+        "count": 71684,
+        "max": 10,
+        "star_count": 3,
+        "value": 6
+      },
+      "lineticket_url": "douban://douban.com/movie/35228399/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910944812.webp",
+        "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910944812.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/35228399",
+      "photos": [
+        "https://img1.doubanio.com/view/photo/m/public/p2910193950.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2909664699.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910193947.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910193952.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 动作 奇幻 / 乌尔善 夏鹏 / 胡先煦 李宛妲",
+      "title": "异人之下",
+      "type": "movie",
+      "id": "35228399",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "贪恋凡尘又如何？感情是凡人的法术，神仙也在劫难逃。
+      织女因擅离职守
+      ，
+      堕入凡尘
+      ，
+      遭星宿反噬
+      ，
+      连累牛郎与孩子
+      。
+      多年后
+      ，
+      被带往神界的织女后人金风
+      ，
+      为替母赎罪而重返人间
+      ，
+      收回星宿
+      。
+      途中
+      ，
+      他意外结识渴望去往神界寻母的女孩小凡
+      （
+      玉露
+      ）
+      。
+      在结伴寻星的历险途中
+      ，
+      阴差阳错知晓了织女罪案的真相
+      …
+      …
+      ",
+      "rating": {
+        "count": 34369,
+        "max": 10,
+        "star_count": 4,
+        "value": 7.8
+      },
+      "lineticket_url": "douban://douban.com/movie/36624248/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910990607.webp",
+        "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910990607.webp"
+      },
+      "honor_infos": [
+        {
+          "kind": "movie",
+          "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+          "rank": 5,
+          "title": "一周口碑电影榜"
+        }
+      ],
+      "uri": "douban://douban.com/movie/36624248",
+      "photos": [
+        "https://img2.doubanio.com/view/photo/m/public/p2909267781.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909267784.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910105622.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2910645464.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 剧情 动画 奇幻 / 钟鼎 / 大昕 刘校妤",
+      "title": "落凡尘",
+      "type": "movie",
+      "id": "36624248",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "初中女生惠君（徐娇 饰）长期遭校园霸凌高处坠亡，暴行非但没有停止，甚至祸延到闺蜜小彤（王圣迪 饰）身上。然而，霸凌者也接连殒命于重锤之下。在连环杀人案的背后，难脱嫌疑的众人逐一浮出水面：小彤的母亲（张钧甯 饰）目睹女儿被胶水封嘴却闭口不言，校工林在福看似知晓内情却冷漠疏离，暗中窥探的神秘男吴望（黄明昊 饰）看似身陷险境却面露笑容……杀害霸凌者的雨夜屠夫究竟是他们其中的何人？调查案件的警官戴国栋（吴镇宇 饰）似乎被假象蒙蔽，探秘过程中，宗宗藏污纳垢的旧事被揭开，所有人都被推到了风口浪尖。善恶有报罪恶难逃，真相即将揭晓……",
+      "rating": {
+        "count": 163854,
+        "max": 10,
+        "star_count": 3,
+        "value": 6.2
+      },
+      "lineticket_url": "douban://douban.com/movie/36877322/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910148246.webp",
+        "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910148246.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/36877322",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2910264344.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2910264356.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910914213.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910691327.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 剧情 悬疑 犯罪 / 柯汶利 / 王传君 张钧甯",
+      "title": "默杀",
+      "type": "movie",
+      "id": "36877322",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "格鲁（史蒂夫·卡瑞尔 Steve Carell 配音）和露西（克里斯汀·韦格 Kristen Wiig 配音）一家即将展开家庭生活的新篇章，迎接新成员“迷你格鲁”，而这个小宝宝也会用尽方法折磨格鲁这个新手老爸。
+      新反派恶霸麦斯
+      （
+      威尔
+      ·
+      法瑞尔
+      Will
+      Ferrell
+      配音
+      ）
+      和他既致命危险又美丽性感的女友华伦天娜
+      （
+      索菲娅
+      ·
+      维加拉
+      Sofía
+      Vergara
+      配音
+      ）
+      来势汹汹
+      ，
+      格鲁一家面临未知危险
+      。
+      此时
+      ，
+      全新超级小黄人重磅亮相
+      ，
+      成为帮助格鲁一家度过这次危机的
+      “
+      秘密武器
+      ”
+      。
+      一场惊险刺激
+      、
+      笑料百出的全新冒险即将展开
+      。
+      ",
+      "rating": {
+        "count": 0,
+        "max": 10,
+        "star_count": 3,
+        "value": 6.3
+      },
+      "lineticket_url": "douban://douban.com/movie/30170847/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2907916556.webp",
+        "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907916556.webp"
+      },
+      "honor_infos": [
+        {
+          "kind": "movie",
+          "uri": "douban://douban.com/subject_collection/ECWQ57XIY?type=rank&category=movie&rank_type=year",
+          "rank": 4,
+          "title": "豆瓣2024最值得期待外语电影"
+        }
+      ],
+      "uri": "douban://douban.com/movie/30170847",
+      "photos": [
+        "https://img2.doubanio.com/view/photo/m/public/p2906792571.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910570728.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2906792569.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910570727.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 美国 / 喜剧 动画 冒险 / 克里斯·雷纳德  帕特里克·德拉吉 / 史蒂夫·卡瑞尔 克里斯汀·韦格",
+      "title": "神偷奶爸4",
+      "type": "movie",
+      "id": "30170847",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "凯特·卡特（黛西·埃德加-琼斯 Daisy Edgar-Jones 饰）曾是一名追风人，大学时遭遇龙卷风的惨痛经历令她饱受困扰，如今她在纽约的办公室里研究风暴模式。在朋友哈维（安东尼·拉莫斯 Anthony Ramos 饰）的招募下，她重返户外，开始测试一套突破性的全新追风系统。在那里，她与超级网红泰勒·欧文斯（格伦·鲍威尔 Glen Powell 饰）不期而遇。性格鲁莽又颇具魅力的泰勒带领着一支团队四处追风，并在网上直播他们的追风经历，风暴越刺激他们越兴奋。
+      随着风暴季节来临
+      ，
+      前所未见的骇人风暴也频繁出现
+      。
+      凯特
+      、
+      泰勒和他们的团队必须争分夺秒
+      ，
+      才有可能在多个龙卷风暴的交汇中逃出生天
+      。
+      ",
+      "rating": {
+        "count": 12873,
+        "max": 10,
+        "star_count": 3.5,
+        "value": 6.9
+      },
+      "lineticket_url": "douban://douban.com/movie/35118955/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910821152.webp",
+        "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910821152.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/35118955",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2904362396.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910208268.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910770407.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910913998.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 美国 / 动作 惊悚 冒险 / 李·以萨克·郑 / 黛西·埃德加-琼斯 格伦·鲍威尔",
+      "title": "龙卷风",
+      "type": "movie",
+      "id": "35118955",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "影片聚焦“无声末世”第一天，人类尚未掌握“出声即死”的法则，在怪物面前不堪一击。数以千计的怪物从天而降，怪物数量达到系列之最，视角也从前作的乡村小镇升级到美国第一大都市——纽约，全球沦陷，人类生活的街道、地铁、超市等地都变得危机四伏，一旦出声便会被潜藏的怪物“贴脸开大”，喧嚣的纽约沦陷为一座沉默的孤城，苟活的人类在此上演一场极限大逃亡。",
+      "rating": {
+        "count": 48222,
+        "max": 10,
+        "star_count": 3,
+        "value": 5.6
+      },
+      "lineticket_url": "douban://douban.com/movie/34996971/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2909263868.webp",
+        "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2909263868.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/34996971",
+      "photos": [
+        "https://img2.doubanio.com/view/photo/m/public/p2909488731.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909488725.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909488724.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2904289179.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 美国 英国 / 剧情 科幻 惊悚 恐怖 / 迈克尔·萨诺斯基 / 露皮塔·尼永奥 约瑟夫·奎恩",
+      "title": "寂静之地：入侵日",
+      "type": "movie",
+      "id": "34996971",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "影片讲述了刚步入青春期的小女孩莱莉脑海中的复杂情绪进行的一场奇妙冒险。在她的大脑总部，正经历着一场突如其来的大拆迁，为意想不到的新情绪腾出空间。一直以来配合默契的情绪小伙伴乐乐（艾米·波勒 Amy Poehler 配音）、忧忧（菲利丝·史密斯 Phyllis Smith 配音）、怒怒（刘易斯·布莱克 Lewis Black 配音）、怕怕（托尼·海尔 Tony Hale 配音）和厌厌（莉萨·拉皮拉 Liza Lapira 配音），在新情绪焦焦的突然到来时变得不知所措，并且她看起来不是孤身一人。",
+      "rating": {
+        "count": 195715,
+        "max": 10,
+        "star_count": 4.5,
+        "value": 8.5
+      },
+      "lineticket_url": "douban://douban.com/movie/36090457/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2907600518.webp",
+        "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2907600518.webp"
+      },
+      "honor_infos": [
+        {
+          "kind": "movie",
+          "uri": "douban://douban.com/subject_collection/ECWQ57XIY?type=rank&category=movie&rank_type=year",
+          "rank": 9,
+          "title": "豆瓣2024最值得期待外语电影"
+        }
+      ],
+      "uri": "douban://douban.com/movie/36090457",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2909618825.webp",
+        "https://img2.doubanio.com/view/photo/m/public/p2909418571.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2907640880.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2909418237.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 美国 / 剧情 喜剧 动画 奇幻 冒险 / 凯尔西·曼 / 艾米·波勒 玛雅·霍克",
+      "title": "头脑特工队2",
+      "type": "movie",
+      "id": "36090457",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "“天才”在被发现后开始塑造其轮廓。此时，天才前锋凪诚士郎的自我正征服世界！！
+      把
+      “
+      好麻烦
+      ”
+      挂在嘴边的高二学生凪诚士郎
+      ，
+      整天过着百无聊赖的日子
+      ，
+      直到梦想成为世界杯冠军的同校同学御影玲王发现了他的天赋
+      。
+      在玲王的邀请下开始踢足球的凪
+      ，
+      发挥出了超乎想象的足球天赋
+      。
+      某日
+      ，
+      他收到了
+      “
+      蓝色禁区
+      ”
+      计划的邀请函
+      ，
+      等待他的是与洁世一
+      、
+      蜂乐回
+      、
+      糸师凛这些从全国各地精挑细选出来的前锋们的集结
+      。
+      强强激战中
+      ，
+      最终
+      ，
+      天才凪诚士郎迎来
+      “
+      觉醒
+      ”
+      时刻
+      ！
+      ",
+      "rating": {
+        "count": 3797,
+        "max": 10,
+        "star_count": 4,
+        "value": 7.5
+      },
+      "lineticket_url": "douban://douban.com/movie/36330215/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2909861298.webp",
+        "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2909861298.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/36330215",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2910527675.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2910527674.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910527673.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909862874.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 日本 / 动画 运动 / 石川俊介 / 岛崎信长 内田雄马",
+      "title": "蓝色禁区：凪",
+      "type": "movie",
+      "id": "36330215",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "影片改编自历史上首位横渡英吉利海峡女泳者的真实传奇经历。无惧时代禁锢和社会偏见，特鲁迪·埃德尔（黛西·雷德利 Daisy Ridley 饰）破纪录跨越34公里天堑，直面惊涛骇浪，克服水母刺蜇……任何质疑和危险都无法阻挡一颗勇敢的心。",
+      "rating": {
+        "count": 67190,
+        "max": 10,
+        "star_count": 4.5,
+        "value": 9.1
+      },
+      "lineticket_url": "douban://douban.com/movie/26656728/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2910815887.webp",
+        "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2910815887.webp"
+      },
+      "honor_infos": [
+        {
+          "kind": "movie",
+          "uri": "douban://douban.com/subject_collection/movie_weekly_best?type=rank&category=movie&rank_type=weekly",
+          "rank": 1,
+          "title": "一周口碑电影榜"
+        }
+      ],
+      "uri": "douban://douban.com/movie/26656728",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2908568716.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2908568732.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2908568733.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2908568713.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 美国 / 剧情 传记 运动 / 乔阿吉姆·罗恩尼 / 黛西·雷德利 蒂尔达·格哈姆-哈维",
+      "title": "泳者之心",
+      "type": "movie",
+      "id": "26656728",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "7年级的“校园神探”相里思奇（林子烨 饰）为了帮助伽伊（裴佳欣 饰）找回不翼而飞的科技作品，磨砺以须，逐一排查。除了拥有不在场证明的阿儒（洪悦熙 饰），楠楠（于书瑶 饰）、小白（郭赫轩 饰）、小萌（陈芷琰 饰）、大东（庄则熙 饰）、小东（金遥源 饰）、张天天（张轶程 饰)、王小真（臻臻 饰）、伊伊（一一 饰）、娅娅（丫丫 饰）谁最可疑？谁是卧底？科学迷案、爆笑连连，数次反转，没有反派的谜底，只有温暖的真相！",
+      "rating": {
+        "count": 0,
+        "max": 10,
+        "star_count": 0,
+        "value": 0
+      },
+      "lineticket_url": "douban://douban.com/movie/36906533/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2911180244.webp",
+        "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2911180244.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/36906533",
+      "photos": [
+        "https://img1.doubanio.com/view/photo/m/public/p2910955658.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910955657.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2910955654.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910955653.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 喜剧 悬疑 儿童 / 于飞 / 林子烨 洪悦熙",
+      "title": "校园神探",
+      "type": "movie",
+      "id": "36906533",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "影片制作团队历时1904天，探访了全球六大洲的43个国家和地区，通过轻型无人机、高速摄影机和远程深海潜水器等先进的拍摄设备，探索地球上众多令人称奇的栖息地，呈现自然界最壮丽恢弘的奇观与野生动物不可思议的生存传奇，揭示大自然发生的惊人变化及深远影响。",
+      "rating": {
+        "count": 0,
+        "max": 10,
+        "star_count": 0,
+        "value": 0
+      },
+      "lineticket_url": "douban://douban.com/movie/36950178/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2910806080.webp",
+        "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910806080.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/36950178",
+      "photos": [
+        "https://img1.doubanio.com/view/photo/m/public/p2910720839.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910811319.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2911079848.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910811322.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 英国 / 纪录片 / 阿比盖尔·利斯 / 刘琮",
+      "title": "地球脉动：极境生存",
+      "type": "movie",
+      "id": "36950178",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "前世情缘，梦中寻觅。家国太平，英雄铸成！影片是《神话》的姊妹篇，讲述房教授（成龙 饰）在考古时挖掘出神秘的萨满古玉，它引领着房教授和助手王靖（张艺兴 饰）梦回西汉，化身骁勇善战的汉军将领，征战于无垠的河西草原，率骑兵抗击匈奴守护家国，并与匈奴公主梦云（娜扎 饰）展开一段跨越千年的前世情缘。为寻真相，房教授和助手邀请好友雷振（李晨 饰）深入万年冰川中找寻祭天圣地，欲揭开这段不为人知、横跨千古的传奇故事，却遭萨满专家赫伯尔（李治廷 饰）的阻挠……",
+      "rating": {
+        "count": 21821,
+        "max": 10,
+        "star_count": 2.5,
+        "value": 5.1
+      },
+      "lineticket_url": "douban://douban.com/movie/36207284/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2910411311.webp",
+        "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2910411311.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/36207284",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2896107765.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909031135.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910148503.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909031145.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 中国香港 / 剧情 动作 奇幻 冒险 / 唐季礼 / 成龙 张艺兴",
+      "title": "传说",
+      "type": "movie",
+      "id": "36207284",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "一种神奇宝石维护着世界的稳定和平，当一股神秘力量正蠢蠢欲动，危机四处蔓延。众羊狼与新伙伴再踏上守护世界的征途，争分夺秒与神秘势力的阴谋赛跑，并在一次次的冒险与闯关中共同成长，最终明白了守护的意义。",
+      "rating": {
+        "count": 0,
+        "max": 10,
+        "star_count": 0,
+        "value": 0
+      },
+      "lineticket_url": "douban://douban.com/movie/36566017/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2909943008.webp",
+        "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2909943008.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/36566017",
+      "photos": [
+        "https://img9.doubanio.com/view/photo/m/public/p2910685556.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2908607232.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910685548.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2910685546.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 动画 / 黄俊铭 陈力进 / 祖晴 张琳",
+      "title": "喜羊羊与灰太狼之守护",
+      "type": "movie",
+      "id": "36566017",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "上古时期，神工与鬼斧合力将祸害人间的海域统领蛟魔王囚禁于江海交汇处。为束缚住强大的蛟魔王，鬼斧牺牲肉身化作元神，注入神工所打造的用于囚禁蛟魔王的法器中。封神大战结束，墨麒麟和小蛟龙屡次触碰囚禁法器企图释放蛟魔王。于是在姜子牙的推荐下，玉帝决定启用曾经的战神二郎神来执行缉拿墨麒麟的任务。可在捉拿的过程中，二郎神却陷入了一场巨大的惊天阴谋中。",
+      "rating": {
+        "count": 0,
+        "max": 10,
+        "star_count": 0,
+        "value": 0
+      },
+      "lineticket_url": "douban://douban.com/movie/34929906/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2909903400.webp",
+        "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2909903400.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/34929906",
+      "photos": [
+        "https://img3.doubanio.com/view/photo/m/public/p2909905593.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2909905597.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909905596.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2909905595.webp"
+      ],
+      "vendor_icons": [
+        "https://img3.doubanio.com/f/frodo/0007fb12821ec88eedf33b5c9188a057b27a6191/pics/vendors/youku.png"
+      ],
+      "interest": null,
+      "year": "2024",
+      "card_subtitle": "2024 / 中国大陆 / 动画 / 王君 / 齐克建 陶洪泽",
+      "title": "二郎神之深海蛟龙",
+      "type": "movie",
+      "id": "34929906",
+      "tags": [
+      ]
+    },
+    {
+      "comment": "一只孤独的小狗遇到了一个机器人，偌大的城市中，他们互相依靠，温暖彼此。然而一次意外让小狗和机器人遗憾错过，从此他们只能把对彼此的想念藏进梦中。只是，反复梦见的人，还会重逢吗？
+      影片改编自Sara
+      Varon的漫画
+      。
+      ",
+      "rating": {
+        "count": 186761,
+        "max": 10,
+        "star_count": 4.5,
+        "value": 9
+      },
+      "lineticket_url": "douban://douban.com/movie/35426925/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2904305126.webp",
+        "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2904305126.webp"
+      },
+      "honor_infos": [
+        {
+          "kind": "movie",
+          "uri": "douban://douban.com/subject_collection/ECVI6KOXI?type=rank&category=movie&rank_type=award_movie",
+          "rank": null,
+          "title": "第96届奥斯卡金像奖提名名单"
+        }
+      ],
+      "uri": "douban://douban.com/movie/35426925",
+      "photos": [
+        "https://img3.doubanio.com/view/photo/m/public/p2891687307.webp",
+        "https://img9.doubanio.com/view/photo/m/public/p2891687305.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2891687303.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2909106888.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2023",
+      "card_subtitle": "2023 / 西班牙 法国 / 剧情 动画 音乐 / 巴勃罗·贝格尔 / 伊万·拉班达 阿尔伯特·特里佛·塞加拉",
+      "title": "机器人之梦",
+      "type": "movie",
+      "id": "35426925",
+      "tags": [
+        {
+          "name": "动画",
+          "uri": "douban://douban.com/movie/recommend_tag?type=tags&tag=动画"
+        },
+        {
+          "name": "温情",
+          "uri": "douban://douban.com/movie/recommend_tag?type=tags&tag=温情"
+        },
+        {
+          "name": "音乐",
+          "uri": "douban://douban.com/movie/recommend_tag?type=tags&tag=音乐"
+        },
+        {
+          "name": "科幻",
+          "uri": "douban://douban.com/movie/recommend_tag?type=tags&tag=科幻"
+        }
+      ]
+    },
+    {
+      "comment": "改编自儒勒·凡尔纳的经典科幻小说《八十天环游地球》。
+      影片讲述
+      “
+      妈宝男
+      ”
+      长尾猴与
+      “
+      社会哥
+      ”
+      青蛙组成了不可思议的探险二人组
+      ，
+      为了赢得1000万个蛤蜊的赌约
+      ，
+      想尽一切办法在80天内环游地球的爆笑冒险故事
+      。
+      ",
+      "rating": {
+        "count": 0,
+        "max": 10,
+        "star_count": 0,
+        "value": 0
+      },
+      "lineticket_url": "douban://douban.com/movie/34812010/ticket",
+      "has_linewatch": false,
+      "pic": {
+        "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2910766858.webp",
+        "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2910766858.webp"
+      },
+      "honor_infos": [
+      ],
+      "uri": "douban://douban.com/movie/34812010",
+      "photos": [
+        "https://img1.doubanio.com/view/photo/m/public/p2910833008.webp",
+        "https://img3.doubanio.com/view/photo/m/public/p2910833007.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910832999.webp",
+        "https://img1.doubanio.com/view/photo/m/public/p2910832998.webp"
+      ],
+      "vendor_icons": [
+      ],
+      "interest": null,
+      "year": "2021",
+      "card_subtitle": "2021 / 法国 比利时 / 喜剧 动画 冒险 / 萨缪尔·陶雷克斯 /  朱利安·克朗蓬",
+      "title": "八十天环游地球",
+      "type": "movie",
+      "id": "34812010",
+      "tags": [
+      ]
+    }
+  ]
+}

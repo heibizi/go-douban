@@ -1,0 +1,575 @@
+{
+  "count": 20,
+  "items": [
+    {
+      "type_name": "豆列",
+      "layout": "doulist_cards",
+      "target": {
+        "doulists": [
+          {
+            "title": "高分经典历史片榜",
+            "is_badge_chart": true,
+            "uri": "douban://douban.com/subject_collection/film_genre_44?type=rank&category=movie&rank_type=film_genre",
+            "cover_url": "https://qnmob3.doubanio.com/img/files/file-1597204491.png?imageView2/0/q/80/w/9999/h/120/format/webp",
+            "target_type": "ranklist",
+            "card_subtitle": "48052人关注",
+            "is_official": false,
+            "id": "film_genre_44",
+            "image_label": "片单"
+          },
+          {
+            "title": "克里斯托弗·诺兰主要导演电影",
+            "is_badge_chart": false,
+            "uri": "douban://douban.com/subject_collection/ECVEEBZ4I?type=rank&category=movie&rank_type=D1",
+            "cover_url": "https://qnmob3.doubanio.com/dae/merged_cover/img_handler/chart_cover/round_rec/ECVEEBZ4I?imageView2/0/q/80/w/9999/h/120/format/webp",
+            "target_type": "collection",
+            "card_subtitle": "32230人关注",
+            "is_official": true,
+            "id": "ECVEEBZ4I",
+            "image_label": "片单"
+          },
+          {
+            "title": "高分经典战争片榜",
+            "is_badge_chart": false,
+            "uri": "douban://douban.com/subject_collection/film_genre_45?type=rank&category=movie&rank_type=film_genre",
+            "cover_url": "https://qnmob3.doubanio.com/dae/screenshot/image/v2/html/cos_c51eef47ecf5cacc/profile/chart_cover_url?imageView2/0/q/80/w/9999/h/120/format/webp",
+            "target_type": "ranklist",
+            "card_subtitle": "17523人关注",
+            "is_official": false,
+            "id": "film_genre_45",
+            "image_label": "片单"
+          },
+          {
+            "title": "高分二战电影榜",
+            "is_badge_chart": false,
+            "uri": "douban://douban.com/subject_collection/ECCYPOAMI?type=rank&category=movie&rank_type=film_genre",
+            "cover_url": "https://qnmob3.doubanio.com/dae/merged_cover/img_handler/chart_cover/round_rec/ECCYPOAMI?imageView2/0/q/80/w/9999/h/120/format/webp",
+            "target_type": "ranklist",
+            "card_subtitle": "21493人关注",
+            "is_official": false,
+            "id": "ECCYPOAMI",
+            "image_label": "片单"
+          },
+          {
+            "title": "2017评分最高外语电影",
+            "is_badge_chart": false,
+            "uri": "douban://douban.com/subject_collection/2017_movie_foreign_score?type=rank&category=movie&rank_type=year",
+            "cover_url": "https://qnmob3.doubanio.com/dae/screenshot/image/v2/html/cos_ff671166fb073e7b/profile/chart_cover_url?imageView2/0/q/80/w/9999/h/120/format/webp",
+            "target_type": "ranklist",
+            "card_subtitle": "2300人关注",
+            "is_official": false,
+            "id": "2017_movie_foreign_score",
+            "image_label": "片单"
+          },
+          {
+            "title": "欧洲历史片榜",
+            "is_badge_chart": false,
+            "uri": "douban://douban.com/subject_collection/ECIAOE4OY?type=rank&category=movie&rank_type=film_genre",
+            "cover_url": "https://qnmob3.doubanio.com/dae/merged_cover/img_handler/chart_cover/round_rec/ECIAOE4OY?imageView2/0/q/80/w/9999/h/120/format/webp",
+            "target_type": "ranklist",
+            "card_subtitle": "4305人关注",
+            "is_official": false,
+            "id": "ECIAOE4OY",
+            "image_label": "片单"
+          }
+        ]
+      },
+      "target_type": "doulist_cards"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "26607693",
+      "target": {
+        "rating": {
+          "count": 743810,
+          "max": 10,
+          "star_count": 4,
+          "value": 8.4
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克",
+        "abstract": "",
+        "has_linewatch": true,
+        "uri": "douban://douban.com/movie/26607693",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2494950714.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "2017",
+        "card_subtitle": "英国 法国 美国 荷兰 / 剧情 历史 战争 / 克里斯托弗·诺兰 / 菲恩·怀特海德 汤姆·格林-卡尼",
+        "id": "26607693",
+        "null_rating_reason": ""
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "27104189",
+      "target": {
+        "rating": {
+          "count": 3457,
+          "max": 10,
+          "star_count": 1.5,
+          "value": 3
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克行动",
+        "abstract": "",
+        "has_linewatch": true,
+        "uri": "douban://douban.com/movie/27104189",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2495025258.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "2017",
+        "card_subtitle": "美国 / 动作 历史 战争 / 尼克·里昂 / 伊弗兰·梅勒蒂斯 金伯利·休斯",
+        "id": "27104189",
+        "null_rating_reason": ""
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "27113210",
+      "target": {
+        "rating": {
+          "count": 530,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.5
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克",
+        "abstract": "",
+        "uri": "douban://douban.com/book/27113210",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s29520980.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "[英] 约书亚·莱文 / 2017 / 重庆出版社",
+        "id": "27113210",
+        "null_rating_reason": ""
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "4301040",
+      "target": {
+        "rating": {
+          "count": 233,
+          "max": 10,
+          "star_count": 4,
+          "value": 7.9
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克",
+        "abstract": "",
+        "has_linewatch": false,
+        "uri": "douban://douban.com/movie/4301040",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2404631016.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "1958",
+        "card_subtitle": "英国 / 剧情 历史 战争 / Leslie Norman / 约翰·米尔斯 Robert Urquhart",
+        "id": "4301040",
+        "null_rating_reason": ""
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "1437417",
+      "target": {
+        "rating": {
+          "count": 577,
+          "max": 10,
+          "star_count": 4,
+          "value": 7.9
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克大撤退",
+        "abstract": "",
+        "has_linewatch": false,
+        "uri": "douban://douban.com/movie/1437417",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2384691676.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "2004",
+        "card_subtitle": "英国 / 剧情 纪录片 历史 / 无 / 提摩西·道尔顿 西蒙·拉塞尔·比尔",
+        "id": "1437417",
+        "null_rating_reason": ""
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "27113803",
+      "target": {
+        "rating": {
+          "count": 405,
+          "max": 10,
+          "star_count": 4,
+          "value": 7.6
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克",
+        "abstract": "电影原著同名小说",
+        "uri": "douban://douban.com/book/27113803",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s29517950.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "[美]沃尔特·劳德 / 2017 / 百花洲文艺出版社",
+        "id": "27113803",
+        "null_rating_reason": ""
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "30286054",
+      "target": {
+        "rating": {
+          "count": 206,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.5
+        },
+        "controversy_reason": "",
+        "title": "《敦刻尔克》制作纪录",
+        "abstract": "",
+        "has_linewatch": false,
+        "uri": "douban://douban.com/movie/30286054",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2573664018.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "2017",
+        "card_subtitle": "美国 / 纪录片 / 汤姆·哈迪 基里安·墨菲",
+        "id": "30286054",
+        "null_rating_reason": ""
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "35284017",
+      "target": {
+        "rating": {
+          "count": 20,
+          "max": 10,
+          "star_count": 4,
+          "value": 7.9
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克大撤退",
+        "abstract": "",
+        "uri": "douban://douban.com/book/35284017",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s33779933.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "2020 / 中国画报出版社",
+        "id": "35284017",
+        "null_rating_reason": ""
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "35972936",
+      "target": {
+        "rating": {
+          "count": 11,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.6
+        },
+        "controversy_reason": "",
+        "title": "丘吉尔的敦刻尔克",
+        "abstract": "",
+        "uri": "douban://douban.com/book/35972936",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s34594773.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "[英]迈克尔·柯尔达 / 2022 / 文汇出版社",
+        "id": "35972936",
+        "null_rating_reason": ""
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "27084727",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克的奇迹",
+        "abstract": "",
+        "uri": "douban://douban.com/book/27084727",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s29494168.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "[美]沃尔特·洛德 / 1991 / 上海译文出版社",
+        "id": "27084727",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "26980838",
+      "target": {
+        "rating": {
+          "count": 17,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 6.8
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克大撤退",
+        "abstract": "",
+        "uri": "douban://douban.com/book/26980838",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s29360946.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "刘桓 / 2013 / 哈尔滨出版社",
+        "id": "26980838",
+        "null_rating_reason": ""
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "1295860",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "碧血长天",
+        "abstract": "",
+        "has_linewatch": false,
+        "uri": "douban://douban.com/movie/1295860",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2553030788.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "1964",
+        "card_subtitle": "法国 意大利 / 剧情 战争 / 亨利·韦纳伊 / 让-保罗·贝尔蒙多 凯瑟琳·斯巴克",
+        "id": "1295860",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "25963889",
+      "target": {
+        "rating": {
+          "count": 27,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.6
+        },
+        "controversy_reason": "",
+        "title": "奇迹般的撤退",
+        "abstract": "敦刻尔克战役",
+        "uri": "douban://douban.com/book/25963889",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s27426986.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "常子仪 / 2014 / 武汉大学出版社",
+        "id": "25963889",
+        "null_rating_reason": ""
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "1565965",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克大撤退",
+        "abstract": "",
+        "uri": "douban://douban.com/book/1565965",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s4679205.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "/ 1900 / 九州出版社",
+        "id": "1565965",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "35165223",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "身陷敌后：奔向敦刻尔克",
+        "abstract": "",
+        "has_linewatch": false,
+        "uri": "douban://douban.com/movie/35165223",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2616103555.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "2020",
+        "card_subtitle": "英国 / 战争 / 本·摩尔 / 萨姆·吉斯 乔·伊根",
+        "id": "35165223",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "音乐",
+      "target_id": "27071285",
+      "target": {
+        "rating": {
+          "count": 1909,
+          "max": 10,
+          "star_count": 4,
+          "value": 8.2
+        },
+        "controversy_reason": "",
+        "title": "Dunkirk",
+        "abstract": "",
+        "uri": "douban://douban.com/music/27071285",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/s/public/s29531249.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "is_playable": false,
+        "card_subtitle": "Hans Zimmer / 2017",
+        "id": "27071285",
+        "null_rating_reason": ""
+      },
+      "target_type": "music"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "6507895",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克：为法国而战",
+        "abstract": "",
+        "has_linewatch": false,
+        "uri": "douban://douban.com/movie/6507895",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2492967743.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "1989",
+        "card_subtitle": "英国 / 纪录片 / Michael Campbell",
+        "id": "6507895",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电影",
+      "target_id": "27080649",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "敦刻尔克：新证据",
+        "abstract": "",
+        "has_linewatch": false,
+        "uri": "douban://douban.com/movie/27080649",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2498712647.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "2017",
+        "card_subtitle": "英国 / 纪录片",
+        "id": "27080649",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "movie"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "30762219",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "直击二战：最伟大的救援.敦刻尔克大撤退",
+        "abstract": "敦刻尔克大撤退",
+        "uri": "douban://douban.com/book/30762219",
+        "cover_url": "https://qnmob3.doubanio.com/view/subject/m/public/s33536110.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "兵人 / 2016 / 哈尔滨出版社",
+        "id": "30762219",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "图书",
+      "target_id": "30433735",
+      "target": {
+        "rating": {
+          "count": 0,
+          "max": 10,
+          "star_count": 0,
+          "value": 0
+        },
+        "controversy_reason": "",
+        "title": "军事集结号──别了，敦刻尔克",
+        "abstract": "",
+        "uri": "douban://douban.com/book/30433735",
+        "cover_url": "https://qnmob3.doubanio.com/f/frodo/b9c30c34e0a0c4697919a65783703492eaf8b674/pics/subject/book_normal.png?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "has_ebook": false,
+        "card_subtitle": "李茗茗 总编辑 / 2012 / 青岛出版社",
+        "id": "30433735",
+        "null_rating_reason": "暂无评分"
+      },
+      "target_type": "book"
+    },
+    {
+      "layout": "subject",
+      "type_name": "电视剧",
+      "target_id": "25812420",
+      "target": {
+        "rating": {
+          "count": 223147,
+          "max": 10,
+          "star_count": 3.5,
+          "value": 7.4
+        },
+        "controversy_reason": "",
+        "title": "花千骨",
+        "abstract": "",
+        "has_linewatch": true,
+        "uri": "douban://douban.com/tv/25812420",
+        "cover_url": "https://qnmob3.doubanio.com/view/photo/s_ratio_poster/public/p2266262929.jpg?imageView2/0/q/80/w/9999/h/120/format/webp",
+        "year": "2015",
+        "card_subtitle": "中国大陆 / 剧情 爱情 奇幻 古装 / 林玉芬 高林豹 梁胜权 / 霍建华 赵丽颖",
+        "id": "25812420",
+        "null_rating_reason": ""
+      },
+      "target_type": "tv"
+    }
+  ],
+  "total": 34,
+  "start": 0
+}
