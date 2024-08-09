@@ -4,8 +4,8 @@ import "encoding/xml"
 
 type (
 	MediaType struct {
-		Code string
-		Name string
+		Code string `json:"code"`
+		Name string `json:"name"`
 	}
 	SearchSubjectsType struct {
 		MediaType MediaType
